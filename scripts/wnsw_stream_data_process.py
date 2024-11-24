@@ -68,7 +68,7 @@ def main():
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     
     # URL of the XML data
-    url = "https://realtimedata.waternsw.com.au/wgen/sites.rs.anon.xml"
+    url = "https://realtimedata.waternsw.com.au/wgen/sites.rs.anon.xml?1732452028107"
     
     try:
         # Fetch the XML data using curl
