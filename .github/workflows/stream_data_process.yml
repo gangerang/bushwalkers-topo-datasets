@@ -33,6 +33,9 @@ jobs:
           STATION_URL: "http://reg.bom.gov.au/catalogue/rain_river_station_list.csv"
         run: python scripts/bom_stream_data_process.py
 
+      - name: Test WNSW Network Access
+        run: curl -I https://realtimedata.waternsw.com.au/wgen/sites.rs.anon.xml
+     
       - name: Run WaterNSW Processing Script
         run: python scripts/wnsw_stream_data_process.py
 
