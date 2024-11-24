@@ -10,8 +10,12 @@ output_file = "datasets/stream_height_data.gpkg"
 # URL of the XML data
 url = "https://realtimedata.waternsw.com.au/wgen/sites.rs.anon.xml"
 
-# Fetch the XML data
-response = requests.get(url)
+# Fetch the XML data with headers
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
+
+response = requests.get(url, headers=headers)
 response.raise_for_status()  # Raise an error if the request fails
 xml_data = response.content
 
