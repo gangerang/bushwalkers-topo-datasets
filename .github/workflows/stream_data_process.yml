@@ -24,7 +24,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas geopandas requests
+          pip install pandas geopandas requests shapely 
 
       - name: Run BOM Processing Script
         env:
