@@ -62,7 +62,7 @@ def format_datetime(raw_datetime):
 
 def main():
     # Output file path in the datasets folder
-    output_file = "datasets/stream_height_data.gpkg"
+    output_file = "datasets/wnsw_stream_height_data.gpkg"
     
     # Ensure output directory exists
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
