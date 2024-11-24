@@ -7,9 +7,9 @@ from pathlib import Path
 import sys
 
 def download_xml(url):
-    """Download XML data using curl"""
+    """Download XML data using curl with enhanced headers"""
     try:
-        # Construct curl command
+        # Construct curl command with expanded headers
         cmd = [
             'curl',
             '--fail',
@@ -18,7 +18,17 @@ def download_xml(url):
             '--location',
             '--retry', '3',
             '--retry-delay', '2',
-            '-H', 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            '-H', 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36',
+            '-H', 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            '-H', 'Accept-Language: en-US,en;q=0.9',
+            '-H', 'Accept-Encoding: gzip, deflate, br',
+            '-H', 'Connection: keep-alive',
+            '-H', 'Upgrade-Insecure-Requests: 1',
+            '-H', 'Sec-Fetch-Dest: document',
+            '-H', 'Sec-Fetch-Mode: navigate',
+            '-H', 'Sec-Fetch-Site: none',
+            '-H', 'Sec-Fetch-User: ?1',
+            '--compressed',  # Handle gzip encoding
             url
         ]
         
@@ -32,13 +42,16 @@ def download_xml(url):
         return result.stdout
         
     except subprocess.CalledProcessError as e:
-        print(f"Curl command failed with error: {e.stderr.decode()}", file=sys.stderr)
+        print(f"Curl command failed. Status code: {e.returncode}")
+        print(f"Stderr: {e.stderr.decode()}")
+        print(f"Stdout: {e.stdout.decode()}")
+        # Print the exact curl command for debugging
+        print("Curl command:", ' '.join(cmd))
         raise
     except Exception as e:
-        print(f"Download failed with error: {str(e)}", file=sys.stderr)
+        print(f"Download failed with error: {str(e)}")
         raise
 
-# Function to format datetime
 def format_datetime(raw_datetime):
     if raw_datetime:
         try:
@@ -93,10 +106,10 @@ def main():
         print(f"GeoPackage saved to {output_file}")
         
     except ET.ParseError as e:
-        print(f"Failed to parse XML data: {e}", file=sys.stderr)
+        print(f"Failed to parse XML data: {e}")
         raise
     except Exception as e:
-        print(f"An error occurred: {e}", file=sys.stderr)
+        print(f"An error occurred: {e}")
         raise
 
 if __name__ == "__main__":
