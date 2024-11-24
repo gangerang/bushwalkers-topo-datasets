@@ -26,12 +26,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas geopandas requests
 
-      - name: Run Data Processing Script
+      - name: Run BOM Processing Script
         env:
           FTP_HOST: "ftp.bom.gov.au"
           FTP_DIRECTORY: "/anon/gen/fwo/"
           STATION_URL: "http://reg.bom.gov.au/catalogue/rain_river_station_list.csv"
-        run: python scripts/stream_data_process.py
+        run: python scripts/bom_stream_data_process.py
+
+      - name: Run WaterNSW Processing Script
+        run: python scripts/wnsw_stream_data_process.py
 
       - name: Configure Git
         run: |
