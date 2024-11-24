@@ -27,7 +27,7 @@ height_file_header = [
 ]
 
 # Station file details
-station_file_path = os.path.join(local_directory, 'rain_river_station_list.csv')
+station_file_path = os.path.join(local_directory, 'bom_rain_river_station_list.csv')
 station_url = os.getenv("STATION_URL")
 
 
