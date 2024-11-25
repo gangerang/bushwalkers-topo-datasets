@@ -1,0 +1,43 @@
+name: Crown road sales data processing workflow
+
+on:
+  schedule:
+    - cron: '0 6 * * 0-6'  # Runs every day at 6am
+  workflow_dispatch:  # Allows for manual triggering
+
+jobs:
+  data_processing_job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          # Fetch all history for the branch to allow commits
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas geopandas requests hashlib
+
+      - name: Run crown road sales processing script
+        run: python scripts/crown_road_sales_process.py
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push Changes
+        run: |
+          git add datasets
+          git commit -m "Publish daily crown road sales geojson files"
+          git push origin ${{ github.ref_name }}  # Push to the same branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
