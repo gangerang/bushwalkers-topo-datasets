@@ -62,7 +62,7 @@ def process_tsv_to_geojson(input_file):
     df.columns = clean_column_names(df.columns)
 
     # Drop specified fields
-    fields_to_drop = ["reviewed_by", "date", "comments"]
+    fields_to_drop = ["date", "comments"]
     df = df.drop(columns=fields_to_drop, errors="ignore")
 
     # Function to extract cluster, file_ref, and contact_email
@@ -92,6 +92,29 @@ def process_tsv_to_geojson(input_file):
     df[["cluster", "file_ref", "contact_email"]] = df["html"].apply(
         lambda html: pd.Series(extract_fields_from_html(html))
     )
+
+    # Function to extract the first list from the HTML and return it as plain text
+    def extract_description_from_html(html):
+        if pd.isna(html):
+            return None
+
+        # Find the first <ul>...</ul> block
+        list_match = re.search(r"<ul>(.*?)</ul>", html, re.DOTALL | re.IGNORECASE)
+        if not list_match:
+            return None  # Return None if no list is found
+
+        # Extract all list items (<li>...</li>) within the block
+        list_content = list_match.group(1)
+        items = re.findall(r"<li.*?>(.*?)</li>", list_content, re.DOTALL | re.IGNORECASE)
+
+        # Clean up each list item to remove HTML tags and trailing "&nbsp;"
+        clean_items = [re.sub(r"<.*?>", "", item).replace("&nbsp;", "").strip() for item in items]
+
+        # Join the items with semicolons
+        return "; ".join(clean_items)
+
+    # Apply the function to the 'html' column
+    df["description"] = df["html"].apply(extract_description_from_html)
 
     # Convert to GeoDataFrame
     gdf = gpd.GeoDataFrame(
