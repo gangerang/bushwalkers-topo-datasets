@@ -36,8 +36,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git add datasets
-          git commit -m "Publish daily crown road sales geojson files"
-          git push origin ${{ github.ref_name }}  # Push to the same branch
+          git add datasets || exit 0
+          git commit -m "Publish daily crown road sales geojson files" || exit 0
+          git push origin ${{ github.ref_name }}  # Push to the same branch || exit 0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
