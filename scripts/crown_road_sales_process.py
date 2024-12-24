@@ -141,19 +141,19 @@ def process_tsv_to_geojson(input_file):
 
 # Main script
 if __name__ == "__main__":
-    # Step 1: Download the file
+    # Step 1: Download the source file
     print("Downloading TSV file...")
     download_tsv(SOURCE_URL, LOCAL_FILE)
 
-    # Step 2: Check if the file has been updated
+    # Step 2: Check if the source file has been updated
     if is_file_updated(LOCAL_FILE, BACKUP_FILE):
-        print("File has been updated. Processing...")
-
-        # Process the file
-        process_tsv_to_geojson(LOCAL_FILE)
-
-        # Step 3: Save a copy of the new file as backup
-        os.replace(LOCAL_FILE, BACKUP_FILE)
+        print("Source file has been updated. Processing...")
     else:
-        print("File has not been updated. No further processing required.")
-        os.remove(LOCAL_FILE)
+        print("Source has not been updated.")
+
+    # Process the file regardless as some listings may have expired
+    process_tsv_to_geojson(LOCAL_FILE)
+
+    # Step 3: Save a copy of the new file as backup
+    os.replace(LOCAL_FILE, BACKUP_FILE)
+    
