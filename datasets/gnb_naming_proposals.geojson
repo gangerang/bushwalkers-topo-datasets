@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.832561,
+                    -31.069685
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "2ced2d0e-78d5-4bca-add8-207a6d7cd63c",
+                "geoname_identifier": "1f36dfa9-5e90-4872-9cce-f1cd44cda0ed",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/2ced2d0e-78d5-4bca-add8-207a6d7cd63c",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/1f36dfa9-5e90-4872-9cce-f1cd44cda0ed",
+                "geographical_name": "Terry Giddy Sports Complex",
+                "date_start": "2024-12-13",
+                "date_end": "2025-01-27",
+                "designation": "RESERVE"
+            }
+        }
+    ]
+}
