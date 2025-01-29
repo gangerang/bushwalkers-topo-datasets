@@ -2,7 +2,7 @@ name: Crown road sales data processing workflow
 
 on:
   schedule:
-    - cron: '0 6 * * 0-6'  # Runs every day at 6am
+    - cron: '0 15 * * 0-6'  # Runs every day at 1am AEST
   workflow_dispatch:  # Allows for manual triggering
 
 jobs:
