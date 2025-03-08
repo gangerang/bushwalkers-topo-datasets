@@ -31,9 +31,13 @@ def process_naming_records():
         if not geoname_id:
             continue
 
-        # Fetch geoname details
+        # Fetch geoname details with graceful error handling
         geoname_url = GEONAME_URL_TEMPLATE.format(geoname_id)
-        geoname_data = fetch_json(geoname_url)
+        try:
+            geoname_data = fetch_json(geoname_url)
+        except Exception as e:
+            print(f"Skipping record {geoname_id} due to error fetching geoname data: {e}")
+            continue
 
         # Extract required fields
         try:
