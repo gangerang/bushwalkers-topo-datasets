@@ -47,7 +47,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git add datasets
-          git commit -m "Update datasets with new data"
+          git commit -m "Update stream datasets files"
           git push origin ${{ github.ref_name }}  # Push to the same branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

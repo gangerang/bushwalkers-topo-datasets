@@ -37,7 +37,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git add datasets || exit 0
-          git commit -m "Publish daily gnb placename proposal geojson" || exit 0
+          git commit -m "Update gnb placename proposal geojson file" || exit 0
           git push origin ${{ github.ref_name }}  # Push to the same branch || exit 0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
