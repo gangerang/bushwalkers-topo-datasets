@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.51383,
+                    -32.812269
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "97fb3d00-f455-4cdd-8c39-61ae50360e41",
+                "geoname_identifier": "2b12b52d-737a-429b-a32e-546c3fe48075",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/97fb3d00-f455-4cdd-8c39-61ae50360e41",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/2b12b52d-737a-429b-a32e-546c3fe48075",
+                "geographical_name": "Averys Rise Park",
+                "date_start": "2025-04-04",
+                "date_end": "2025-05-04",
+                "designation": "RESERVE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.681035,
                     -34.051008
                 ]
