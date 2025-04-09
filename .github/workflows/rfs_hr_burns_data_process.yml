@@ -21,6 +21,11 @@ jobs:
         with:
           python-version: '3.9'
 
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests 
+
       - name: Run RFS hr burns geojson processing script
         run: python scripts/rfs_hr_burns_data_process.py
 
