@@ -1538,7 +1538,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Blue Mountains",
-        "supportingAgencies": "Private, Blue Mountains, Endeavour Energy, Department of Planning, Housing & Infrastructure - Crown Lands, WaterNSW, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "Blue Mountains, Endeavour Energy, Department of Planning, Housing & Infrastructure - Crown Lands, WaterNSW, NSW National Parks and Wildlife Service, Private",
         "size": "20.32 ha",
         "location": "BLAXLAND RD, WENTWORTH FALLS",
         "guarReference": "BA20250208000090",
@@ -9752,7 +9752,7 @@
       },
       "properties": {
         "leadAgency": "NSW National Parks and Wildlife Service",
-        "lga": "Hawkesbury, Blue Mountains",
+        "lga": "Blue Mountains, Hawkesbury",
         "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private",
         "size": "3775.68 ha",
         "location": "LINDEN RIDGE",
@@ -19078,7 +19078,7 @@
       "properties": {
         "leadAgency": "NSW National Parks and Wildlife Service",
         "lga": "Cessnock",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Private, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "54.16 ha",
         "location": "",
         "guarReference": "BA20250409000292",
@@ -19406,7 +19406,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Armidale",
-        "supportingAgencies": "Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "3.31 ha",
         "location": "THUNDERBOLTS CAVE",
         "guarReference": "BA20240829001076",
@@ -21293,7 +21293,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Armidale",
-        "supportingAgencies": "Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "0.79 ha",
         "location": "THUNDERBOLTS CAVE",
         "guarReference": "BA20240829001076",
@@ -21428,7 +21428,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Armidale",
-        "supportingAgencies": "Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "4.21 ha",
         "location": "THUNDERBOLTS CAVE",
         "guarReference": "BA20240829001076",
@@ -21523,7 +21523,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Armidale",
-        "supportingAgencies": "Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "5.65 ha",
         "location": "THUNDERBOLTS CAVE",
         "guarReference": "BA20240829001076",
@@ -38653,7 +38653,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Hilltops",
-        "supportingAgencies": "Transport for NSW, Hilltops, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Hilltops, Department of Planning, Housing & Infrastructure - Crown Lands, Transport for NSW",
         "size": "5.66 ha",
         "location": "",
         "guarReference": "BA20240506000544",
@@ -45540,9 +45540,9 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Cootamundra-Gundagai",
-        "supportingAgencies": "Transport for NSW, Private, Cootamundra-Gundagai, NSW Rural Fire Service - Mitigation, Australian Rail Track Corporation, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW",
+        "supportingAgencies": "Cootamundra-Gundagai, Australian Rail Track Corporation, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Transport for NSW, Private, NSW Rural Fire Service - Mitigation",
         "size": "84.16 ha",
-        "location": "",
+        "location": "PIONEER PARK - BACK BRAWLIN ROAD COOTAMUNDRA NSW",
         "guarReference": "BA20221011000775",
         "tenure": "Private, Local Govt, Crown Land",
         "startDate": "13/04/2025",
@@ -46262,7 +46262,7 @@
       "properties": {
         "leadAgency": "NSW National Parks and Wildlife Service",
         "lga": "Wingecarribee",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service, Private",
+        "supportingAgencies": "Private, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service",
         "size": "2734.87 ha",
         "location": "MOUNT LINDSEY",
         "guarReference": "BA-2020-01511",
@@ -46413,7 +46413,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Tamworth, Fire & Rescue NSW, Private",
+        "supportingAgencies": "Tamworth, Fire & Rescue NSW, Private, NSW Rural Fire Service - Mitigation",
         "size": "2.09 ha",
         "location": "MOUNTVIEW CRES",
         "guarReference": "BA20240530000656",
@@ -47848,7 +47848,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Warrumbungle",
-        "supportingAgencies": "Warrumbungle, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Warrumbungle, Local Land Services",
         "size": "6.3 ha",
         "location": "RUNDLE ST X PURLEWAUGH ROAD",
         "guarReference": "BA20240307000210",
@@ -47931,7 +47931,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Warrumbungle",
-        "supportingAgencies": "Warrumbungle, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Warrumbungle, Local Land Services",
         "size": "4.32 ha",
         "location": "RUNDLE ST X PURLEWAUGH ROAD",
         "guarReference": "BA20240307000210",
@@ -63431,7 +63431,7 @@
       "properties": {
         "leadAgency": "NSW National Parks and Wildlife Service",
         "lga": "Upper Lachlan",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Private, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "494.04 ha",
         "location": "JUNCTION CREEK",
         "guarReference": "BA20210914000388",
