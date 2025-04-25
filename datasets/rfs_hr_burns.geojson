@@ -31,7 +31,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Mid-Western",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Private",
+        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation",
         "size": "0 ha",
         "location": "NONE)",
         "guarReference": "BA20250408000289",
@@ -198,7 +198,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Mid-Western",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Private",
+        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation",
         "size": "2.98 ha",
         "location": "NONE)",
         "guarReference": "BA20250408000289",
@@ -2282,6 +2282,77 @@
         "tenure": "Private, National Park, Crown Land",
         "startDate": "28/04/2025",
         "endDate": "02/05/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                150.73151178608,
+                -33.716277540528
+              ],
+              [
+                150.73136694722,
+                -33.716170450103
+              ],
+              [
+                150.73042281044,
+                -33.715353879725
+              ],
+              [
+                150.7283575095,
+                -33.715050453491
+              ],
+              [
+                150.72853453353,
+                -33.715933957906
+              ],
+              [
+                150.73064275065,
+                -33.717205653068
+              ],
+              [
+                150.73070175941,
+                -33.717227964413
+              ],
+              [
+                150.73155470226,
+                -33.716737136097
+              ],
+              [
+                150.73212333007,
+                -33.716362320728
+              ],
+              [
+                150.73219843254,
+                -33.716174911924
+              ],
+              [
+                150.7316298036,
+                -33.71628200347
+              ],
+              [
+                150.73151178608,
+                -33.716277540528
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW National Parks and Wildlife Service",
+        "lga": "Penrith",
+        "supportingAgencies": "NSW Rural Fire Service, Fire & Rescue NSW",
+        "size": "4.15 ha",
+        "location": "WIANAMATTA CULTURAL BURN",
+        "guarReference": "BA-2020-01785",
+        "tenure": "National Park",
+        "startDate": "28/04/2025",
+        "endDate": "05/05/2025"
       }
     },
     {
@@ -6502,7 +6573,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Forbes",
-        "supportingAgencies": "Private, Forbes, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Forbes, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, Private",
         "size": "35.7 ha",
         "location": "WILSON'S RESERVE",
         "guarReference": "BA20230626000497",
@@ -6697,7 +6768,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Snowy Monaro",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Private, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "272.91 ha",
         "location": "12KM SOUTH EAST MICHELAGO",
         "guarReference": "BA20210908000328",
@@ -14489,7 +14560,7 @@
         "lga": "Bega Valley, Eurobodalla",
         "supportingAgencies": "",
         "size": "579.79 ha",
-        "location": "",
+        "location": "DIGNAMS LINK STAGE 2",
         "guarReference": "BA20250409000294",
         "tenure": "National Park",
         "startDate": "11/04/2025",
@@ -20028,7 +20099,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Blue Mountains",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service, Private, NSW Rural Fire Service - Mitigation, Blue Mountains",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service, Private",
         "size": "149.7 ha",
         "location": "FAULCONBRIDGE HELIPAD",
         "guarReference": "BA-2020-00951",
@@ -20334,7 +20405,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Armidale",
-        "supportingAgencies": "Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation, Armidale",
         "size": "3.31 ha",
         "location": "THUNDERBOLTS CAVE",
         "guarReference": "BA20240829001076",
@@ -22221,7 +22292,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Armidale",
-        "supportingAgencies": "Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation, Armidale",
         "size": "0.79 ha",
         "location": "THUNDERBOLTS CAVE",
         "guarReference": "BA20240829001076",
@@ -22356,7 +22427,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Armidale",
-        "supportingAgencies": "Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation, Armidale",
         "size": "4.21 ha",
         "location": "THUNDERBOLTS CAVE",
         "guarReference": "BA20240829001076",
@@ -22451,7 +22522,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Armidale",
-        "supportingAgencies": "Armidale, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation, Armidale",
         "size": "5.65 ha",
         "location": "THUNDERBOLTS CAVE",
         "guarReference": "BA20240829001076",
@@ -27554,7 +27625,7 @@
       },
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
-        "lga": "Bathurst, Lithgow",
+        "lga": "Lithgow, Bathurst",
         "supportingAgencies": "",
         "size": "170.03 ha",
         "location": "DAYLIGHT CREEK HRB",
