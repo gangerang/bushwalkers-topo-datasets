@@ -179,212 +179,6 @@
           [
             [
               [
-                149.72506406231,
-                -32.818180205164
-              ],
-              [
-                149.72508392892,
-                -32.81817657676
-              ],
-              [
-                149.72506496677,
-                -32.818181660981
-              ],
-              [
-                149.72506406231,
-                -32.818180205164
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Mid-Western",
-        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation",
-        "size": "0 ha",
-        "location": "NONE)",
-        "guarReference": "BA20250408000289",
-        "tenure": "Private",
-        "startDate": "24/04/2025",
-        "endDate": "26/04/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                149.72668931273,
-                -32.817802671987
-              ],
-              [
-                149.72683129145,
-                -32.818277294904
-              ],
-              [
-                149.72687775691,
-                -32.818407653377
-              ],
-              [
-                149.72697258788,
-                -32.818501112777
-              ],
-              [
-                149.72698316219,
-                -32.818614345563
-              ],
-              [
-                149.72696564999,
-                -32.81873417105
-              ],
-              [
-                149.72694014688,
-                -32.818824311127
-              ],
-              [
-                149.72692841096,
-                -32.818902205355
-              ],
-              [
-                149.72698864272,
-                -32.81902031566
-              ],
-              [
-                149.72705391281,
-                -32.819072623998
-              ],
-              [
-                149.72704217692,
-                -32.819150517081
-              ],
-              [
-                149.72675258625,
-                -32.819162873847
-              ],
-              [
-                149.72652715834,
-                -32.819191731372
-              ],
-              [
-                149.72630209922,
-                -32.819232522673
-              ],
-              [
-                149.72599167399,
-                -32.81925728035
-              ],
-              [
-                149.72562304735,
-                -32.819229573586
-              ],
-              [
-                149.72526259561,
-                -32.819237516025
-              ],
-              [
-                149.72509819462,
-                -32.819181418532
-              ],
-              [
-                149.72490496939,
-                -32.819108040053
-              ],
-              [
-                149.72457248109,
-                -32.818876488116
-              ],
-              [
-                149.72435885384,
-                -32.818600514619
-              ],
-              [
-                149.72424601923,
-                -32.818382038185
-              ],
-              [
-                149.72460222691,
-                -32.818236838172
-              ],
-              [
-                149.72478450971,
-                -32.818185047651
-              ],
-              [
-                149.72490115536,
-                -32.818069012074
-              ],
-              [
-                149.72502314839,
-                -32.818126042947
-              ],
-              [
-                149.72515853874,
-                -32.818158891583
-              ],
-              [
-                149.7253410055,
-                -32.818113068491
-              ],
-              [
-                149.72553017124,
-                -32.818055152882
-              ],
-              [
-                149.72571263755,
-                -32.818009328087
-              ],
-              [
-                149.72588822009,
-                -32.817969627043
-              ],
-              [
-                149.72607068607,
-                -32.817923802875
-              ],
-              [
-                149.72623864813,
-                -32.817866353492
-              ],
-              [
-                149.72642799726,
-                -32.817814404758
-              ],
-              [
-                149.72660972455,
-                -32.817744706801
-              ],
-              [
-                149.72668931273,
-                -32.817802671987
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Mid-Western",
-        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation",
-        "size": "2.98 ha",
-        "location": "NONE)",
-        "guarReference": "BA20250408000289",
-        "tenure": "Private",
-        "startDate": "24/04/2025",
-        "endDate": "26/04/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 150.85078041766,
                 -32.526346524879
               ],
@@ -2275,7 +2069,7 @@
       "properties": {
         "leadAgency": "NSW National Parks and Wildlife Service",
         "lga": "Singleton",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Private, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "1918.5 ha",
         "location": "SPRING CREEK",
         "guarReference": "BA20240531000665",
@@ -4460,101 +4254,6 @@
         "tenure": "National Park, Forestry",
         "startDate": "30/04/2025",
         "endDate": "04/05/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                150.79609042655,
-                -33.73150175763
-              ],
-              [
-                150.78878712374,
-                -33.725539829239
-              ],
-              [
-                150.78851762953,
-                -33.727803618466
-              ],
-              [
-                150.78778999416,
-                -33.729910457372
-              ],
-              [
-                150.78833796672,
-                -33.730119643045
-              ],
-              [
-                150.78982018655,
-                -33.731770707277
-              ],
-              [
-                150.79019747934,
-                -33.731748295087
-              ],
-              [
-                150.79035019306,
-                -33.731823003135
-              ],
-              [
-                150.79079935008,
-                -33.73228619214
-              ],
-              [
-                150.79091613057,
-                -33.732480431498
-              ],
-              [
-                150.79164376706,
-                -33.733048205495
-              ],
-              [
-                150.79187732916,
-                -33.733302208827
-              ],
-              [
-                150.79211987428,
-                -33.73345909304
-              ],
-              [
-                150.79239835152,
-                -33.733518858134
-              ],
-              [
-                150.79256903242,
-                -33.733989508531
-              ],
-              [
-                150.79254208221,
-                -33.734288331761
-              ],
-              [
-                150.79232648617,
-                -33.734983093979
-              ],
-              [
-                150.79609042655,
-                -33.73150175763
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW National Parks and Wildlife Service",
-        "lga": "Blacktown",
-        "supportingAgencies": "Fire & Rescue NSW, NSW Rural Fire Service",
-        "size": "33.35 ha",
-        "location": "PALMYRA",
-        "guarReference": "BA-2020-01729",
-        "tenure": "National Park",
-        "startDate": "19/04/2025",
-        "endDate": "26/04/2025"
       }
     },
     {
@@ -7302,7 +7001,7 @@
       "properties": {
         "leadAgency": "NSW National Parks and Wildlife Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Private, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private",
         "size": "19.85 ha",
         "location": "DAM",
         "guarReference": "BA20220811000535",
@@ -11556,7 +11255,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Blue Mountains, Lithgow",
-        "supportingAgencies": "Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private",
+        "supportingAgencies": "Private, Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW",
         "size": "69.7 ha",
         "location": "KENNY STREET, BEAUFORT STREET & KANIMBLA VALLEY ROAD, MOUNT VICTORIA",
         "guarReference": "BA20210913000369",
@@ -12068,7 +11767,7 @@
       "properties": {
         "leadAgency": "NSW National Parks and Wildlife Service",
         "lga": "Bega Valley",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Private, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "0 ha",
         "location": "SANDY CREEK SOUTH SAPPHIRE STAGE 2",
         "guarReference": "BA20250409000295",
@@ -13035,7 +12734,7 @@
       "properties": {
         "leadAgency": "NSW National Parks and Wildlife Service",
         "lga": "Bega Valley",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Private, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "120.99 ha",
         "location": "SANDY CREEK SOUTH SAPPHIRE STAGE 2",
         "guarReference": "BA20250409000295",
@@ -21579,7 +21278,7 @@
       },
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
-        "lga": "Lithgow, Bathurst",
+        "lga": "Bathurst, Lithgow",
         "supportingAgencies": "",
         "size": "170.03 ha",
         "location": "DAYLIGHT CREEK HRB",
@@ -21849,7 +21548,7 @@
       },
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
-        "lga": "Snowy Monaro, Glen Innes Severn, Hawkesbury",
+        "lga": "Glen Innes Severn, Hawkesbury, Snowy Monaro",
         "supportingAgencies": "",
         "size": "40.65 ha",
         "location": "BULLFLAT ROAD, BONDI STATE FOREST",
