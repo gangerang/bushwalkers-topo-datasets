@@ -26,6 +26,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.681035,
+                    -34.051008
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "bc7c05c5-5a9b-44fc-9fb6-b791ee806dc1",
+                "geoname_identifier": "b0ea7897-ee0c-4af5-91ee-768d2f969d6c",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/bc7c05c5-5a9b-44fc-9fb6-b791ee806dc1",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/b0ea7897-ee0c-4af5-91ee-768d2f969d6c",
+                "geographical_name": "Ferguson Reserve",
+                "date_start": "2025-05-16",
+                "date_end": "2025-06-15",
+                "designation": "RESERVE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.616868,
                     -28.641845
                 ]
