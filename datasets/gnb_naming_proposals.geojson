@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.557021,
-                    -28.543113
-                ]
-            },
-            "properties": {
-                "advertisement_identifier": "b49f7bac-7087-412e-ba7a-b431d5483fa3",
-                "geoname_identifier": "12ca4944-5599-4957-8f5f-0e08ad6a809c",
-                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/b49f7bac-7087-412e-ba7a-b431d5483fa3",
-                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/12ca4944-5599-4957-8f5f-0e08ad6a809c",
-                "geographical_name": "Brunswick Heads Beach",
-                "date_start": "2025-04-16",
-                "date_end": "2025-05-16",
-                "designation": "BEACH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.681035,
                     -34.051008
                 ]
@@ -46,26 +26,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.616868,
-                    -28.641845
-                ]
-            },
-            "properties": {
-                "advertisement_identifier": "1326b711-1389-499f-afe1-83b847b93c43",
-                "geoname_identifier": "a245affa-fd4d-41b5-ad3f-f660e28ce916",
-                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/1326b711-1389-499f-afe1-83b847b93c43",
-                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/a245affa-fd4d-41b5-ad3f-f660e28ce916",
-                "geographical_name": "Main Beach ",
-                "date_start": "2025-04-16",
-                "date_end": "2025-05-16",
-                "designation": "BEACH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.125271,
                     -33.888379
                 ]
@@ -79,26 +39,6 @@
                 "date_start": "2025-04-23",
                 "date_end": "2025-05-25",
                 "designation": "URBAN PLACE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.569858,
-                    -28.594442
-                ]
-            },
-            "properties": {
-                "advertisement_identifier": "910aa7a4-daa3-4ce6-b59d-042ec45c3149",
-                "geoname_identifier": "abcf5705-6b01-4d8a-a374-39418ee3e27d",
-                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/910aa7a4-daa3-4ce6-b59d-042ec45c3149",
-                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/abcf5705-6b01-4d8a-a374-39418ee3e27d",
-                "geographical_name": "Tyagarah Beach",
-                "date_start": "2025-04-16",
-                "date_end": "2025-05-16",
-                "designation": "BEACH"
             }
         }
     ]
