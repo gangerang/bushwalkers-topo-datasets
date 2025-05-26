@@ -20,26 +20,6 @@
                 "date_end": "2025-06-15",
                 "designation": "RESERVE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.125271,
-                    -33.888379
-                ]
-            },
-            "properties": {
-                "advertisement_identifier": "bc2b5149-185c-420a-baa0-ce933481cd61",
-                "geoname_identifier": "e9381d8b-73ed-44c4-8df3-e028c8641616",
-                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/bc2b5149-185c-420a-baa0-ce933481cd61",
-                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/e9381d8b-73ed-44c4-8df3-e028c8641616",
-                "geographical_name": "Quong Tart Plaza ",
-                "date_start": "2025-04-23",
-                "date_end": "2025-05-25",
-                "designation": "URBAN PLACE"
-            }
         }
     ]
 }
