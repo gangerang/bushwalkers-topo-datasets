@@ -1,8 +1,8 @@
 name: Streams height data processing workflow
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # Runs every hour at the top of the hour
+  # schedule:
+    # - cron: '0 * * * *'  # Runs every hour at the top of the hour
   workflow_dispatch:  # Allows for manual triggering
 
 jobs:
