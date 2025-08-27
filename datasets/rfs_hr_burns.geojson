@@ -9,6 +9,53 @@
           [
             [
               [
+                152.55734430192,
+                -28.905099321045
+              ],
+              [
+                152.56024108766,
+                -28.904742414783
+              ],
+              [
+                152.56114230989,
+                -28.904620314991
+              ],
+              [
+                152.56151781915,
+                -28.905728600146
+              ],
+              [
+                152.55748377679,
+                -28.906235777541
+              ],
+              [
+                152.55734430192,
+                -28.905099321045
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Kyogle",
+        "supportingAgencies": "Private",
+        "size": "4.89 ha",
+        "location": "RACECOURSE RD TABULAM NSW",
+        "guarReference": "BA20250827000931",
+        "tenure": "Private",
+        "startDate": "30/08/2025",
+        "endDate": "30/08/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
                 152.71316260595,
                 -29.52975739349
               ],
