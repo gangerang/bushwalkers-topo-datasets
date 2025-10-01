@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.200263,
+                    -33.897566
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "0d79c3cf-7675-4d5c-a53d-b6cdea08fee6",
+                "geoname_identifier": "bea81f05-449b-431b-9157-6e8a500cc457",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/0d79c3cf-7675-4d5c-a53d-b6cdea08fee6",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/bea81f05-449b-431b-9157-6e8a500cc457",
+                "geographical_name": "Badumurru Place",
+                "date_start": "2025-09-26",
+                "date_end": "2025-10-26",
+                "designation": "URBAN PLACE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.910064,
                     -33.770308
                 ]
@@ -58,6 +78,26 @@
                 "geographical_name": "Motorsport Volunteers Park",
                 "date_start": "2025-09-12",
                 "date_end": "2025-10-17",
+                "designation": "RESERVE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.882683,
+                    -33.680557
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "1afca468-89c4-4995-8174-b00c01ad3318",
+                "geoname_identifier": "395e343b-c230-435b-89f1-8d5168e152c1",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/1afca468-89c4-4995-8174-b00c01ad3318",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/395e343b-c230-435b-89f1-8d5168e152c1",
+                "geographical_name": "Sneha Joshi Park",
+                "date_start": "2025-09-26",
+                "date_end": "2025-10-26",
                 "designation": "RESERVE"
             }
         }
