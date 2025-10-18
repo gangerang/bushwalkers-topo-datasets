@@ -66,26 +66,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.751008,
-                    -33.999124
-                ]
-            },
-            "properties": {
-                "advertisement_identifier": "fe0f9940-7561-4490-bfe0-eb8872bcb20b",
-                "geoname_identifier": "955205d2-298b-4382-b9a0-12f6a7544525",
-                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/fe0f9940-7561-4490-bfe0-eb8872bcb20b",
-                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/955205d2-298b-4382-b9a0-12f6a7544525",
-                "geographical_name": "Motorsport Volunteers Park",
-                "date_start": "2025-09-12",
-                "date_end": "2025-10-17",
-                "designation": "RESERVE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.882683,
                     -33.680557
                 ]
