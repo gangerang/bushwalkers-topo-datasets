@@ -72,6 +72,588 @@
           [
             [
               [
+                146.07903802148,
+                -34.263845355864
+              ],
+              [
+                146.07883029812,
+                -34.263911869939
+              ],
+              [
+                146.07857604883,
+                -34.263892104221
+              ],
+              [
+                146.07832256065,
+                -34.263800727568
+              ],
+              [
+                146.07806071464,
+                -34.263684223784
+              ],
+              [
+                146.078018617,
+                -34.263587233928
+              ],
+              [
+                146.07790259779,
+                -34.263546995587
+              ],
+              [
+                146.07779489889,
+                -34.263535463604
+              ],
+              [
+                146.07770883878,
+                -34.263516928779
+              ],
+              [
+                146.07831500041,
+                -34.262482940645
+              ],
+              [
+                146.07856098666,
+                -34.262062209804
+              ],
+              [
+                146.07892836527,
+                -34.261581492585
+              ],
+              [
+                146.07902831178,
+                -34.261510608167
+              ],
+              [
+                146.07914050999,
+                -34.261504268037
+              ],
+              [
+                146.07942032211,
+                -34.261552865233
+              ],
+              [
+                146.07967853578,
+                -34.261604886235
+              ],
+              [
+                146.079824626,
+                -34.261656085562
+              ],
+              [
+                146.08014290996,
+                -34.261737190425
+              ],
+              [
+                146.08001988276,
+                -34.261951137899
+              ],
+              [
+                146.07990147183,
+                -34.262136473501
+              ],
+              [
+                146.07966888549,
+                -34.262514336688
+              ],
+              [
+                146.07952697265,
+                -34.262882120155
+              ],
+              [
+                146.07936334402,
+                -34.26326406725
+              ],
+              [
+                146.07915983731,
+                -34.263745984846
+              ],
+              [
+                146.07903802148,
+                -34.263845355864
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Griffith",
+        "supportingAgencies": "Griffith, Department of Planning, Housing & Infrastructure - Crown Lands, LALC - Griffith",
+        "size": "3.17 ha",
+        "location": "",
+        "guarReference": "BA20250911001002",
+        "tenure": "Private, Local Govt, Crown Land",
+        "startDate": "30/10/2025",
+        "endDate": "30/10/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.11587595614,
+                -30.022733033307
+              ],
+              [
+                153.11571609746,
+                -30.022707009869
+              ],
+              [
+                153.11611581482,
+                -30.022771789741
+              ],
+              [
+                153.11670440468,
+                -30.02284408028
+              ],
+              [
+                153.11691065762,
+                -30.022875836675
+              ],
+              [
+                153.11705048831,
+                -30.022887324601
+              ],
+              [
+                153.11716571327,
+                -30.022918568619
+              ],
+              [
+                153.11745579691,
+                -30.02299685994
+              ],
+              [
+                153.1172877271,
+                -30.02294955745
+              ],
+              [
+                153.11778289503,
+                -30.023030615752
+              ],
+              [
+                153.11766523333,
+                -30.02301808034
+              ],
+              [
+                153.11587595614,
+                -30.022733033307
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Coffs Harbour",
+        "supportingAgencies": "Private",
+        "size": "0 ha",
+        "location": "",
+        "guarReference": "BA20240515000592",
+        "tenure": "Private",
+        "startDate": "30/10/2025",
+        "endDate": "30/10/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.117594,
+                -30.022395
+              ],
+              [
+                153.117594,
+                -30.022397
+              ],
+              [
+                153.117571,
+                -30.022456
+              ],
+              [
+                153.117553,
+                -30.022516
+              ],
+              [
+                153.117527,
+                -30.022574
+              ],
+              [
+                153.117562,
+                -30.02263
+              ],
+              [
+                153.117594,
+                -30.022395
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Coffs Harbour",
+        "supportingAgencies": "Private",
+        "size": "0 ha",
+        "location": "",
+        "guarReference": "BA20240515000592",
+        "tenure": "Private",
+        "startDate": "30/10/2025",
+        "endDate": "30/10/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.117554,
+                -30.022399
+              ],
+              [
+                153.117508,
+                -30.022606
+              ],
+              [
+                153.117572,
+                -30.022652
+              ],
+              [
+                153.117518,
+                -30.022572
+              ],
+              [
+                153.117504,
+                -30.022499
+              ],
+              [
+                153.117512,
+                -30.022326
+              ],
+              [
+                153.117554,
+                -30.022399
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Coffs Harbour",
+        "supportingAgencies": "Private",
+        "size": "0 ha",
+        "location": "",
+        "guarReference": "BA20240515000592",
+        "tenure": "Private",
+        "startDate": "30/10/2025",
+        "endDate": "30/10/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.117723,
+                -30.022254
+              ],
+              [
+                153.117723,
+                -30.022252
+              ],
+              [
+                153.117726,
+                -30.022229
+              ],
+              [
+                153.117728,
+                -30.022207
+              ],
+              [
+                153.117729,
+                -30.022184
+              ],
+              [
+                153.117732,
+                -30.02216
+              ],
+              [
+                153.117734,
+                -30.022135
+              ],
+              [
+                153.117741,
+                -30.022111
+              ],
+              [
+                153.117744,
+                -30.022089
+              ],
+              [
+                153.117748,
+                -30.022066
+              ],
+              [
+                153.117749,
+                -30.022044
+              ],
+              [
+                153.117751,
+                -30.022019
+              ],
+              [
+                153.117756,
+                -30.021996
+              ],
+              [
+                153.117758,
+                -30.021973
+              ],
+              [
+                153.117763,
+                -30.02195
+              ],
+              [
+                153.117767,
+                -30.021928
+              ],
+              [
+                153.117771,
+                -30.021904
+              ],
+              [
+                153.117773,
+                -30.021881
+              ],
+              [
+                153.117776,
+                -30.021858
+              ],
+              [
+                153.117782,
+                -30.021836
+              ],
+              [
+                153.117788,
+                -30.021814
+              ],
+              [
+                153.117794,
+                -30.021792
+              ],
+              [
+                153.117804,
+                -30.02177
+              ],
+              [
+                153.117812,
+                -30.021748
+              ],
+              [
+                153.117818,
+                -30.021726
+              ],
+              [
+                153.117825,
+                -30.021704
+              ],
+              [
+                153.11783,
+                -30.021682
+              ],
+              [
+                153.117723,
+                -30.022254
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Coffs Harbour",
+        "supportingAgencies": "Private",
+        "size": "0 ha",
+        "location": "",
+        "guarReference": "BA20240515000592",
+        "tenure": "Private",
+        "startDate": "30/10/2025",
+        "endDate": "30/10/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.11809489104,
+                -30.019933884294
+              ],
+              [
+                153.1180841622,
+                -30.020045359164
+              ],
+              [
+                153.11801978919,
+                -30.020584152599
+              ],
+              [
+                153.1179339585,
+                -30.020974311535
+              ],
+              [
+                153.11778375479,
+                -30.021197258809
+              ],
+              [
+                153.11760136458,
+                -30.022163357871
+              ],
+              [
+                153.11752626273,
+                -30.022377013124
+              ],
+              [
+                153.11752626273,
+                -30.02288792599
+              ],
+              [
+                153.11754692502,
+                -30.022928817258
+              ],
+              [
+                153.11743262999,
+                -30.022956329103
+              ],
+              [
+                153.1172141511,
+                -30.022877792748
+              ],
+              [
+                153.11693520136,
+                -30.022844013282
+              ],
+              [
+                153.11550924155,
+                -30.022665827594
+              ],
+              [
+                153.11555215689,
+                -30.022386302472
+              ],
+              [
+                153.11556288573,
+                -30.021996149092
+              ],
+              [
+                153.11569163176,
+                -30.021680309517
+              ],
+              [
+                153.1157023606,
+                -30.02142949502
+              ],
+              [
+                153.11648556563,
+                -30.019878146813
+              ],
+              [
+                153.11673232886,
+                -30.019757382161
+              ],
+              [
+                153.1180841622,
+                -30.019766671755
+              ],
+              [
+                153.11809489104,
+                -30.019933884294
+              ],
+              [
+                153.11815731329,
+                -30.023060200586
+              ],
+              [
+                153.11784032478,
+                -30.022979129375
+              ],
+              [
+                153.11782490512,
+                -30.02297203905
+              ],
+              [
+                153.11795541617,
+                -30.022934372484
+              ],
+              [
+                153.11815731329,
+                -30.023060200586
+              ],
+              [
+                153.11760136458,
+                -30.023036554694
+              ],
+              [
+                153.11754692502,
+                -30.022928817258
+              ],
+              [
+                153.11766769031,
+                -30.022899747962
+              ],
+              [
+                153.11782490512,
+                -30.02297203905
+              ],
+              [
+                153.11760136458,
+                -30.023036554694
+              ],
+              [
+                153.11809489104,
+                -30.019933884294
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Coffs Harbour",
+        "supportingAgencies": "Private",
+        "size": "6.3 ha",
+        "location": "",
+        "guarReference": "BA20240515000592",
+        "tenure": "Private",
+        "startDate": "30/10/2025",
+        "endDate": "30/10/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
                 151.20636758742,
                 -33.727262334424
               ],
@@ -210,7 +792,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Northern Beaches",
-        "supportingAgencies": "LALC - Metropolitan, Department of Planning, Housing & Infrastructure - Crown Lands, Transgrid",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Transgrid, LALC - Metropolitan",
         "size": "4.05 ha",
         "location": "WYATT AVE ELECTRICITY SUB STATION APZ",
         "guarReference": "BA20230522000323",
@@ -325,7 +907,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Northern Beaches",
-        "supportingAgencies": "LALC - Metropolitan, Department of Planning, Housing & Infrastructure - Crown Lands, Transgrid",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Transgrid, LALC - Metropolitan",
         "size": "6.86 ha",
         "location": "WYATT AVE ELECTRICITY SUB STATION APZ",
         "guarReference": "BA20230522000323",
@@ -1965,7 +2547,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Blue Mountains",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Private, Blue Mountains, Endeavour Energy, Department of Planning, Housing & Infrastructure - Crown Lands, WaterNSW",
+        "supportingAgencies": "Endeavour Energy, Department of Planning, Housing & Infrastructure - Crown Lands, WaterNSW, NSW National Parks and Wildlife Service, Private, Blue Mountains",
         "size": "20.32 ha",
         "location": "BLAXLAND RD, WENTWORTH FALLS",
         "guarReference": "BA20250208000090",
