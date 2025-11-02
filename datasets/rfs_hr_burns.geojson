@@ -9,121 +9,6 @@
           [
             [
               [
-                146.08760581872,
-                -34.257619244767
-              ],
-              [
-                146.08624338922,
-                -34.259960993269
-              ],
-              [
-                146.08609669444,
-                -34.259967089141
-              ],
-              [
-                146.08597602383,
-                -34.259959051156
-              ],
-              [
-                146.08514556328,
-                -34.260189347536
-              ],
-              [
-                146.08470887672,
-                -34.259885384298
-              ],
-              [
-                146.08450657609,
-                -34.259848104346
-              ],
-              [
-                146.08426947282,
-                -34.259839217428
-              ],
-              [
-                146.08400184315,
-                -34.259862334596
-              ],
-              [
-                146.08351844616,
-                -34.259898203538
-              ],
-              [
-                146.08317319499,
-                -34.259920753488
-              ],
-              [
-                146.0827544433,
-                -34.259960670679
-              ],
-              [
-                146.08239254754,
-                -34.259925803796
-              ],
-              [
-                146.08210491033,
-                -34.259801958682
-              ],
-              [
-                146.08251184724,
-                -34.259737839085
-              ],
-              [
-                146.08190419669,
-                -34.259289387992
-              ],
-              [
-                146.08271457326,
-                -34.257485553321
-              ],
-              [
-                146.0824570518,
-                -34.257369089776
-              ],
-              [
-                146.083997156,
-                -34.253854664519
-              ],
-              [
-                146.08926138156,
-                -34.256019880075
-              ],
-              [
-                146.08847371144,
-                -34.256286316365
-              ],
-              [
-                146.08763704077,
-                -34.257110997857
-              ],
-              [
-                146.08760581872,
-                -34.257619244767
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "LALC - Griffith",
-        "lga": "Griffith",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private",
-        "size": "26.75 ha",
-        "location": "LALC LAND BETWEEN MANERA STREET AND RIFLE RANGE ROAD GRIFFITH",
-        "guarReference": "BA20250811000858",
-        "tenure": "Private, Crown Land",
-        "startDate": "01/11/2025",
-        "endDate": "01/11/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 148.55465859285,
                 -32.281056066538
               ],
@@ -302,7 +187,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation, Dubbo",
+        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "2.14 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
@@ -649,7 +534,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation, Dubbo",
+        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "3.06 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
@@ -1536,7 +1421,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation, Dubbo",
+        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "11 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
