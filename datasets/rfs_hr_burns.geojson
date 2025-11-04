@@ -9,109 +9,6 @@
           [
             [
               [
-                153.11301534038,
-                -30.049236382505
-              ],
-              [
-                153.11252084018,
-                -30.048916407458
-              ],
-              [
-                153.11226920038,
-                -30.048568562013
-              ],
-              [
-                153.11167423718,
-                -30.047153576694
-              ],
-              [
-                153.11155963184,
-                -30.046796026023
-              ],
-              [
-                153.11139821227,
-                -30.046478999084
-              ],
-              [
-                153.11137529136,
-                -30.04621136114
-              ],
-              [
-                153.11128994918,
-                -30.045963986412
-              ],
-              [
-                153.11169081665,
-                -30.045513136571
-              ],
-              [
-                153.11238819132,
-                -30.045710700426
-              ],
-              [
-                153.11243110667,
-                -30.04636586547
-              ],
-              [
-                153.1124252544,
-                -30.046935331216
-              ],
-              [
-                153.11240379673,
-                -30.04782224092
-              ],
-              [
-                153.11318700176,
-                -30.04792439747
-              ],
-              [
-                153.11357323985,
-                -30.049037137432
-              ],
-              [
-                153.11345132147,
-                -30.04911987452
-              ],
-              [
-                153.1134542476,
-                -30.049202611608
-              ],
-              [
-                153.11332745167,
-                -30.049037137148
-              ],
-              [
-                153.11324162262,
-                -30.04913000179
-              ],
-              [
-                153.11301534038,
-                -30.049236382505
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Coffs Harbour",
-        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation",
-        "size": "3.52 ha",
-        "location": "UPPER CORINDI",
-        "guarReference": "BA20250806000831",
-        "tenure": "Private",
-        "startDate": "03/11/2025",
-        "endDate": "03/11/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 150.2224995949,
                 -35.781314534024
               ],
@@ -1468,7 +1365,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private",
         "size": "2.14 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
@@ -1815,7 +1712,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private",
         "size": "3.06 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
@@ -2702,7 +2599,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private",
         "size": "11 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
@@ -6893,7 +6790,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Blue Mountains, Lithgow",
-        "supportingAgencies": "Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private, Blue Mountains",
         "size": "69.7 ha",
         "location": "KENNY STREET, BEAUFORT STREET & KANIMBLA VALLEY ROAD, MOUNT VICTORIA",
         "guarReference": "BA20210913000369",
