@@ -140,6 +140,156 @@
           [
             [
               [
+                151.01208298256,
+                -31.107335378106
+              ],
+              [
+                151.01208324503,
+                -31.107334526853
+              ],
+              [
+                151.01208473511,
+                -31.10733529231
+              ],
+              [
+                151.01208298256,
+                -31.107335378106
+              ],
+              [
+                151.01199473213,
+                -31.107621590159
+              ],
+              [
+                151.01153607439,
+                -31.107488392893
+              ],
+              [
+                151.01158435416,
+                -31.107359788459
+              ],
+              [
+                151.01208298256,
+                -31.107335378106
+              ],
+              [
+                151.01199473213,
+                -31.107621590159
+              ],
+              [
+                151.01208298256,
+                -31.107335378106
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "Private",
+        "lga": "Tamworth",
+        "supportingAgencies": "NSW Rural Fire Service",
+        "size": "0.11 ha",
+        "location": "BACK KOOTINGAL RD",
+        "guarReference": "BA20240709000862",
+        "tenure": "Private",
+        "startDate": "07/11/2025",
+        "endDate": "07/11/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                151.01211811375,
+                -31.107362084968
+              ],
+              [
+                151.01236606911,
+                -31.107441442057
+              ],
+              [
+                151.01236487698,
+                -31.107440166251
+              ],
+              [
+                151.01244266104,
+                -31.107428683713
+              ],
+              [
+                151.012608958,
+                -31.1072219978
+              ],
+              [
+                151.01250435185,
+                -31.107068131329
+              ],
+              [
+                151.01215030026,
+                -31.106934933286
+              ],
+              [
+                151.0120751984,
+                -31.106808624625
+              ],
+              [
+                151.01187135052,
+                -31.106721356725
+              ],
+              [
+                151.011954499,
+                -31.106521558861
+              ],
+              [
+                151.01306225132,
+                -31.106992346258
+              ],
+              [
+                151.01270015311,
+                -31.107566474072
+              ],
+              [
+                151.01217980456,
+                -31.107644555186
+              ],
+              [
+                151.01222540211,
+                -31.107458538308
+              ],
+              [
+                151.01209933829,
+                -31.107424090698
+              ],
+              [
+                151.01211811375,
+                -31.107362084968
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "Private",
+        "lga": "Tamworth",
+        "supportingAgencies": "NSW Rural Fire Service",
+        "size": "0.54 ha",
+        "location": "BACK KOOTINGAL RD",
+        "guarReference": "BA20240709000862",
+        "tenure": "Private",
+        "startDate": "07/11/2025",
+        "endDate": "07/11/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
                 151.18040916591,
                 -33.704383173618
               ],
@@ -1365,7 +1515,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "2.14 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
@@ -1712,7 +1862,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "3.06 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
@@ -2599,7 +2749,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "11 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
@@ -6790,7 +6940,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Blue Mountains, Lithgow",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private, Blue Mountains",
+        "supportingAgencies": "Fire & Rescue NSW, Private, Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "69.7 ha",
         "location": "KENNY STREET, BEAUFORT STREET & KANIMBLA VALLEY ROAD, MOUNT VICTORIA",
         "guarReference": "BA20210913000369",
