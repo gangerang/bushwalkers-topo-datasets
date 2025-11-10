@@ -9,96 +9,6 @@
           [
             [
               [
-                152.90091609325,
-                -28.586522942092
-              ],
-              [
-                152.90034210052,
-                -28.587380244427
-              ],
-              [
-                152.90014898147,
-                -28.587083486718
-              ],
-              [
-                152.90020262566,
-                -28.586537073506
-              ],
-              [
-                152.90035282936,
-                -28.586254444869
-              ],
-              [
-                152.90091609325,
-                -28.586522942092
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Kyogle",
-        "supportingAgencies": "Private",
-        "size": "0.5 ha",
-        "location": "AFTERLEE ROAD EDEN CREEK",
-        "guarReference": "BA20250815000892",
-        "tenure": "Private",
-        "startDate": "09/11/2025",
-        "endDate": "09/11/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                152.89958437648,
-                -28.584716460719
-              ],
-              [
-                152.9003944036,
-                -28.584890751017
-              ],
-              [
-                152.90015300479,
-                -28.585828145237
-              ],
-              [
-                152.89948781695,
-                -28.585394778094
-              ],
-              [
-                152.89958437648,
-                -28.584716460719
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Kyogle",
-        "supportingAgencies": "Private",
-        "size": "0.7 ha",
-        "location": "AFTERLEE ROAD EDEN CREEK",
-        "guarReference": "BA20250815000892",
-        "tenure": "Private",
-        "startDate": "09/11/2025",
-        "endDate": "09/11/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 149.38121729098,
                 -31.544622293022
               ],
@@ -6804,7 +6714,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Blue Mountains, Lithgow",
-        "supportingAgencies": "Fire & Rescue NSW, Private, Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private",
         "size": "69.7 ha",
         "location": "KENNY STREET, BEAUFORT STREET & KANIMBLA VALLEY ROAD, MOUNT VICTORIA",
         "guarReference": "BA20210913000369",
