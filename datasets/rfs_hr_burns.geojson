@@ -9,259 +9,6 @@
           [
             [
               [
-                149.53163702146,
-                -34.030468150911
-              ],
-              [
-                149.53155119077,
-                -34.029341897695
-              ],
-              [
-                149.53155119077,
-                -34.029128500596
-              ],
-              [
-                149.53217346326,
-                -34.027741406369
-              ],
-              [
-                149.53232366696,
-                -34.026567693544
-              ],
-              [
-                149.53240949765,
-                -34.025500667797
-              ],
-              [
-                149.53217346326,
-                -34.025144989566
-              ],
-              [
-                149.53198034421,
-                -34.024540333153
-              ],
-              [
-                149.53311760083,
-                -34.024077945931
-              ],
-              [
-                149.53266698972,
-                -34.025322828868
-              ],
-              [
-                149.53275282041,
-                -34.026781097083
-              ],
-              [
-                149.53476984158,
-                -34.030148059309
-              ],
-              [
-                149.53416902677,
-                -34.031037199665
-              ],
-              [
-                149.53163702146,
-                -34.030468150911
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "Forestry Corporation NSW",
-        "lga": "Oberon",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands",
-        "size": "9.67 ha",
-        "location": "10KM SOUTH OF BURRUGA",
-        "guarReference": "BA20250527000462",
-        "tenure": "Crown Land",
-        "startDate": "21/11/2025",
-        "endDate": "21/11/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                149.52980596851,
-                -34.022341006687
-              ],
-              [
-                149.52731687855,
-                -34.022394360279
-              ],
-              [
-                149.52667314838,
-                -34.021878607482
-              ],
-              [
-                149.5258148415,
-                -34.021914176741
-              ],
-              [
-                149.52555734943,
-                -34.022554420855
-              ],
-              [
-                149.52487070393,
-                -34.022447713838
-              ],
-              [
-                149.52547151875,
-                -34.020473609826
-              ],
-              [
-                149.52478487324,
-                -34.018926307017
-              ],
-              [
-                149.52551443409,
-                -34.016703121422
-              ],
-              [
-                149.52551443409,
-                -34.015707115391
-              ],
-              [
-                149.52469904255,
-                -34.012203215599
-              ],
-              [
-                149.52849705052,
-                -34.013377127069
-              ],
-              [
-                149.52873308491,
-                -34.014497663785
-              ],
-              [
-                149.52817518543,
-                -34.017272262479
-              ],
-              [
-                149.52918369602,
-                -34.020064555504
-              ],
-              [
-                149.53004200291,
-                -34.020277975396
-              ],
-              [
-                149.52980596851,
-                -34.022341006687
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "Forestry Corporation NSW",
-        "lga": "Oberon",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands",
-        "size": "35.74 ha",
-        "location": "10KM SOUTH OF BURRUGA",
-        "guarReference": "BA20250527000462",
-        "tenure": "Crown Land",
-        "startDate": "21/11/2025",
-        "endDate": "21/11/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                149.52238161396,
-                -34.011349451608
-              ],
-              [
-                149.5243557198,
-                -34.011936415274
-              ],
-              [
-                149.52420551609,
-                -34.012647880944
-              ],
-              [
-                149.52293951344,
-                -34.012950252049
-              ],
-              [
-                149.52323992085,
-                -34.01412415319
-              ],
-              [
-                149.52375490498,
-                -34.015635971656
-              ],
-              [
-                149.52461321186,
-                -34.015369182118
-              ],
-              [
-                149.5248921616,
-                -34.016276263125
-              ],
-              [
-                149.52454883884,
-                -34.017610188177
-              ],
-              [
-                149.52268202137,
-                -34.016756478559
-              ],
-              [
-                149.52283222508,
-                -34.015831616784
-              ],
-              [
-                149.52272493671,
-                -34.014497663785
-              ],
-              [
-                149.52156622242,
-                -34.01266566751
-              ],
-              [
-                149.5221241219,
-                -34.011918628556
-              ],
-              [
-                149.52238161396,
-                -34.011349451608
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "Forestry Corporation NSW",
-        "lga": "Oberon",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands",
-        "size": "8.81 ha",
-        "location": "10KM SOUTH OF BURRUGA",
-        "guarReference": "BA20250527000462",
-        "tenure": "Crown Land",
-        "startDate": "21/11/2025",
-        "endDate": "21/11/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 149.78164198165,
                 -36.531180880964
               ],
@@ -2020,7 +1767,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "0.72 ha",
         "location": "EAST WOOLLAMIA",
         "guarReference": "BA20250122000044",
@@ -2099,7 +1846,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "1.24 ha",
         "location": "EAST WOOLLAMIA",
         "guarReference": "BA20250122000044",
@@ -2390,7 +2137,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "0.63 ha",
         "location": "EAST WOOLLAMIA",
         "guarReference": "BA20250122000044",
@@ -2573,7 +2320,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "0.69 ha",
         "location": "EAST WOOLLAMIA",
         "guarReference": "BA20250122000044",
@@ -2708,7 +2455,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "1.71 ha",
         "location": "EAST WOOLLAMIA",
         "guarReference": "BA20250122000044",
@@ -14343,7 +14090,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Blue Mountains, Lithgow",
-        "supportingAgencies": "Private, Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW",
+        "supportingAgencies": "Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private",
         "size": "69.7 ha",
         "location": "KENNY STREET, BEAUFORT STREET & KANIMBLA VALLEY ROAD, MOUNT VICTORIA",
         "guarReference": "BA20210913000369",
