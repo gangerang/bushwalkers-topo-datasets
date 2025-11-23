@@ -9,53 +9,6 @@
           [
             [
               [
-                149.78164198165,
-                -36.531180880964
-              ],
-              [
-                149.78055824064,
-                -36.531454438432
-              ],
-              [
-                149.78043232922,
-                -36.53121879311
-              ],
-              [
-                149.78045903149,
-                -36.530461459012
-              ],
-              [
-                149.78142350983,
-                -36.530601619792
-              ],
-              [
-                149.78164198165,
-                -36.531180880964
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Bega Valley",
-        "supportingAgencies": "Private",
-        "size": "0.86 ha",
-        "location": "",
-        "guarReference": "BA20251113001315",
-        "tenure": "Private",
-        "startDate": "22/11/2025",
-        "endDate": "22/11/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 150.92827023684,
                 -29.463331187178
               ],
@@ -338,7 +291,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
         "size": "11.71 ha",
         "location": "",
         "guarReference": "BA20250828000936",
@@ -417,7 +370,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
         "size": "2.05 ha",
         "location": "",
         "guarReference": "BA20250828000936",
@@ -652,7 +605,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
         "size": "17.86 ha",
         "location": "",
         "guarReference": "BA20250828000936",
@@ -2781,97 +2734,6 @@
         "tenure": "Local Govt, Other State Govt, Crown Land",
         "startDate": "14/11/2025",
         "endDate": "28/11/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                150.42986034076,
-                -34.468759868664
-              ],
-              [
-                150.42987643402,
-                -34.46875544605
-              ],
-              [
-                150.43152867477,
-                -34.469511709558
-              ],
-              [
-                150.43188809078,
-                -34.469763795872
-              ],
-              [
-                150.43185053985,
-                -34.469869937249
-              ],
-              [
-                150.431775438,
-                -34.469905317679
-              ],
-              [
-                150.4299300782,
-                -34.469896472573
-              ],
-              [
-                150.42964576404,
-                -34.469865514695
-              ],
-              [
-                150.42938827198,
-                -34.469799176346
-              ],
-              [
-                150.42889474552,
-                -34.469600160983
-              ],
-              [
-                150.42883573692,
-                -34.469520554705
-              ],
-              [
-                150.42885719459,
-                -34.469458638659
-              ],
-              [
-                150.42891620319,
-                -34.46942325804
-              ],
-              [
-                150.42918442409,
-                -34.46931269351
-              ],
-              [
-                150.4293078057,
-                -34.469224241781
-              ],
-              [
-                150.42939363639,
-                -34.469140212551
-              ],
-              [
-                150.42986034076,
-                -34.468759868664
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "Fire & Rescue NSW",
-        "lga": "Wingecarribee",
-        "supportingAgencies": "Wingecarribee, NSW Rural Fire Service",
-        "size": "2.04 ha",
-        "location": "MOUNT GIBRALTAR RESERVE OXLEY DRIVE BOWRAL",
-        "guarReference": "BA20240328000307",
-        "tenure": "Local Govt",
-        "startDate": "13/11/2025",
-        "endDate": "22/11/2025"
       }
     },
     {
@@ -14090,7 +13952,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Blue Mountains, Lithgow",
-        "supportingAgencies": "Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private",
+        "supportingAgencies": "Private, Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW",
         "size": "69.7 ha",
         "location": "KENNY STREET, BEAUFORT STREET & KANIMBLA VALLEY ROAD, MOUNT VICTORIA",
         "guarReference": "BA20210913000369",
