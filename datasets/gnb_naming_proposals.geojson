@@ -1,4 +1,125 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.611,
+                    -33.884043
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "c9976377-4c78-4144-9ee3-125f676ccb14",
+                "geoname_identifier": "2cd374cb-16ac-4a8d-bbb0-5f166f26093e",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/c9976377-4c78-4144-9ee3-125f676ccb14",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/2cd374cb-16ac-4a8d-bbb0-5f166f26093e",
+                "geographical_name": "Dundowra",
+                "date_start": "2025-11-26",
+                "date_end": "2026-01-09",
+                "designation": "RESERVE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.89971,
+                    -33.752384
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "b59c59e4-5d58-4d10-8f20-7fa17f98b2dc",
+                "geoname_identifier": "0bf48464-387c-4cef-813a-b8ed6c56c370",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/b59c59e4-5d58-4d10-8f20-7fa17f98b2dc",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/0bf48464-387c-4cef-813a-b8ed6c56c370",
+                "geographical_name": "Ernie Burr Creek",
+                "date_start": "2025-11-26",
+                "date_end": "2026-01-09",
+                "designation": "CREEK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.148537,
+                    -34.072869
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "276d37f7-c227-496c-823b-83831caca12b",
+                "geoname_identifier": "c0d1a7f2-1f53-4ff5-8c83-4e55d0877d40",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/276d37f7-c227-496c-823b-83831caca12b",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/c0d1a7f2-1f53-4ff5-8c83-4e55d0877d40",
+                "geographical_name": "Frank Cridland Walkway",
+                "date_start": "2025-11-26",
+                "date_end": "2026-01-09",
+                "designation": "TRACK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.694507,
+                    -32.981922
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "de6cf524-f4a8-4265-93e2-6822b3edfb5a",
+                "geoname_identifier": "8e0218f8-6359-404c-9b97-ffe2961d77ae",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/de6cf524-f4a8-4265-93e2-6822b3edfb5a",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/8e0218f8-6359-404c-9b97-ffe2961d77ae",
+                "geographical_name": "Maraikaan Creek",
+                "date_start": "2025-11-26",
+                "date_end": "2026-01-09",
+                "designation": "CREEK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.978344,
+                    -35.525362
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "cffe2208-4181-4605-9b10-ed8c69019900",
+                "geoname_identifier": "1ab8a477-a014-4e8d-bfac-75530dae94f6",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/cffe2208-4181-4605-9b10-ed8c69019900",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/1ab8a477-a014-4e8d-bfac-75530dae94f6",
+                "geographical_name": "North Deniliquin Reserve",
+                "date_start": "2025-11-26",
+                "date_end": "2026-01-09",
+                "designation": "RESERVE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.987844,
+                    -33.808364
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "c0606ef0-bd52-4ddc-8d43-ad906a8ea9bb",
+                "geoname_identifier": "0901c98d-2d32-4e59-a827-07fb0c1e2ba3",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/c0606ef0-bd52-4ddc-8d43-ad906a8ea9bb",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/0901c98d-2d32-4e59-a827-07fb0c1e2ba3",
+                "geographical_name": "Westmead Railway Station",
+                "date_start": "2025-11-26",
+                "date_end": "2026-01-09",
+                "designation": "RAILWAY STATION"
+            }
+        }
+    ]
 }
