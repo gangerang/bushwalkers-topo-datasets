@@ -9,6 +9,61 @@
           [
             [
               [
+                152.65930372757,
+                -31.107006620592
+              ],
+              [
+                152.65911060852,
+                -31.107300574422
+              ],
+              [
+                152.65911060852,
+                -31.107557783276
+              ],
+              [
+                152.65928226989,
+                -31.107649643413
+              ],
+              [
+                152.65974360985,
+                -31.107493481128
+              ],
+              [
+                152.6600869326,
+                -31.107144411563
+              ],
+              [
+                152.65932518524,
+                -31.107024992733
+              ],
+              [
+                152.65930372757,
+                -31.107006620592
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "Private",
+        "lga": "Kempsey",
+        "supportingAgencies": "NSW Rural Fire Service",
+        "size": "0 ha",
+        "location": "",
+        "guarReference": "BA20251128001360",
+        "tenure": "Private",
+        "startDate": "30/11/2025",
+        "endDate": "30/11/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
                 151.07423803227,
                 -30.407485523782
               ],
@@ -834,8 +889,8 @@
         "location": "DILLWYNIA",
         "guarReference": "BA-2020-01731",
         "tenure": "National Park",
-        "startDate": "30/11/2025",
-        "endDate": "07/12/2025"
+        "startDate": "03/12/2025",
+        "endDate": "10/12/2025"
       }
     },
     {
@@ -1215,7 +1270,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "0.72 ha",
         "location": "EAST WOOLLAMIA",
         "guarReference": "BA20250122000044",
@@ -1294,7 +1349,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "1.24 ha",
         "location": "EAST WOOLLAMIA",
         "guarReference": "BA20250122000044",
@@ -1585,7 +1640,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "0.63 ha",
         "location": "EAST WOOLLAMIA",
         "guarReference": "BA20250122000044",
@@ -1768,7 +1823,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "0.69 ha",
         "location": "EAST WOOLLAMIA",
         "guarReference": "BA20250122000044",
@@ -1903,7 +1958,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Shoalhaven",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "1.71 ha",
         "location": "EAST WOOLLAMIA",
         "guarReference": "BA20250122000044",
@@ -2098,7 +2153,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "2.14 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
@@ -2445,7 +2500,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "3.06 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
@@ -3332,7 +3387,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Dubbo",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private",
+        "supportingAgencies": "Dubbo, Department of Planning, Housing & Infrastructure - Crown Lands, Private, NSW Rural Fire Service - Mitigation",
         "size": "11 ha",
         "location": "MINORE",
         "guarReference": "BA20240829001077",
