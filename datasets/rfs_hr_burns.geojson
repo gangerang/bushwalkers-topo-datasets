@@ -107,7 +107,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "4.96 ha",
         "location": "",
         "guarReference": "BA20250905000986",
@@ -194,7 +194,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "9.14 ha",
         "location": "",
         "guarReference": "BA20250905000986",
@@ -5894,7 +5894,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Blue Mountains, Lithgow",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private, Blue Mountains",
+        "supportingAgencies": "Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private",
         "size": "69.7 ha",
         "location": "KENNY STREET, BEAUFORT STREET & KANIMBLA VALLEY ROAD, MOUNT VICTORIA",
         "guarReference": "BA20210913000369",
