@@ -107,7 +107,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
         "size": "4.96 ha",
         "location": "",
         "guarReference": "BA20250905000986",
@@ -194,7 +194,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
         "size": "9.14 ha",
         "location": "",
         "guarReference": "BA20250905000986",
