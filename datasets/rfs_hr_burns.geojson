@@ -9,6 +9,65 @@
           [
             [
               [
+                152.41502405635,
+                -28.887172725181
+              ],
+              [
+                152.41550470873,
+                -28.887353087558
+              ],
+              [
+                152.41549612514,
+                -28.887351208671
+              ],
+              [
+                152.41438032619,
+                -28.888788459278
+              ],
+              [
+                152.41401554576,
+                -28.888938758847
+              ],
+              [
+                152.41303922168,
+                -28.889164207791
+              ],
+              [
+                152.41321088306,
+                -28.888882396534
+              ],
+              [
+                152.4135220193,
+                -28.888440890694
+              ],
+              [
+                152.41502405635,
+                -28.887172725181
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Tenterfield",
+        "supportingAgencies": "Private",
+        "size": "1.82 ha",
+        "location": "HOTSPOTS WORKSHOP_SUGARBAG RD_DRAKE",
+        "guarReference": "BA20250930001101",
+        "tenure": "Private",
+        "startDate": "04/12/2025",
+        "endDate": "04/12/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
                 150.92724299217,
                 -29.46552571138
               ],
@@ -493,7 +552,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "11.71 ha",
         "location": "",
         "guarReference": "BA20250828000936",
@@ -572,7 +631,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "2.05 ha",
         "location": "",
         "guarReference": "BA20250828000936",
@@ -807,7 +866,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "17.86 ha",
         "location": "",
         "guarReference": "BA20250828000936",
@@ -1065,65 +1124,6 @@
         "tenure": "National Park",
         "startDate": "03/12/2025",
         "endDate": "10/12/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                152.41502405635,
-                -28.887172725181
-              ],
-              [
-                152.41550470873,
-                -28.887353087558
-              ],
-              [
-                152.41549612514,
-                -28.887351208671
-              ],
-              [
-                152.41438032619,
-                -28.888788459278
-              ],
-              [
-                152.41401554576,
-                -28.888938758847
-              ],
-              [
-                152.41303922168,
-                -28.889164207791
-              ],
-              [
-                152.41321088306,
-                -28.888882396534
-              ],
-              [
-                152.4135220193,
-                -28.888440890694
-              ],
-              [
-                152.41502405635,
-                -28.887172725181
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Tenterfield",
-        "supportingAgencies": "Private",
-        "size": "1.82 ha",
-        "location": "HOTSPOTS WORKSHOP_SUGARBAG RD_DRAKE",
-        "guarReference": "BA20250930001101",
-        "tenure": "Private",
-        "startDate": "04/12/2025",
-        "endDate": "04/12/2025"
       }
     },
     {
@@ -5893,7 +5893,7 @@
       },
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
-        "lga": "Blue Mountains, Lithgow",
+        "lga": "Lithgow, Blue Mountains",
         "supportingAgencies": "Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private",
         "size": "69.7 ha",
         "location": "KENNY STREET, BEAUFORT STREET & KANIMBLA VALLEY ROAD, MOUNT VICTORIA",
