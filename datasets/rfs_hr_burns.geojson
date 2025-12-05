@@ -9,65 +9,6 @@
           [
             [
               [
-                152.41502405635,
-                -28.887172725181
-              ],
-              [
-                152.41550470873,
-                -28.887353087558
-              ],
-              [
-                152.41549612514,
-                -28.887351208671
-              ],
-              [
-                152.41438032619,
-                -28.888788459278
-              ],
-              [
-                152.41401554576,
-                -28.888938758847
-              ],
-              [
-                152.41303922168,
-                -28.889164207791
-              ],
-              [
-                152.41321088306,
-                -28.888882396534
-              ],
-              [
-                152.4135220193,
-                -28.888440890694
-              ],
-              [
-                152.41502405635,
-                -28.887172725181
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Tenterfield",
-        "supportingAgencies": "Private",
-        "size": "1.82 ha",
-        "location": "HOTSPOTS WORKSHOP_SUGARBAG RD_DRAKE",
-        "guarReference": "BA20250930001101",
-        "tenure": "Private",
-        "startDate": "04/12/2025",
-        "endDate": "04/12/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 150.92724299217,
                 -29.46552571138
               ],
@@ -552,7 +493,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation, Local Land Services",
         "size": "11.71 ha",
         "location": "",
         "guarReference": "BA20250828000936",
@@ -631,7 +572,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation, Local Land Services",
         "size": "2.05 ha",
         "location": "",
         "guarReference": "BA20250828000936",
@@ -866,7 +807,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Inverell",
-        "supportingAgencies": "NSW Rural Fire Service - Mitigation, Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation, Local Land Services",
         "size": "17.86 ha",
         "location": "",
         "guarReference": "BA20250828000936",
@@ -1124,6 +1065,341 @@
         "tenure": "National Park",
         "startDate": "03/12/2025",
         "endDate": "10/12/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.06654105043,
+                -28.928797982079
+              ],
+              [
+                153.06814232921,
+                -28.929269833936
+              ],
+              [
+                153.06815574025,
+                -28.929281571517
+              ],
+              [
+                153.06813428258,
+                -28.929382514659
+              ],
+              [
+                153.06648472404,
+                -28.929096117582
+              ],
+              [
+                153.06654105043,
+                -28.928797982079
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Richmond Valley",
+        "supportingAgencies": "Private",
+        "size": "0.38 ha",
+        "location": "ELLANGOWAN ROAD, YORKLEA",
+        "guarReference": "BA20251205001372",
+        "tenure": "Private",
+        "startDate": "08/12/2025",
+        "endDate": "08/12/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.0681801239,
+                -28.929291388414
+              ],
+              [
+                153.06870827531,
+                -28.929598272356
+              ],
+              [
+                153.06909109975,
+                -28.929820218525
+              ],
+              [
+                153.06919985118,
+                -28.929965550176
+              ],
+              [
+                153.06928714477,
+                -28.930122405765
+              ],
+              [
+                153.0692656871,
+                -28.930230390572
+              ],
+              [
+                153.06891431772,
+                -28.930171703191
+              ],
+              [
+                153.06887676679,
+                -28.93014118574
+              ],
+              [
+                153.06885262691,
+                -28.930129448256
+              ],
+              [
+                153.06882848703,
+                -28.930138838243
+              ],
+              [
+                153.06871851646,
+                -28.930213958109
+              ],
+              [
+                153.06864609682,
+                -28.930209263119
+              ],
+              [
+                153.06861927473,
+                -28.93014118574
+              ],
+              [
+                153.06846638881,
+                -28.930059023326
+              ],
+              [
+                153.06829204523,
+                -28.930049633332
+              ],
+              [
+                153.06803991758,
+                -28.930012073346
+              ],
+              [
+                153.0681801239,
+                -28.929291388414
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Richmond Valley",
+        "supportingAgencies": "Private",
+        "size": "0.67 ha",
+        "location": "ELLANGOWAN ROAD, YORKLEA",
+        "guarReference": "BA20251205001372",
+        "tenure": "Private",
+        "startDate": "08/12/2025",
+        "endDate": "08/12/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.06960608363,
+                -28.929818084366
+              ],
+              [
+                153.07275060773,
+                -28.930647816938
+              ],
+              [
+                153.07266428952,
+                -28.930975610681
+              ],
+              [
+                153.07271256928,
+                -28.931036645084
+              ],
+              [
+                153.0726267386,
+                -28.93108828955
+              ],
+              [
+                153.06952074056,
+                -28.930341789762
+              ],
+              [
+                153.06960608363,
+                -28.929818084366
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Richmond Valley",
+        "supportingAgencies": "Private",
+        "size": "1.73 ha",
+        "location": "ELLANGOWAN ROAD, YORKLEA",
+        "guarReference": "BA20251205001372",
+        "tenure": "Private",
+        "startDate": "08/12/2025",
+        "endDate": "08/12/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.06885457734,
+                -28.930251304249
+              ],
+              [
+                153.06894577245,
+                -28.930293559134
+              ],
+              [
+                153.06909597615,
+                -28.93029825412
+              ],
+              [
+                153.06919253568,
+                -28.93029825412
+              ],
+              [
+                153.06924081544,
+                -28.9302700842
+              ],
+              [
+                153.06923545102,
+                -28.930317034063
+              ],
+              [
+                153.0692890952,
+                -28.930406238744
+              ],
+              [
+                153.06937492589,
+                -28.930457883525
+              ],
+              [
+                153.07252627739,
+                -28.931139933561
+              ],
+              [
+                153.07078820595,
+                -28.932163427167
+              ],
+              [
+                153.06773780285,
+                -28.93151851635
+              ],
+              [
+                153.06795237957,
+                -28.930485626421
+              ],
+              [
+                153.06799529491,
+                -28.930433981655
+              ],
+              [
+                153.06805966793,
+                -28.930363556932
+              ],
+              [
+                153.06820450722,
+                -28.930335387029
+              ],
+              [
+                153.06840299068,
+                -28.93032599706
+              ],
+              [
+                153.06859074532,
+                -28.930330692045
+              ],
+              [
+                153.06877313553,
+                -28.930307217119
+              ],
+              [
+                153.06885457734,
+                -28.930251304249
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Richmond Valley",
+        "supportingAgencies": "Private",
+        "size": "5.73 ha",
+        "location": "ELLANGOWAN ROAD, YORKLEA",
+        "guarReference": "BA20251205001372",
+        "tenure": "Private",
+        "startDate": "08/12/2025",
+        "endDate": "08/12/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.13035664551,
+                -28.90087198946
+              ],
+              [
+                153.12951979629,
+                -28.899866972491
+              ],
+              [
+                153.12801775924,
+                -28.897932052607
+              ],
+              [
+                153.12882242195,
+                -28.897650265149
+              ],
+              [
+                153.13092527382,
+                -28.897960231311
+              ],
+              [
+                153.13035664551,
+                -28.90087198946
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Richmond Valley",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands",
+        "size": "5.12 ha",
+        "location": "VICTORIA PARK GREENRIDGE NSW",
+        "guarReference": "BA20250320000222",
+        "tenure": "Crown Land",
+        "startDate": "12/12/2025",
+        "endDate": "12/12/2025"
       }
     },
     {
@@ -5893,8 +6169,8 @@
       },
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
-        "lga": "Lithgow, Blue Mountains",
-        "supportingAgencies": "Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private",
+        "lga": "Blue Mountains, Lithgow",
+        "supportingAgencies": "Fire & Rescue NSW, Private, Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "69.7 ha",
         "location": "KENNY STREET, BEAUFORT STREET & KANIMBLA VALLEY ROAD, MOUNT VICTORIA",
         "guarReference": "BA20210913000369",
