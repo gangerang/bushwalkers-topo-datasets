@@ -297,6 +297,53 @@
           [
             [
               [
+                153.13035664551,
+                -28.90087198946
+              ],
+              [
+                153.12951979629,
+                -28.899866972491
+              ],
+              [
+                153.12801775924,
+                -28.897932052607
+              ],
+              [
+                153.12882242195,
+                -28.897650265149
+              ],
+              [
+                153.13092527382,
+                -28.897960231311
+              ],
+              [
+                153.13035664551,
+                -28.90087198946
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Richmond Valley",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands",
+        "size": "5.12 ha",
+        "location": "VICTORIA PARK GREENRIDGE NSW",
+        "guarReference": "BA20250320000222",
+        "tenure": "Crown Land",
+        "startDate": "12/12/2025",
+        "endDate": "12/12/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
                 150.66989509553,
                 -33.799631058503
               ],
@@ -538,53 +585,6 @@
         "tenure": "National Park",
         "startDate": "03/12/2025",
         "endDate": "10/12/2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                153.13035664551,
-                -28.90087198946
-              ],
-              [
-                153.12951979629,
-                -28.899866972491
-              ],
-              [
-                153.12801775924,
-                -28.897932052607
-              ],
-              [
-                153.12882242195,
-                -28.897650265149
-              ],
-              [
-                153.13092527382,
-                -28.897960231311
-              ],
-              [
-                153.13035664551,
-                -28.90087198946
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Richmond Valley",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands",
-        "size": "5.12 ha",
-        "location": "VICTORIA PARK GREENRIDGE NSW",
-        "guarReference": "BA20250320000222",
-        "tenure": "Crown Land",
-        "startDate": "12/12/2025",
-        "endDate": "12/12/2025"
       }
     },
     {
@@ -5354,7 +5354,7 @@
       },
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
-        "lga": "Blue Mountains, Lithgow",
+        "lga": "Lithgow, Blue Mountains",
         "supportingAgencies": "Blue Mountains, Department of Planning, Housing & Infrastructure - Crown Lands, Fire & Rescue NSW, Private",
         "size": "69.7 ha",
         "location": "KENNY STREET, BEAUFORT STREET & KANIMBLA VALLEY ROAD, MOUNT VICTORIA",
