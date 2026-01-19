@@ -9,176 +9,6 @@
           [
             [
               [
-                152.90129211714,
-                -28.593257112812
-              ],
-              [
-                152.90186196459,
-                -28.59378829014
-              ],
-              [
-                152.90056901797,
-                -28.593588857899
-              ],
-              [
-                152.89926631782,
-                -28.593390496148
-              ],
-              [
-                152.89922193947,
-                -28.593337827984
-              ],
-              [
-                152.8997927623,
-                -28.592357466517
-              ],
-              [
-                152.89985713532,
-                -28.59199006948
-              ],
-              [
-                152.89985701336,
-                -28.591975938871
-              ],
-              [
-                152.89979264034,
-                -28.591695679974
-              ],
-              [
-                152.89956940742,
-                -28.591265227382
-              ],
-              [
-                152.90063521965,
-                -28.591465948468
-              ],
-              [
-                152.90081322083,
-                -28.591710560027
-              ],
-              [
-                152.900992929,
-                -28.592436897784
-              ],
-              [
-                152.90104523207,
-                -28.592735995479
-              ],
-              [
-                152.90104389097,
-                -28.592788985139
-              ],
-              [
-                152.90101572777,
-                -28.592830841511
-              ],
-              [
-                152.90096964253,
-                -28.592879763291
-              ],
-              [
-                152.90077152487,
-                -28.592928176446
-              ],
-              [
-                152.90038687172,
-                -28.592965884725
-              ],
-              [
-                152.90041369381,
-                -28.593170830956
-              ],
-              [
-                152.90046703326,
-                -28.593346177701
-              ],
-              [
-                152.90067391384,
-                -28.593376900844
-              ],
-              [
-                152.90088567115,
-                -28.593336971509
-              ],
-              [
-                152.90129211714,
-                -28.593257112812
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Kyogle",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands",
-        "size": "3.06 ha",
-        "location": "BROWN KNOB RD EDEN CREEK",
-        "guarReference": "BA20260112000011",
-        "tenure": "Crown Land",
-        "startDate": "18/01/2026",
-        "endDate": "18/01/2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                152.89949333032,
-                -28.590337132717
-              ],
-              [
-                152.90061681009,
-                -28.591437731524
-              ],
-              [
-                152.89955599642,
-                -28.591242255909
-              ],
-              [
-                152.89948692954,
-                -28.591103891926
-              ],
-              [
-                152.89936086572,
-                -28.59068499855
-              ],
-              [
-                152.899236143,
-                -28.590453016752
-              ],
-              [
-                152.89949333032,
-                -28.590337132717
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Kyogle",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands",
-        "size": "0.64 ha",
-        "location": "BROWN KNOB RD EDEN CREEK",
-        "guarReference": "BA20260112000011",
-        "tenure": "Crown Land",
-        "startDate": "18/01/2026",
-        "endDate": "18/01/2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 153.02480629696,
                 -28.914794714863
               ],
@@ -607,7 +437,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Bellingen",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation, LALC - Coffs Harbour",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, LALC - Coffs Harbour, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "4.66 ha",
         "location": "",
         "guarReference": "BA20230323000144",
@@ -858,7 +688,7 @@
       "properties": {
         "leadAgency": "NSW Rural Fire Service",
         "lga": "Bellingen",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service - Mitigation, LALC - Coffs Harbour",
+        "supportingAgencies": "NSW Rural Fire Service - Mitigation, LALC - Coffs Harbour, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "4.66 ha",
         "location": "",
         "guarReference": "BA20230323000144",
