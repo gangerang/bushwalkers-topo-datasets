@@ -1,17 +1,15 @@
 import requests
-import geopandas as gpd
-from shapely.geometry import Point
 import os
 import json
 
 # Constants
 NAMING_URL = "https://dcok8xuap4.execute-api.ap-southeast-2.amazonaws.com/prod/public/placenames/advertised-proposals"
 GEONAME_URL_TEMPLATE = "https://dcok8xuap4.execute-api.ap-southeast-2.amazonaws.com/prod/public/placenames/geonames/{}"
-OUTPUT_DIRECTORY = "datasets"
-OUTPUT_FILE = os.path.join(OUTPUT_DIRECTORY, "gnb_naming_proposals.geojson")
 
-# Ensure the output directory exists
-os.makedirs(OUTPUT_DIRECTORY, exist_ok=True)
+# Output configuration
+output_dir = os.environ.get("OUTPUT_DIR", "datasets")
+os.makedirs(output_dir, exist_ok=True)
+OUTPUT_FILE = os.path.join(output_dir, "naming_proposals.geojson")
 
 def fetch_json(url):
     """Fetch JSON data from a URL."""
@@ -43,8 +41,6 @@ def process_naming_records():
         try:
             longitude = float(geoname_data.get("longitude", 0))
             latitude = float(geoname_data.get("latitude", 0))
-            geometry = Point(longitude, latitude)
-
             feature = {
                 "type": "Feature",
                 "geometry": {

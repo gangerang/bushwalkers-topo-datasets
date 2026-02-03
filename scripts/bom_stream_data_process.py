@@ -1,7 +1,6 @@
 import pandas as pd
 import geopandas as gpd
 import os
-import requests
 from ftplib import FTP
 import re
 import io
@@ -10,38 +9,34 @@ import io
 # all au - geojson and geopackage
 # nsw only - geojson
 
-
-# Local directory to save the files
-local_directory = "datasets"
-os.makedirs(local_directory, exist_ok=True)  # Ensure the local directory exists
+# Directory configuration from environment variables
+output_dir = os.environ.get("OUTPUT_DIR", "datasets")
+input_dir = os.environ.get("INPUT_DIR", "datasets")
+os.makedirs(output_dir, exist_ok=True)
 
 # FTP details and environment variables
 ftp_host = os.getenv("FTP_HOST")
 ftp_directory = os.getenv("FTP_DIRECTORY")
 height_file_pattern = r"IDZ65910_\d+\.hcs"
-height_file_path = os.path.join(local_directory, 'IDZ65910.csv')
 height_file_header = [
     "IndexNo", "SensorType", "SensorDataType", "SiteIdType", "SiteId",
     "ObservationTimestamp", "RealValue", "Unit", "SensorParam1",
     "SensorParam2", "Quality", "Comment"
 ]
 
-# Station file details
-station_file_path = os.path.join(local_directory, 'bom_rain_river_station_list.csv')
-station_url = os.getenv("STATION_URL")
-
+# Station file path (read from input dir)
+station_file_path = os.path.join(input_dir, 'rain_river_station_list.csv')
 
 # Output filenames
-geojson_file_path = os.path.join(local_directory, 'bom_au_stream_gauges.geojson')
-nsw_geojson_file_path = os.path.join(local_directory, 'bom_nsw_stream_gauges.geojson')
-gpkg_file_path = os.path.join(local_directory, 'bom_au_stream_gauges.gpkg')
+geojson_file_path = os.path.join(output_dir, 'au_stream_gauges.geojson')
+nsw_geojson_file_path = os.path.join(output_dir, 'nsw_stream_gauges.geojson')
+gpkg_file_path = os.path.join(output_dir, 'au_stream_gauges.gpkg')
 
 def get_stations():
-    station_file_path = "datasets/bom_rain_river_station_list.csv"
     if os.path.isfile(station_file_path):
         print(f"Found local file: {station_file_path}")
     else:
-        print(f"File not found: {station_file_path}. Please ensure it is stored in the 'datasets' directory.")
+        print(f"File not found: {station_file_path}. Please ensure it is stored in the input directory.")
 
 def get_height():
     # Connect to FTP
@@ -77,7 +72,6 @@ def load_height():
     return height_data
 
 def load_stations():
-    station_file_path = "datasets/bom_rain_river_station_list.csv"
     station_info = pd.read_csv(station_file_path)
     if 'SENSOR_TYPE' in station_info.columns:
         return station_info[station_info['SENSOR_TYPE'] == 'water level gauge']
@@ -86,10 +80,14 @@ def load_stations():
         return station_info  # Adjust as needed based on actual structure
 
 def join_stations_with_height(stream_height_data, station_info):
+    # Convert both columns to string to avoid type mismatch
+    stream_height_data['SiteId'] = stream_height_data['SiteId'].astype(str)
+    station_info['SENSORID'] = station_info['SENSORID'].astype(str)
+
     merged_data = pd.merge(
-        stream_height_data, 
-        station_info, 
-        left_on="SiteId", 
+        stream_height_data,
+        station_info,
+        left_on="SiteId",
         right_on="SENSORID"
     )
     return merged_data
@@ -107,7 +105,6 @@ def create_spatial_files(merged_data):
 if __name__ == "__main__":
     get_stations()  # Check and print the status of the local file
     station_info = load_stations()
-    get_height()
     stream_height_data = load_height()
     merged_data = join_stations_with_height(stream_height_data, station_info)
     create_spatial_files(merged_data)

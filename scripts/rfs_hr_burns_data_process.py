@@ -7,10 +7,9 @@ import os
 # pubic web version https://www.rfs.nsw.gov.au/fire-information/hazard-reductions
 # api is json response but not geojson so this script converts it to geojson
 
-local_directory = "datasets"
-os.makedirs(local_directory, exist_ok=True)  # Ensure the local directory exists
-output_filename = "rfs_hr_burns.geojson"
-output_path = os.path.join(local_directory, output_filename)
+output_dir = os.environ.get("OUTPUT_DIR", "datasets")
+os.makedirs(output_dir, exist_ok=True)
+output_path = os.path.join(output_dir, "hr_burns.geojson")
 
 def parse_polygon(polygon_str):
     """

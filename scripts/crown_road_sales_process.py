@@ -8,12 +8,14 @@ import os
 # Define constants
 SOURCE_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSDtRpJ1P87dHdP1l8H-veKEAKs-aUeSgagdlkaLlZVWNa3RApbo0sWrPNqOd1L4cJvqSS9_LTBylRN/pub?gid=0&single=true&output=tsv"
 
-LOCAL_DIRECTORY = 'datasets'
+# Output configuration
+OUTPUT_DIR = os.environ.get("OUTPUT_DIR", "datasets")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-OUTPUT_ACTIVE_FILE = os.path.join(LOCAL_DIRECTORY, "crown_road_sales_active.geojson")
-OUTPUT_INACTIVE_FILE = os.path.join(LOCAL_DIRECTORY, "crown_road_sales_inactive.geojson")
-LOCAL_FILE = os.path.join(LOCAL_DIRECTORY, "crown_road_sales_new.tsv")
-BACKUP_FILE = os.path.join(LOCAL_DIRECTORY, "crown_road_sales.tsv")
+OUTPUT_ACTIVE_FILE = os.path.join(OUTPUT_DIR, "sales_active.geojson")
+OUTPUT_INACTIVE_FILE = os.path.join(OUTPUT_DIR, "sales_inactive.geojson")
+LOCAL_FILE = os.path.join(OUTPUT_DIR, "sales_new.tsv")
+BACKUP_FILE = os.path.join(OUTPUT_DIR, "sales.tsv")
 
 
 def hash_file(file_path):

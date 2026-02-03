@@ -10,16 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout main branch (for scripts)
+        uses: actions/checkout@v4
         with:
-          # Fetch all history for the branch to allow commits
-          fetch-depth: 0
+          ref: main
+          path: main
+
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+          fetch-depth: 1
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Install Dependencies
         run: |
@@ -27,17 +34,21 @@ jobs:
           pip install pandas geopandas requests
 
       - name: Run crown road sales processing script
-        run: python scripts/crown_road_sales_process.py
+        run: python main/scripts/crown_road_sales_process.py
+        env:
+          OUTPUT_DIR: data/dynamic/crown_roads
 
       - name: Configure Git
+        working-directory: data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and Push Changes
+        working-directory: data
         run: |
-          git add datasets || exit 0
-          git commit -m "Update crown road sales geojson files" || exit 0
-          git push origin ${{ github.ref_name }}  # Push to the same branch || exit 0
+          git add -A
+          git diff --staged --quiet || git commit -m "Update crown road sales data"
+          git push origin data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
