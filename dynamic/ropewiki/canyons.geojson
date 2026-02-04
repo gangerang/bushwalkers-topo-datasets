@@ -2203,17 +2203,17 @@
       "properties": {
         "name": "Cocky Creek (Upper)",
         "url": "https://ropewiki.com/Cocky_Creek_(Upper)",
-        "summary": "3*  <i>3B&nbsp;II</i>  (v3a2 <i>II</i>) 2.5h-5h  3r+3j 180ft 2cars",
+        "summary": "3*  <i>3B&nbsp;II</i>  (v3a2 <i>II</i>) 2.5h-5h  3r+3j 164ft 2cars",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Port Macquarie Hastings"
         ],
         "major_region": "[[Port Macquarie Hastings]] ([[:Australia|Australia]])",
         "rappels": "3r+3j",
         "longest_rappel": {
-          "value": 180.4462,
+          "value": 164.042,
           "unit": "ft"
         },
-        "longest_rappel_m": 55.0,
+        "longest_rappel_m": 50.0,
         "pageid": "101500"
       }
     },
@@ -6268,7 +6268,7 @@
       "properties": {
         "name": "Manning Gorge (Upper)",
         "url": "https://ropewiki.com/Manning_Gorge_(Upper)",
-        "summary": "4*  <i>4C&nbsp;III</i>  (v4a3 <i>III</i>) 6h  4r 203ft  4x4",
+        "summary": "4.4*  <i>4C&nbsp;III</i>  (v4a3 <i>III</i>) 6h  4r 203ft  4x4",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Barrington Tops"
         ],
