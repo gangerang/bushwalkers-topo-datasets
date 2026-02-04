@@ -23,6 +23,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "100158"
       }
     },
@@ -45,6 +46,7 @@
         "major_region": "[[Coffs Harbour]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "85171"
       }
     },
@@ -67,6 +69,7 @@
         "major_region": "[[Western Australia]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "20158"
       }
     },
@@ -92,6 +95,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "77637"
       }
     },
@@ -117,6 +121,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "86556"
       }
     },
@@ -139,6 +144,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77376"
       }
     },
@@ -161,6 +167,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77743"
       }
     },
@@ -186,6 +193,7 @@
           "value": 80,
           "unit": "ft"
         },
+        "longest_rappel_m": 24.4,
         "pageid": "75348"
       }
     },
@@ -208,6 +216,7 @@
         "major_region": "[[New England Tableland]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "74267"
       }
     },
@@ -230,6 +239,7 @@
         "major_region": "[[Kanangra]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77613"
       }
     },
@@ -252,6 +262,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": "2r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77638"
       }
     },
@@ -277,6 +288,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "76661"
       }
     },
@@ -299,6 +311,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77639"
       }
     },
@@ -321,6 +334,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "0-1r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77377"
       }
     },
@@ -343,6 +357,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86549"
       }
     },
@@ -368,6 +383,7 @@
           "value": 20,
           "unit": "ft"
         },
+        "longest_rappel_m": 6.1,
         "pageid": "71868"
       }
     },
@@ -393,6 +409,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "74272"
       }
     },
@@ -415,6 +432,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "44834"
       }
     },
@@ -440,6 +458,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "71862"
       }
     },
@@ -465,6 +484,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "74262"
       }
     },
@@ -487,6 +507,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77640"
       }
     },
@@ -512,6 +533,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "97625"
       }
     },
@@ -534,6 +556,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86566"
       }
     },
@@ -556,6 +579,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77621"
       }
     },
@@ -578,6 +602,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77512"
       }
     },
@@ -600,6 +625,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77744"
       }
     },
@@ -625,6 +651,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "11676"
       }
     },
@@ -650,6 +677,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "98921"
       }
     },
@@ -672,6 +700,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77375"
       }
     },
@@ -697,6 +726,7 @@
           "value": 91.86352,
           "unit": "ft"
         },
+        "longest_rappel_m": 28.0,
         "pageid": "77402"
       }
     },
@@ -722,6 +752,7 @@
           "value": 45.93176,
           "unit": "ft"
         },
+        "longest_rappel_m": 14.0,
         "pageid": "77831"
       }
     },
@@ -744,6 +775,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "44832"
       }
     },
@@ -769,6 +801,7 @@
           "value": 80,
           "unit": "ft"
         },
+        "longest_rappel_m": 24.4,
         "pageid": "83864"
       }
     },
@@ -791,6 +824,7 @@
         "major_region": "[[Grampians]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "100207"
       }
     },
@@ -816,6 +850,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "78097"
       }
     },
@@ -838,6 +873,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77401"
       }
     },
@@ -860,6 +896,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77641"
       }
     },
@@ -882,6 +919,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86487"
       }
     },
@@ -907,6 +945,7 @@
           "value": 114.8294,
           "unit": "ft"
         },
+        "longest_rappel_m": 35.0,
         "pageid": "71864"
       }
     },
@@ -929,6 +968,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86551"
       }
     },
@@ -951,6 +991,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77745"
       }
     },
@@ -976,6 +1017,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "80864"
       }
     },
@@ -998,6 +1040,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86565"
       }
     },
@@ -1020,6 +1063,7 @@
         "major_region": "[[Brisbane]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84116"
       }
     },
@@ -1045,6 +1089,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "77817"
       }
     },
@@ -1070,6 +1115,7 @@
           "value": 213.2546,
           "unit": "ft"
         },
+        "longest_rappel_m": 65.0,
         "pageid": "85167"
       }
     },
@@ -1092,6 +1138,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77746"
       }
     },
@@ -1117,6 +1164,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "84413"
       }
     },
@@ -1139,6 +1187,7 @@
         "major_region": "[[Brisbane]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84191"
       }
     },
@@ -1161,6 +1210,7 @@
         "major_region": "[[Coffs Harbour]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "85174"
       }
     },
@@ -1186,6 +1236,7 @@
           "value": 39.37008,
           "unit": "ft"
         },
+        "longest_rappel_m": 12.0,
         "pageid": "11681"
       }
     },
@@ -1208,6 +1259,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77502"
       }
     },
@@ -1230,6 +1282,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77503"
       }
     },
@@ -1255,6 +1308,7 @@
           "value": 65.6168,
           "unit": "ft"
         },
+        "longest_rappel_m": 20.0,
         "pageid": "77499"
       }
     },
@@ -1277,6 +1331,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77747"
       }
     },
@@ -1302,6 +1357,7 @@
           "value": 213.2546,
           "unit": "ft"
         },
+        "longest_rappel_m": 65.0,
         "pageid": "77191"
       }
     },
@@ -1324,6 +1380,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77748"
       }
     },
@@ -1349,6 +1406,7 @@
           "value": 30,
           "unit": "ft"
         },
+        "longest_rappel_m": 9.1,
         "pageid": "44841"
       }
     },
@@ -1371,6 +1429,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77642"
       }
     },
@@ -1393,6 +1452,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77643"
       }
     },
@@ -1415,6 +1475,7 @@
         "major_region": "[[Port Macquarie Hastings]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "85926"
       }
     },
@@ -1437,6 +1498,7 @@
         "major_region": "[[Glen Davis]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77433"
       }
     },
@@ -1459,6 +1521,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77625"
       }
     },
@@ -1484,6 +1547,7 @@
           "value": 88.58268,
           "unit": "ft"
         },
+        "longest_rappel_m": 27.0,
         "pageid": "71869"
       }
     },
@@ -1509,6 +1573,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "31830"
       }
     },
@@ -1531,6 +1596,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77696"
       }
     },
@@ -1556,6 +1622,7 @@
           "value": 213.2546,
           "unit": "ft"
         },
+        "longest_rappel_m": 65.0,
         "pageid": "77184"
       }
     },
@@ -1578,6 +1645,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86478"
       }
     },
@@ -1603,6 +1671,7 @@
           "value": 75.45932,
           "unit": "ft"
         },
+        "longest_rappel_m": 23.0,
         "pageid": "71863"
       }
     },
@@ -1628,6 +1697,7 @@
           "value": 65.6168,
           "unit": "ft"
         },
+        "longest_rappel_m": 20.0,
         "pageid": "11670"
       }
     },
@@ -1650,6 +1720,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86479"
       }
     },
@@ -1672,6 +1743,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77755"
       }
     },
@@ -1697,6 +1769,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "84791"
       }
     },
@@ -1719,6 +1792,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86489"
       }
     },
@@ -1741,6 +1815,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77749"
       }
     },
@@ -1763,6 +1838,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77644"
       }
     },
@@ -1785,6 +1861,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77645"
       }
     },
@@ -1810,6 +1887,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "50550"
       }
     },
@@ -1835,6 +1913,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "77611"
       }
     },
@@ -1860,6 +1939,7 @@
           "value": 114.8294,
           "unit": "ft"
         },
+        "longest_rappel_m": 35.0,
         "pageid": "85166"
       }
     },
@@ -1885,6 +1965,7 @@
           "value": 121.39108,
           "unit": "ft"
         },
+        "longest_rappel_m": 37.0,
         "pageid": "77321"
       }
     },
@@ -1907,6 +1988,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77750"
       }
     },
@@ -1929,6 +2011,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77646"
       }
     },
@@ -1951,6 +2034,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86493"
       }
     },
@@ -1976,6 +2060,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "77614"
       }
     },
@@ -2001,6 +2086,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "11672"
       }
     },
@@ -2026,6 +2112,7 @@
           "value": 114.8294,
           "unit": "ft"
         },
+        "longest_rappel_m": 35.0,
         "pageid": "77647"
       }
     },
@@ -2051,6 +2138,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "77327"
       }
     },
@@ -2073,6 +2161,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77756"
       }
     },
@@ -2098,6 +2187,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77648"
       }
     },
@@ -2123,6 +2213,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "101500"
       }
     },
@@ -2148,6 +2239,7 @@
           "value": 114.8294,
           "unit": "ft"
         },
+        "longest_rappel_m": 35.0,
         "pageid": "77435"
       }
     },
@@ -2173,6 +2265,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77841"
       }
     },
@@ -2195,6 +2288,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77649"
       }
     },
@@ -2217,6 +2311,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "44835"
       }
     },
@@ -2242,6 +2337,7 @@
           "value": 20,
           "unit": "ft"
         },
+        "longest_rappel_m": 6.1,
         "pageid": "80870"
       }
     },
@@ -2267,6 +2363,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "71865"
       }
     },
@@ -2289,6 +2386,7 @@
         "major_region": "[[Coffs Harbour]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "85173"
       }
     },
@@ -2311,6 +2409,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77757"
       }
     },
@@ -2333,6 +2432,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77498"
       }
     },
@@ -2358,6 +2458,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "84455"
       }
     },
@@ -2380,6 +2481,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77373"
       }
     },
@@ -2405,6 +2507,7 @@
           "value": 65.6168,
           "unit": "ft"
         },
+        "longest_rappel_m": 20.0,
         "pageid": "77650"
       }
     },
@@ -2427,6 +2530,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77758"
       }
     },
@@ -2452,6 +2556,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "77835"
       }
     },
@@ -2474,6 +2579,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77622"
       }
     },
@@ -2496,6 +2602,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86510"
       }
     },
@@ -2521,6 +2628,7 @@
           "value": 32.8084,
           "unit": "ft"
         },
+        "longest_rappel_m": 10.0,
         "pageid": "77651"
       }
     },
@@ -2546,6 +2654,7 @@
           "value": 16.4042,
           "unit": "ft"
         },
+        "longest_rappel_m": 5.0,
         "pageid": "77403"
       }
     },
@@ -2571,6 +2680,7 @@
           "value": 114.8294,
           "unit": "ft"
         },
+        "longest_rappel_m": 35.0,
         "pageid": "77537"
       }
     },
@@ -2596,6 +2706,7 @@
           "value": 213.2546,
           "unit": "ft"
         },
+        "longest_rappel_m": 65.0,
         "pageid": "80868"
       }
     },
@@ -2621,6 +2732,7 @@
           "value": 229.6588,
           "unit": "ft"
         },
+        "longest_rappel_m": 70.0,
         "pageid": "77839"
       }
     },
@@ -2643,6 +2755,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "30143"
       }
     },
@@ -2668,6 +2781,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77398"
       }
     },
@@ -2693,6 +2807,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "77610"
       }
     },
@@ -2715,6 +2830,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77652"
       }
     },
@@ -2737,6 +2853,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77695"
       }
     },
@@ -2759,6 +2876,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77653"
       }
     },
@@ -2781,6 +2899,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77654"
       }
     },
@@ -2803,6 +2922,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77655"
       }
     },
@@ -2828,6 +2948,7 @@
           "value": 213.2546,
           "unit": "ft"
         },
+        "longest_rappel_m": 65.0,
         "pageid": "77834"
       }
     },
@@ -2850,6 +2971,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77626"
       }
     },
@@ -2872,6 +2994,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "44829"
       }
     },
@@ -2894,6 +3017,7 @@
         "major_region": "[[Glen Davis]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "78096"
       }
     },
@@ -2919,6 +3043,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77470"
       }
     },
@@ -2944,6 +3069,7 @@
           "value": 72.17848,
           "unit": "ft"
         },
+        "longest_rappel_m": 22.0,
         "pageid": "77514"
       }
     },
@@ -2966,6 +3092,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86497"
       }
     },
@@ -2988,6 +3115,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77759"
       }
     },
@@ -3013,6 +3141,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "11684"
       }
     },
@@ -3035,6 +3164,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77627"
       }
     },
@@ -3060,6 +3190,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "83368"
       }
     },
@@ -3082,6 +3213,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77505"
       }
     },
@@ -3104,6 +3236,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77506"
       }
     },
@@ -3129,6 +3262,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "100417"
       }
     },
@@ -3151,6 +3285,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77657"
       }
     },
@@ -3173,6 +3308,7 @@
         "major_region": "[[New England Tableland]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "85169"
       }
     },
@@ -3198,6 +3334,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "85164"
       }
     },
@@ -3223,6 +3360,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "77432"
       }
     },
@@ -3248,6 +3386,7 @@
           "value": 91.86352,
           "unit": "ft"
         },
+        "longest_rappel_m": 28.0,
         "pageid": "10248"
       }
     },
@@ -3273,6 +3412,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "85163"
       }
     },
@@ -3295,6 +3435,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77760"
       }
     },
@@ -3320,6 +3461,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "62853"
       }
     },
@@ -3342,6 +3484,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77761"
       }
     },
@@ -3364,6 +3507,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77762"
       }
     },
@@ -3386,6 +3530,7 @@
         "major_region": "[[Brisbane]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "83878"
       }
     },
@@ -3411,6 +3556,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "77407"
       }
     },
@@ -3436,6 +3582,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77830"
       }
     },
@@ -3461,6 +3608,7 @@
           "value": 114.8294,
           "unit": "ft"
         },
+        "longest_rappel_m": 35.0,
         "pageid": "86241"
       }
     },
@@ -3483,6 +3631,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77624"
       }
     },
@@ -3508,6 +3657,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "85165"
       }
     },
@@ -3530,6 +3680,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77763"
       }
     },
@@ -3552,6 +3703,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77658"
       }
     },
@@ -3574,6 +3726,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77501"
       }
     },
@@ -3599,6 +3752,7 @@
           "value": 190.28872,
           "unit": "ft"
         },
+        "longest_rappel_m": 58.0,
         "pageid": "82665"
       }
     },
@@ -3624,6 +3778,7 @@
           "value": 262.4672,
           "unit": "ft"
         },
+        "longest_rappel_m": 80.0,
         "pageid": "100642"
       }
     },
@@ -3649,6 +3804,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "77838"
       }
     },
@@ -3674,6 +3830,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "44837"
       }
     },
@@ -3699,6 +3856,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "85109"
       }
     },
@@ -3724,6 +3882,7 @@
           "value": 262.4672,
           "unit": "ft"
         },
+        "longest_rappel_m": 80.0,
         "pageid": "99081"
       }
     },
@@ -3749,6 +3908,7 @@
           "value": 229.6588,
           "unit": "ft"
         },
+        "longest_rappel_m": 70.0,
         "pageid": "83849"
       }
     },
@@ -3771,6 +3931,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86494"
       }
     },
@@ -3796,6 +3957,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "77317"
       }
     },
@@ -3821,6 +3983,7 @@
           "value": 26.24672,
           "unit": "ft"
         },
+        "longest_rappel_m": 8.0,
         "pageid": "11669"
       }
     },
@@ -3843,6 +4006,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77659"
       }
     },
@@ -3865,6 +4029,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77660"
       }
     },
@@ -3887,6 +4052,7 @@
         "major_region": "[[Queensland]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "20164"
       }
     },
@@ -3912,6 +4078,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77436"
       }
     },
@@ -3937,6 +4104,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "87707"
       }
     },
@@ -3962,6 +4130,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "65573"
       }
     },
@@ -3987,6 +4156,7 @@
           "value": 65.6168,
           "unit": "ft"
         },
+        "longest_rappel_m": 20.0,
         "pageid": "85291"
       }
     },
@@ -4012,6 +4182,7 @@
           "value": 91.86352,
           "unit": "ft"
         },
+        "longest_rappel_m": 28.0,
         "pageid": "77661"
       }
     },
@@ -4037,6 +4208,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "89742"
       }
     },
@@ -4062,6 +4234,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77390"
       }
     },
@@ -4084,6 +4257,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86495"
       }
     },
@@ -4106,6 +4280,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77662"
       }
     },
@@ -4131,6 +4306,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "77497"
       }
     },
@@ -4156,6 +4332,7 @@
           "value": 203.41208,
           "unit": "ft"
         },
+        "longest_rappel_m": 62.0,
         "pageid": "100163"
       }
     },
@@ -4181,6 +4358,7 @@
           "value": 229.6588,
           "unit": "ft"
         },
+        "longest_rappel_m": 70.0,
         "pageid": "74264"
       }
     },
@@ -4206,6 +4384,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "77366"
       }
     },
@@ -4228,6 +4407,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77663"
       }
     },
@@ -4250,6 +4430,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86559"
       }
     },
@@ -4272,6 +4453,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77764"
       }
     },
@@ -4297,6 +4479,7 @@
           "value": 26.24672,
           "unit": "ft"
         },
+        "longest_rappel_m": 8.0,
         "pageid": "77664"
       }
     },
@@ -4322,6 +4505,7 @@
           "value": 65.6168,
           "unit": "ft"
         },
+        "longest_rappel_m": 20.0,
         "pageid": "11701"
       }
     },
@@ -4344,6 +4528,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77765"
       }
     },
@@ -4369,6 +4554,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77379"
       }
     },
@@ -4391,6 +4577,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77766"
       }
     },
@@ -4413,6 +4600,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77767"
       }
     },
@@ -4438,6 +4626,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "77665"
       }
     },
@@ -4463,6 +4652,7 @@
           "value": 4,
           "unit": "ft"
         },
+        "longest_rappel_m": 1.2,
         "pageid": "77500"
       }
     },
@@ -4485,6 +4675,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77666"
       }
     },
@@ -4507,6 +4698,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86568"
       }
     },
@@ -4529,6 +4721,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "44830"
       }
     },
@@ -4551,6 +4744,7 @@
         "major_region": "[[Port Macquarie Hastings]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "74266"
       }
     },
@@ -4576,6 +4770,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "77374"
       }
     },
@@ -4601,6 +4796,7 @@
           "value": 121.39108,
           "unit": "ft"
         },
+        "longest_rappel_m": 37.0,
         "pageid": "44831"
       }
     },
@@ -4626,6 +4822,7 @@
           "value": 170.60368,
           "unit": "ft"
         },
+        "longest_rappel_m": 52.0,
         "pageid": "83881"
       }
     },
@@ -4651,6 +4848,7 @@
           "value": 16.4042,
           "unit": "ft"
         },
+        "longest_rappel_m": 5.0,
         "pageid": "92594"
       }
     },
@@ -4673,6 +4871,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86555"
       }
     },
@@ -4698,6 +4897,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "77495"
       }
     },
@@ -4720,6 +4920,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77667"
       }
     },
@@ -4745,6 +4946,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "11675"
       }
     },
@@ -4767,6 +4969,7 @@
         "major_region": "[[Brisbane]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "25845"
       }
     },
@@ -4792,6 +4995,7 @@
           "value": 39.37008,
           "unit": "ft"
         },
+        "longest_rappel_m": 12.0,
         "pageid": "68983"
       }
     },
@@ -4814,6 +5018,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77768"
       }
     },
@@ -4839,6 +5044,7 @@
           "value": 32.8084,
           "unit": "ft"
         },
+        "longest_rappel_m": 10.0,
         "pageid": "77668"
       }
     },
@@ -4864,6 +5070,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "77504"
       }
     },
@@ -4886,6 +5093,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77769"
       }
     },
@@ -4911,6 +5119,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "65445"
       }
     },
@@ -4933,6 +5142,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77770"
       }
     },
@@ -4958,6 +5168,7 @@
           "value": 213.2546,
           "unit": "ft"
         },
+        "longest_rappel_m": 65.0,
         "pageid": "77845"
       }
     },
@@ -4980,6 +5191,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77669"
       }
     },
@@ -5002,6 +5214,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "44833"
       }
     },
@@ -5024,6 +5237,7 @@
         "major_region": "[[Northern NSW]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84114"
       }
     },
@@ -5049,6 +5263,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77824"
       }
     },
@@ -5071,6 +5286,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77771"
       }
     },
@@ -5096,6 +5312,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "65454"
       }
     },
@@ -5118,6 +5335,7 @@
         "major_region": "[[Kanangra]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "99040"
       }
     },
@@ -5143,6 +5361,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "77189"
       }
     },
@@ -5165,6 +5384,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77507"
       }
     },
@@ -5187,6 +5407,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86471"
       }
     },
@@ -5212,6 +5433,7 @@
           "value": 65.6168,
           "unit": "ft"
         },
+        "longest_rappel_m": 20.0,
         "pageid": "75869"
       }
     },
@@ -5234,6 +5456,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77772"
       }
     },
@@ -5259,6 +5482,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "77404"
       }
     },
@@ -5284,6 +5508,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "77472"
       }
     },
@@ -5309,6 +5534,7 @@
           "value": 26.24672,
           "unit": "ft"
         },
+        "longest_rappel_m": 8.0,
         "pageid": "77405"
       }
     },
@@ -5334,6 +5560,7 @@
           "value": 190.28872,
           "unit": "ft"
         },
+        "longest_rappel_m": 58.0,
         "pageid": "11671"
       }
     },
@@ -5356,6 +5583,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86500"
       }
     },
@@ -5378,6 +5606,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86481"
       }
     },
@@ -5403,6 +5632,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "88886"
       }
     },
@@ -5428,6 +5658,7 @@
           "value": 183.72704,
           "unit": "ft"
         },
+        "longest_rappel_m": 56.0,
         "pageid": "71867"
       }
     },
@@ -5453,6 +5684,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "84422"
       }
     },
@@ -5478,6 +5710,7 @@
           "value": 20,
           "unit": "ft"
         },
+        "longest_rappel_m": 6.1,
         "pageid": "459"
       }
     },
@@ -5503,6 +5736,7 @@
           "value": 187.00788,
           "unit": "ft"
         },
+        "longest_rappel_m": 57.0,
         "pageid": "77275"
       }
     },
@@ -5528,6 +5762,7 @@
           "value": 59.05512,
           "unit": "ft"
         },
+        "longest_rappel_m": 18.0,
         "pageid": "77406"
       }
     },
@@ -5553,6 +5788,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "91937"
       }
     },
@@ -5578,6 +5814,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "77178"
       }
     },
@@ -5603,6 +5840,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "77527"
       }
     },
@@ -5625,6 +5863,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77773"
       }
     },
@@ -5647,6 +5886,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "1r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77508"
       }
     },
@@ -5669,6 +5909,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86547"
       }
     },
@@ -5691,6 +5932,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77628"
       }
     },
@@ -5716,6 +5958,7 @@
           "value": 114.8294,
           "unit": "ft"
         },
+        "longest_rappel_m": 35.0,
         "pageid": "77533"
       }
     },
@@ -5741,6 +5984,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "71871"
       }
     },
@@ -5766,6 +6010,7 @@
           "value": 183.72704,
           "unit": "ft"
         },
+        "longest_rappel_m": 56.0,
         "pageid": "77188"
       }
     },
@@ -5788,6 +6033,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77629"
       }
     },
@@ -5810,6 +6056,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86492"
       }
     },
@@ -5835,6 +6082,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "71870"
       }
     },
@@ -5857,6 +6105,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77670"
       }
     },
@@ -5879,6 +6128,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77774"
       }
     },
@@ -5901,6 +6151,7 @@
         "major_region": "[[Northern NSW]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "83888"
       }
     },
@@ -5923,6 +6174,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77630"
       }
     },
@@ -5948,6 +6200,7 @@
           "value": 91.86352,
           "unit": "ft"
         },
+        "longest_rappel_m": 28.0,
         "pageid": "11683"
       }
     },
@@ -5973,6 +6226,7 @@
           "value": 43,
           "unit": "ft"
         },
+        "longest_rappel_m": 13.1,
         "pageid": "83884"
       }
     },
@@ -5998,6 +6252,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "41676"
       }
     },
@@ -6023,6 +6278,7 @@
           "value": 203.41208,
           "unit": "ft"
         },
+        "longest_rappel_m": 62.0,
         "pageid": "84426"
       }
     },
@@ -6045,6 +6301,7 @@
         "major_region": "[[Glen Davis]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77437"
       }
     },
@@ -6067,6 +6324,7 @@
         "major_region": "[[Coffs Harbour]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "85170"
       }
     },
@@ -6092,6 +6350,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "83454"
       }
     },
@@ -6117,6 +6376,7 @@
           "value": 32.8084,
           "unit": "ft"
         },
+        "longest_rappel_m": 10.0,
         "pageid": "77496"
       }
     },
@@ -6139,6 +6399,7 @@
         "major_region": "[[Barrington Tops]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84407"
       }
     },
@@ -6161,6 +6422,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77775"
       }
     },
@@ -6183,6 +6445,7 @@
         "major_region": "[[New England Tableland]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "74271"
       }
     },
@@ -6205,6 +6468,7 @@
         "major_region": "[[Southern NSW]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84318"
       }
     },
@@ -6227,6 +6491,7 @@
         "major_region": "[[Tasmania]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77319"
       }
     },
@@ -6249,6 +6514,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77631"
       }
     },
@@ -6271,6 +6537,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86545"
       }
     },
@@ -6293,6 +6560,7 @@
         "major_region": "[[Kanangra]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77619"
       }
     },
@@ -6318,6 +6586,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "83843"
       }
     },
@@ -6343,6 +6612,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "77844"
       }
     },
@@ -6365,6 +6635,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77776"
       }
     },
@@ -6390,6 +6661,7 @@
           "value": 104.98688,
           "unit": "ft"
         },
+        "longest_rappel_m": 32.0,
         "pageid": "77632"
       }
     },
@@ -6412,6 +6684,7 @@
         "major_region": "[[Northern NSW]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84112"
       }
     },
@@ -6434,6 +6707,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77671"
       }
     },
@@ -6459,6 +6733,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "71873"
       }
     },
@@ -6481,6 +6756,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77672"
       }
     },
@@ -6506,6 +6782,7 @@
           "value": 91.86352,
           "unit": "ft"
         },
+        "longest_rappel_m": 28.0,
         "pageid": "83858"
       }
     },
@@ -6528,6 +6805,7 @@
         "major_region": "[[Coffs Harbour]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "85172"
       }
     },
@@ -6550,6 +6828,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77777"
       }
     },
@@ -6572,6 +6851,7 @@
         "major_region": "[[New England Tableland]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "99073"
       }
     },
@@ -6594,6 +6874,7 @@
         "major_region": "[[Brisbane]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84190"
       }
     },
@@ -6616,6 +6897,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77509"
       }
     },
@@ -6641,6 +6923,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77820"
       }
     },
@@ -6666,6 +6949,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77847"
       }
     },
@@ -6691,6 +6975,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "77399"
       }
     },
@@ -6716,6 +7001,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "88888"
       }
     },
@@ -6738,6 +7024,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77778"
       }
     },
@@ -6760,6 +7047,7 @@
         "major_region": "[[Glen Davis]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77438"
       }
     },
@@ -6785,6 +7073,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77673"
       }
     },
@@ -6807,6 +7096,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86488"
       }
     },
@@ -6832,6 +7122,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "100717"
       }
     },
@@ -6857,6 +7148,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77320"
       }
     },
@@ -6882,6 +7174,7 @@
           "value": 262.4672,
           "unit": "ft"
         },
+        "longest_rappel_m": 80.0,
         "pageid": "77822"
       }
     },
@@ -6904,6 +7197,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77779"
       }
     },
@@ -6926,6 +7220,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77633"
       }
     },
@@ -6948,6 +7243,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77674"
       }
     },
@@ -6973,6 +7269,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "77209"
       }
     },
@@ -6995,6 +7292,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86569"
       }
     },
@@ -7020,6 +7318,7 @@
           "value": 19.68504,
           "unit": "ft"
         },
+        "longest_rappel_m": 6.0,
         "pageid": "77675"
       }
     },
@@ -7045,6 +7344,7 @@
           "value": 30,
           "unit": "ft"
         },
+        "longest_rappel_m": 9.1,
         "pageid": "83866"
       }
     },
@@ -7067,6 +7367,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77676"
       }
     },
@@ -7089,6 +7390,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77677"
       }
     },
@@ -7114,6 +7416,7 @@
           "value": 65.6168,
           "unit": "ft"
         },
+        "longest_rappel_m": 20.0,
         "pageid": "76103"
       }
     },
@@ -7136,6 +7439,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86496"
       }
     },
@@ -7161,6 +7465,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "65392"
       }
     },
@@ -7183,6 +7488,7 @@
         "major_region": "[[Omeo]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77818"
       }
     },
@@ -7208,6 +7514,7 @@
           "value": 65.6168,
           "unit": "ft"
         },
+        "longest_rappel_m": 20.0,
         "pageid": "77851"
       }
     },
@@ -7230,6 +7537,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77780"
       }
     },
@@ -7252,6 +7560,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86553"
       }
     },
@@ -7274,6 +7583,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77634"
       }
     },
@@ -7299,6 +7609,7 @@
           "value": 20,
           "unit": "ft"
         },
+        "longest_rappel_m": 6.1,
         "pageid": "71876"
       }
     },
@@ -7321,6 +7632,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77678"
       }
     },
@@ -7343,6 +7655,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77679"
       }
     },
@@ -7365,6 +7678,7 @@
         "major_region": "[[Brisbane]] ([[:Australia|Australia]])",
         "rappels": "20r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "71872"
       }
     },
@@ -7387,6 +7701,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "11678"
       }
     },
@@ -7412,6 +7727,7 @@
           "value": 65.6168,
           "unit": "ft"
         },
+        "longest_rappel_m": 20.0,
         "pageid": "84712"
       }
     },
@@ -7434,6 +7750,7 @@
         "major_region": "[[Brisbane]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84189"
       }
     },
@@ -7459,6 +7776,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "74261"
       }
     },
@@ -7484,6 +7802,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "79863"
       }
     },
@@ -7509,6 +7828,7 @@
           "value": 246.063,
           "unit": "ft"
         },
+        "longest_rappel_m": 75.0,
         "pageid": "62857"
       }
     },
@@ -7534,6 +7854,7 @@
           "value": 88.58268,
           "unit": "ft"
         },
+        "longest_rappel_m": 27.0,
         "pageid": "77849"
       }
     },
@@ -7559,6 +7880,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "77821"
       }
     },
@@ -7581,6 +7903,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77697"
       }
     },
@@ -7606,6 +7929,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "100690"
       }
     },
@@ -7631,6 +7955,7 @@
           "value": 35,
           "unit": "ft"
         },
+        "longest_rappel_m": 10.7,
         "pageid": "83865"
       }
     },
@@ -7656,6 +7981,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "86085"
       }
     },
@@ -7681,6 +8007,7 @@
           "value": 213.2546,
           "unit": "ft"
         },
+        "longest_rappel_m": 65.0,
         "pageid": "83961"
       }
     },
@@ -7706,6 +8033,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "77680"
       }
     },
@@ -7731,6 +8059,7 @@
           "value": 65.6168,
           "unit": "ft"
         },
+        "longest_rappel_m": 20.0,
         "pageid": "11673"
       }
     },
@@ -7756,6 +8085,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77819"
       }
     },
@@ -7781,6 +8111,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "83643"
       }
     },
@@ -7806,6 +8137,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "86708"
       }
     },
@@ -7831,6 +8163,7 @@
           "value": 114.8294,
           "unit": "ft"
         },
+        "longest_rappel_m": 35.0,
         "pageid": "91153"
       }
     },
@@ -7853,6 +8186,7 @@
         "major_region": "[[Glen Davis]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "100160"
       }
     },
@@ -7878,6 +8212,7 @@
           "value": 88.58268,
           "unit": "ft"
         },
+        "longest_rappel_m": 27.0,
         "pageid": "77511"
       }
     },
@@ -7900,6 +8235,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77681"
       }
     },
@@ -7922,6 +8258,7 @@
         "major_region": "[[Brisbane]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84164"
       }
     },
@@ -7944,6 +8281,7 @@
         "major_region": "[[Coffs Harbour]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77322"
       }
     },
@@ -7969,6 +8307,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "62750"
       }
     },
@@ -7991,6 +8330,7 @@
         "major_region": "[[Coffs Harbour]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86104"
       }
     },
@@ -8016,6 +8356,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "90448"
       }
     },
@@ -8041,6 +8382,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "62859"
       }
     },
@@ -8066,6 +8408,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "77948"
       }
     },
@@ -8088,6 +8431,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77781"
       }
     },
@@ -8110,6 +8454,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77782"
       }
     },
@@ -8135,6 +8480,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77843"
       }
     },
@@ -8160,6 +8506,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "83875"
       }
     },
@@ -8182,6 +8529,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77783"
       }
     },
@@ -8204,6 +8552,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77784"
       }
     },
@@ -8226,6 +8575,7 @@
         "major_region": "[[Queensland]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77623"
       }
     },
@@ -8251,6 +8601,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77682"
       }
     },
@@ -8273,6 +8624,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86501"
       }
     },
@@ -8298,6 +8650,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "77311"
       }
     },
@@ -8320,6 +8673,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77785"
       }
     },
@@ -8345,6 +8699,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "87157"
       }
     },
@@ -8370,6 +8725,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "65451"
       }
     },
@@ -8395,6 +8751,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "44828"
       }
     },
@@ -8417,6 +8774,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77786"
       }
     },
@@ -8439,6 +8797,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77683"
       }
     },
@@ -8461,6 +8820,7 @@
         "major_region": "[[New England Tableland]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86749"
       }
     },
@@ -8483,6 +8843,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86490"
       }
     },
@@ -8505,6 +8866,7 @@
         "major_region": "[[Wulgumerang]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77529"
       }
     },
@@ -8530,6 +8892,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "74273"
       }
     },
@@ -8555,6 +8918,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "86591"
       }
     },
@@ -8580,6 +8944,7 @@
           "value": 108.26772,
           "unit": "ft"
         },
+        "longest_rappel_m": 33.0,
         "pageid": "83846"
       }
     },
@@ -8605,6 +8970,7 @@
           "value": 72.17848,
           "unit": "ft"
         },
+        "longest_rappel_m": 22.0,
         "pageid": "77528"
       }
     },
@@ -8627,6 +8993,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77684"
       }
     },
@@ -8649,6 +9016,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": "4-5r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77685"
       }
     },
@@ -8674,6 +9042,7 @@
           "value": 59.05512,
           "unit": "ft"
         },
+        "longest_rappel_m": 18.0,
         "pageid": "77852"
       }
     },
@@ -8696,6 +9065,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86567"
       }
     },
@@ -8718,6 +9088,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86476"
       }
     },
@@ -8743,6 +9114,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "77526"
       }
     },
@@ -8765,6 +9137,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77686"
       }
     },
@@ -8790,6 +9163,7 @@
           "value": 42.65092,
           "unit": "ft"
         },
+        "longest_rappel_m": 13.0,
         "pageid": "77842"
       }
     },
@@ -8815,6 +9189,7 @@
           "value": 262.4672,
           "unit": "ft"
         },
+        "longest_rappel_m": 80.0,
         "pageid": "71874"
       }
     },
@@ -8840,6 +9215,7 @@
           "value": 246.063,
           "unit": "ft"
         },
+        "longest_rappel_m": 75.0,
         "pageid": "86499"
       }
     },
@@ -8862,6 +9238,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77723"
       }
     },
@@ -8887,6 +9264,7 @@
           "value": 26.24672,
           "unit": "ft"
         },
+        "longest_rappel_m": 8.0,
         "pageid": "91940"
       }
     },
@@ -8909,6 +9287,7 @@
         "major_region": "[[West MacDonnell Ranges]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "65481"
       }
     },
@@ -8934,6 +9313,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "86498"
       }
     },
@@ -8959,6 +9339,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "77840"
       }
     },
@@ -8984,6 +9365,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77392"
       }
     },
@@ -9009,6 +9391,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "44838"
       }
     },
@@ -9034,6 +9417,7 @@
           "value": 203.41208,
           "unit": "ft"
         },
+        "longest_rappel_m": 62.0,
         "pageid": "77612"
       }
     },
@@ -9059,6 +9443,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "84394"
       }
     },
@@ -9084,6 +9469,7 @@
           "value": 75.45932,
           "unit": "ft"
         },
+        "longest_rappel_m": 23.0,
         "pageid": "44840"
       }
     },
@@ -9106,6 +9492,7 @@
         "major_region": "[[Port Macquarie Hastings]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84424"
       }
     },
@@ -9128,6 +9515,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86502"
       }
     },
@@ -9153,6 +9541,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "77367"
       }
     },
@@ -9178,6 +9567,7 @@
           "value": 16.4042,
           "unit": "ft"
         },
+        "longest_rappel_m": 5.0,
         "pageid": "77837"
       }
     },
@@ -9200,6 +9590,7 @@
         "major_region": "[[Glen Davis]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77439"
       }
     },
@@ -9222,6 +9613,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77687"
       }
     },
@@ -9247,6 +9639,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "31838"
       }
     },
@@ -9272,6 +9665,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "82958"
       }
     },
@@ -9294,6 +9688,7 @@
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77635"
       }
     },
@@ -9319,6 +9714,7 @@
           "value": 114.8294,
           "unit": "ft"
         },
+        "longest_rappel_m": 35.0,
         "pageid": "62855"
       }
     },
@@ -9344,6 +9740,7 @@
           "value": 32.8084,
           "unit": "ft"
         },
+        "longest_rappel_m": 10.0,
         "pageid": "11677"
       }
     },
@@ -9369,6 +9766,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "91949"
       }
     },
@@ -9394,6 +9792,7 @@
           "value": 55.77428,
           "unit": "ft"
         },
+        "longest_rappel_m": 17.0,
         "pageid": "77850"
       }
     },
@@ -9416,6 +9815,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77787"
       }
     },
@@ -9438,6 +9838,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77688"
       }
     },
@@ -9460,6 +9861,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77689"
       }
     },
@@ -9485,6 +9887,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "84775"
       }
     },
@@ -9510,6 +9913,7 @@
           "value": 170.60368,
           "unit": "ft"
         },
+        "longest_rappel_m": 52.0,
         "pageid": "74259"
       }
     },
@@ -9535,6 +9939,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "91943"
       }
     },
@@ -9560,6 +9965,7 @@
           "value": 32.8084,
           "unit": "ft"
         },
+        "longest_rappel_m": 10.0,
         "pageid": "91946"
       }
     },
@@ -9585,6 +9991,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "77372"
       }
     },
@@ -9610,6 +10017,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "77816"
       }
     },
@@ -9632,6 +10040,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77788"
       }
     },
@@ -9657,6 +10066,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "11679"
       }
     },
@@ -9679,6 +10089,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77690"
       }
     },
@@ -9701,6 +10112,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86562"
       }
     },
@@ -9726,6 +10138,7 @@
           "value": 147.6378,
           "unit": "ft"
         },
+        "longest_rappel_m": 45.0,
         "pageid": "77380"
       }
     },
@@ -9751,6 +10164,7 @@
           "value": 196.8504,
           "unit": "ft"
         },
+        "longest_rappel_m": 60.0,
         "pageid": "77268"
       }
     },
@@ -9773,6 +10187,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84270"
       }
     },
@@ -9798,6 +10213,7 @@
           "value": 52.49344,
           "unit": "ft"
         },
+        "longest_rappel_m": 16.0,
         "pageid": "77492"
       }
     },
@@ -9823,6 +10239,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "71866"
       }
     },
@@ -9848,6 +10265,7 @@
           "value": 180.4462,
           "unit": "ft"
         },
+        "longest_rappel_m": 55.0,
         "pageid": "77969"
       }
     },
@@ -9870,6 +10288,7 @@
         "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77789"
       }
     },
@@ -9895,6 +10314,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "74263"
       }
     },
@@ -9920,6 +10340,7 @@
           "value": 100,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.5,
         "pageid": "460"
       }
     },
@@ -9945,6 +10366,7 @@
           "value": 88.58268,
           "unit": "ft"
         },
+        "longest_rappel_m": 27.0,
         "pageid": "77815"
       }
     },
@@ -9967,6 +10389,7 @@
         "major_region": "[[Kanangra]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77615"
       }
     },
@@ -9989,6 +10412,7 @@
         "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77691"
       }
     },
@@ -10014,6 +10438,7 @@
           "value": 49.2126,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.0,
         "pageid": "76096"
       }
     },
@@ -10039,6 +10464,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77825"
       }
     },
@@ -10064,6 +10490,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "77378"
       }
     },
@@ -10089,6 +10516,7 @@
           "value": 50.85302,
           "unit": "ft"
         },
+        "longest_rappel_m": 15.5,
         "pageid": "77493"
       }
     },
@@ -10114,6 +10542,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77828"
       }
     },
@@ -10139,6 +10568,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "77431"
       }
     },
@@ -10164,6 +10594,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "31831"
       }
     },
@@ -10189,6 +10620,7 @@
           "value": 101.70604,
           "unit": "ft"
         },
+        "longest_rappel_m": 31.0,
         "pageid": "77692"
       }
     },
@@ -10214,6 +10646,7 @@
           "value": 55,
           "unit": "ft"
         },
+        "longest_rappel_m": 16.8,
         "pageid": "83853"
       }
     },
@@ -10236,6 +10669,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86477"
       }
     },
@@ -10261,6 +10695,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "77693"
       }
     },
@@ -10283,6 +10718,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": "0r",
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "77513"
       }
     },
@@ -10308,6 +10744,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "11674"
       }
     },
@@ -10333,6 +10770,7 @@
           "value": 0,
           "unit": "ft"
         },
+        "longest_rappel_m": 0.0,
         "pageid": "11680"
       }
     },
@@ -10355,6 +10793,7 @@
         "major_region": "[[New England Tableland]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "74265"
       }
     },
@@ -10380,6 +10819,7 @@
           "value": 82.021,
           "unit": "ft"
         },
+        "longest_rappel_m": 25.0,
         "pageid": "77400"
       }
     },
@@ -10405,6 +10845,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "79408"
       }
     },
@@ -10430,6 +10871,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77440"
       }
     },
@@ -10455,6 +10897,7 @@
           "value": 80,
           "unit": "ft"
         },
+        "longest_rappel_m": 24.4,
         "pageid": "61883"
       }
     },
@@ -10477,6 +10920,7 @@
         "major_region": "[[Brisbane]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "76065"
       }
     },
@@ -10499,6 +10943,7 @@
         "major_region": "[[Townsville]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "86491"
       }
     },
@@ -10524,6 +10969,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "83854"
       }
     },
@@ -10549,6 +10995,7 @@
           "value": 164.042,
           "unit": "ft"
         },
+        "longest_rappel_m": 50.0,
         "pageid": "11682"
       }
     },
@@ -10574,6 +11021,7 @@
           "value": 98.4252,
           "unit": "ft"
         },
+        "longest_rappel_m": 30.0,
         "pageid": "77848"
       }
     },
@@ -10596,6 +11044,7 @@
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
         "rappels": null,
         "longest_rappel": null,
+        "longest_rappel_m": null,
         "pageid": "84268"
       }
     },
@@ -10621,6 +11070,7 @@
           "value": 131.2336,
           "unit": "ft"
         },
+        "longest_rappel_m": 40.0,
         "pageid": "77694"
       }
     }
