@@ -42,6 +42,15 @@ def process_canyons(data):
 
             printouts = canyon_data.get("printouts", {})
 
+            # Extract longest rappel and convert to meters
+            longest_rappel_raw = printouts.get("Has longest rappel", [None])[0] if printouts.get("Has longest rappel") else None
+            longest_rappel_m = None
+            if longest_rappel_raw and isinstance(longest_rappel_raw, dict):
+                value = longest_rappel_raw.get("value")
+                if value is not None:
+                    # Convert feet to meters (1 ft = 0.3048 m)
+                    longest_rappel_m = round(value * 0.3048, 1)
+
             feature = {
                 "type": "Feature",
                 "geometry": {
@@ -55,7 +64,8 @@ def process_canyons(data):
                     "regions": printouts.get("Has info regions", []),
                     "major_region": printouts.get("Has info major region", [""])[0] if printouts.get("Has info major region") else None,
                     "rappels": printouts.get("Has info rappels", [None])[0] if printouts.get("Has info rappels") else None,
-                    "longest_rappel": printouts.get("Has longest rappel", [None])[0] if printouts.get("Has longest rappel") else None,
+                    "longest_rappel": longest_rappel_raw,
+                    "longest_rappel_m": longest_rappel_m,
                     "pageid": printouts.get("Has pageid", [None])[0] if printouts.get("Has pageid") else None
                 }
             }
