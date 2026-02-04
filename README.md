@@ -22,6 +22,7 @@ Updated automatically by GitHub workflows.
 | BOM Stream Gauges (AU) | `dynamic/bom/au_stream_gauges.geojson` | GeoJSON | Manual |
 | BOM Stream Gauges (NSW) | `dynamic/bom/nsw_stream_gauges.geojson` | GeoJSON | Manual |
 | BOM Stream Gauges (AU) | `dynamic/bom/au_stream_gauges.gpkg` | GeoPackage | Manual |
+| Ropewiki Canyons | `dynamic/ropewiki/canyons.geojson` | GeoJSON | Daily |
 
 ## Static Datasets
 
@@ -47,3 +48,4 @@ Manually maintained reference data.
 - **Water NSW**: [WaterNSW](https://www.waternsw.com.au/)
 - **GetLostMaps**: [Get Lost Maps](https://www.getlost.com.au/)
 - **Spatial Services NSW**: [NSW Spatial Services](https://www.spatial.nsw.gov.au/)
+- **Ropewiki**: [Ropewiki](https://ropewiki.com/)
