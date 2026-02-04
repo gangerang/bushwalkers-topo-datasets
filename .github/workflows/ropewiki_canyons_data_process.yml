@@ -50,6 +50,7 @@ jobs:
           mkdir -p dynamic/ropewiki
           git add -A
           git diff --staged --quiet || git commit -m "Update Ropewiki canyons data"
+          git pull --rebase origin data
           git push origin data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
