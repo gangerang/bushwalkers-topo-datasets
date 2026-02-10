@@ -2964,14 +2964,17 @@
       "properties": {
         "name": "Devils Pinch",
         "url": "https://ropewiki.com/Devils_Pinch",
-        "summary": null,
+        "summary": "3*  <i>3B</i>   (v3a2 III)    66ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Wolgan Valley"
         ],
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
         "rappels": null,
-        "longest_rappel": null,
-        "longest_rappel_m": null,
+        "longest_rappel": {
+          "value": 65.6168,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 20.0,
         "pageid": "77626"
       }
     },
@@ -7213,7 +7216,7 @@
       "properties": {
         "name": "Pipeline",
         "url": "https://ropewiki.com/Pipeline",
-        "summary": "3*",
+        "summary": "3*  <i>3B</i>   (v3a2 III)",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Wolgan Valley"
         ],
@@ -8741,7 +8744,7 @@
       "properties": {
         "name": "Starlight",
         "url": "https://ropewiki.com/Starlight",
-        "summary": "4*  <i>3A</i>   (v2a1 II)   1r 82ft",
+        "summary": "4*  <i>3A</i>   (v3a1 II)   1r 82ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Wolgan Valley"
         ],
