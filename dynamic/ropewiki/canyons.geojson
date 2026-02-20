@@ -6657,12 +6657,12 @@
       "properties": {
         "name": "Nightmare",
         "url": "https://ropewiki.com/Nightmare",
-        "summary": "2*  <i>3B</i>   (v3a2)   7r 105ft",
+        "summary": "2.7*  <i>3B</i>   (v3a2)   11r 105ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Wolgan Valley"
         ],
         "major_region": "[[Wolgan Valley]] ([[:Australia|Australia]])",
-        "rappels": "7r",
+        "rappels": "11r",
         "longest_rappel": {
           "value": 104.98688,
           "unit": "ft"
