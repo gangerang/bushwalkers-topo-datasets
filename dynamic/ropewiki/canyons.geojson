@@ -3826,7 +3826,7 @@
       "properties": {
         "name": "Firefly Canyon",
         "url": "https://ropewiki.com/Firefly_Canyon",
-        "summary": "3*  <i>3B</i>   (v2a2)   5r 49ft",
+        "summary": "2*  <i>3B</i>   (v2a2)   5r 49ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Wolgan Valley"
         ],
@@ -8393,6 +8393,32 @@
         },
         "longest_rappel_m": 55.0,
         "pageid": "62859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5052,
+          -31.2582
+        ]
+      },
+      "properties": {
+        "name": "Slaters Slot (Kings Folly Contributary)",
+        "url": "https://ropewiki.com/Slaters_Slot_(Kings_Folly_Contributary)",
+        "summary": "<i>3A&nbsp;III</i>  (v3a1 IV) 4.5h-7.5h  6r 98ft",
+        "regions": [
+          "Pacific;Australia;New South Wales;Northern NSW;Port Macquarie Hastings"
+        ],
+        "major_region": "[[Port Macquarie Hastings]] ([[:Australia|Australia]])",
+        "rappels": "6r",
+        "longest_rappel": {
+          "value": 98.4252,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 30.0,
+        "pageid": "102620"
       }
     },
     {
