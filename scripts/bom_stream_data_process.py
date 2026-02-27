@@ -80,15 +80,16 @@ def load_stations():
         return station_info  # Adjust as needed based on actual structure
 
 def join_stations_with_height(stream_height_data, station_info):
-    # Convert both columns to string to avoid type mismatch
-    stream_height_data['SiteId'] = stream_height_data['SiteId'].astype(str)
-    station_info['SENSORID'] = station_info['SENSORID'].astype(str)
+    # BOM changed SiteId format from SENSORID style ("009984-1") to
+    # zero-padded STATIONID style ("009984"), so join on STATIONID
+    stream_height_data['SiteId'] = stream_height_data['SiteId'].astype(str).str.strip()
+    station_info['STATIONID'] = station_info['STATIONID'].astype(str).str.zfill(6)
 
     merged_data = pd.merge(
         stream_height_data,
         station_info,
         left_on="SiteId",
-        right_on="SENSORID"
+        right_on="STATIONID"
     )
     return merged_data
 
