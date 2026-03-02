@@ -10896,17 +10896,17 @@
       "properties": {
         "name": "Wowsers",
         "url": "https://ropewiki.com/Wowsers",
-        "summary": "3.6*  <i>3B</i>   (v3a2)   5r 98ft",
+        "summary": "4.4*  <i>3B</i>   (v3a2)   11r 131ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Glen Davis"
         ],
         "major_region": "[[Glen Davis]] ([[:Australia|Australia]])",
-        "rappels": "5r",
+        "rappels": "11r",
         "longest_rappel": {
-          "value": 98.4252,
+          "value": 131.2336,
           "unit": "ft"
         },
-        "longest_rappel_m": 30.0,
+        "longest_rappel_m": 40.0,
         "pageid": "77440"
       }
     },
