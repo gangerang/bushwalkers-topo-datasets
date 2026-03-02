@@ -303,71 +303,95 @@
           [
             [
               [
-                152.86371762705,
-                -29.682709162727
+                151.57964664932,
+                -30.983782108823
               ],
               [
-                152.86330993128,
-                -29.682597310558
+                151.57930548169,
+                -30.985391923629
               ],
               [
-                152.86394293261,
-                -29.679353543527
+                151.5795987685,
+                -30.985514054562
               ],
               [
-                152.86561663103,
-                -29.679381507483
+                151.57915527798,
+                -30.986095553958
               ],
               [
-                152.86574537706,
-                -29.679875536093
+                151.57882697569,
+                -30.986462543242
               ],
               [
-                152.86634619188,
-                -29.68064919866
+                151.57856572847,
+                -30.986743532963
               ],
               [
-                152.86670024347,
-                -29.681357607354
+                151.5781489132,
+                -30.986997848595
               ],
               [
-                152.86674315882,
-                -29.68152538763
+                151.57795887357,
+                -30.987152643616
               ],
               [
-                152.86586339426,
-                -29.68171180983
+                151.57782231437,
+                -30.987271821527
               ],
               [
-                152.86533768129,
-                -29.681693167625
+                151.57764283982,
+                -30.987321097346
               ],
               [
-                152.86506946039,
-                -29.681982121406
+                151.57734829051,
+                -30.987360579053
               ],
               [
-                152.86540205431,
-                -29.682373605847
+                151.57727933631,
+                -30.987350887483
               ],
               [
-                152.86371762705,
-                -29.682709162727
+                151.57735844008,
+                -30.986930981248
+              ],
+              [
+                151.57744911475,
+                -30.986470450923
+              ],
+              [
+                151.5778246177,
+                -30.98455033978
+              ],
+              [
+                151.57797081454,
+                -30.983818164279
+              ],
+              [
+                151.57861454471,
+                -30.983831961229
+              ],
+              [
+                151.57861454471,
+                -30.9838356405
+              ],
+              [
+                151.57964664932,
+                -30.983782108823
               ]
             ]
           ]
         ]
       },
       "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Clarence Valley",
-        "supportingAgencies": "Private",
-        "size": "7.93 ha",
-        "location": "HILLVIEW DRIVE WATERVIEW HTS",
-        "guarReference": "BA20230717000622",
-        "tenure": "Private",
-        "startDate": "28/02/2026",
-        "endDate": "01/03/2026"
+        "leadAgency": "Fire & Rescue NSW",
+        "lga": "Walcha",
+        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service, NSW Rural Fire Service - Mitigation",
+        "size": "5.58 ha",
+        "location": "WEST WALCHA TSR",
+        "guarReference": "BA20250318000206",
+        "tenure": "Crown Land",
+        "startDate": "05/03/2026",
+        "endDate": "06/03/2026"
       }
     },
     {
@@ -967,95 +991,162 @@
           [
             [
               [
-                151.57964664932,
-                -30.983782108823
+                152.8693950601,
+                -29.85658033624
               ],
               [
-                151.57930548169,
-                -30.985391923629
+                152.86934678034,
+                -29.85616161741
               ],
               [
-                151.5795987685,
-                -30.985514054562
+                152.86944870428,
+                -29.856068568542
               ],
               [
-                151.57915527798,
-                -30.986095553958
+                152.86950020273,
+                -29.855996920883
               ],
               [
-                151.57882697569,
-                -30.986462543242
+                152.86956135706,
+                -29.855817336167
               ],
               [
-                151.57856572847,
-                -30.986743532963
+                152.86941115336,
+                -29.855752201744
               ],
               [
-                151.5781489132,
-                -30.986997848595
+                152.86919121222,
+                -29.855808031252
               ],
               [
-                151.57795887357,
-                -30.987152643616
+                152.86903564409,
+                -29.855984824487
               ],
               [
-                151.57782231437,
-                -30.987271821527
+                152.86898199991,
+                -29.855966214688
               ],
               [
-                151.57764283982,
-                -30.987321097346
+                152.86964182333,
+                -29.855063635247
               ],
               [
-                151.57734829051,
-                -30.987360579053
+                152.87289266066,
+                -29.855510273516
               ],
               [
-                151.57727933631,
-                -30.987350887483
+                152.87221137957,
+                -29.855975519588
               ],
               [
-                151.57735844008,
-                -30.986930981248
+                152.87054519146,
+                -29.855746618734
               ],
               [
-                151.57744911475,
-                -30.986470450923
+                152.87044112162,
+                -29.856254666191
               ],
               [
-                151.5778246177,
-                -30.98455033978
-              ],
-              [
-                151.57797081454,
-                -30.983818164279
-              ],
-              [
-                151.57861454471,
-                -30.983831961229
-              ],
-              [
-                151.57861454471,
-                -30.9838356405
-              ],
-              [
-                151.57964664932,
-                -30.983782108823
+                152.8693950601,
+                -29.85658033624
               ]
             ]
           ]
         ]
       },
       "properties": {
-        "leadAgency": "Fire & Rescue NSW",
-        "lga": "Walcha",
-        "supportingAgencies": "Local Land Services, Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service, NSW Rural Fire Service - Mitigation",
-        "size": "5.58 ha",
-        "location": "WEST WALCHA TSR",
-        "guarReference": "BA20250318000206",
-        "tenure": "Crown Land",
-        "startDate": "05/03/2026",
-        "endDate": "06/03/2026"
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Clarence Valley",
+        "supportingAgencies": "Private",
+        "size": "2.77 ha",
+        "location": "",
+        "guarReference": "BA20250804000827",
+        "tenure": "Private",
+        "startDate": "07/03/2026",
+        "endDate": "07/03/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                152.8705198637,
+                -29.858296541694
+              ],
+              [
+                152.87124137792,
+                -29.858400288803
+              ],
+              [
+                152.87139265474,
+                -29.859010673517
+              ],
+              [
+                152.87105147755,
+                -29.858977642094
+              ],
+              [
+                152.87114911003,
+                -29.858952985047
+              ],
+              [
+                152.87123815924,
+                -29.858898087676
+              ],
+              [
+                152.87129985005,
+                -29.85882365063
+              ],
+              [
+                152.87122474819,
+                -29.858609643813
+              ],
+              [
+                152.87087713397,
+                -29.858739443625
+              ],
+              [
+                152.87077252781,
+                -29.858821789731
+              ],
+              [
+                152.87086533219,
+                -29.858979503132
+              ],
+              [
+                152.86957197113,
+                -29.858752935398
+              ],
+              [
+                152.86948614011,
+                -29.858058806686
+              ],
+              [
+                152.87063948999,
+                -29.857647537883
+              ],
+              [
+                152.8705198637,
+                -29.858296541694
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Clarence Valley",
+        "supportingAgencies": "Private",
+        "size": "1.46 ha",
+        "location": "",
+        "guarReference": "BA20250804000826",
+        "tenure": "Private",
+        "startDate": "07/03/2026",
+        "endDate": "08/03/2026"
       }
     },
     {
@@ -1623,7 +1714,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "49.03 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -2646,7 +2737,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "61.68 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -3253,7 +3344,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "21.14 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -3880,7 +3971,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "25.53 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -4623,7 +4714,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "27.34 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -5302,7 +5393,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "55.64 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -5989,7 +6080,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "32.43 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -6780,7 +6871,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "32.39 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -7567,7 +7658,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "22.22 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -7970,7 +8061,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "23.91 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -8665,7 +8756,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "22.45 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -9244,7 +9335,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "31.61 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -9915,7 +10006,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "36.73 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -10526,7 +10617,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "49.25 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -11157,7 +11248,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "36.92 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -11708,7 +11799,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "43.61 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -12435,7 +12526,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "37.58 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -13102,7 +13193,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "17.99 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -14241,7 +14332,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "85.05 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -14784,7 +14875,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "32.02 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -15347,7 +15438,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "39.48 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -15738,7 +15829,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "29.15 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -16581,7 +16672,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "39.34 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -16984,7 +17075,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "34.53 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -17747,7 +17838,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "33.34 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -19454,7 +19545,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "23.95 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -20641,7 +20732,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
         "size": "49.65 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
