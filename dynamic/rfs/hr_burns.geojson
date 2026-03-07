@@ -9,184 +9,6 @@
           [
             [
               [
-                153.13035664551,
-                -28.90087198946
-              ],
-              [
-                153.12951979629,
-                -28.899866972491
-              ],
-              [
-                153.12801775924,
-                -28.897932052607
-              ],
-              [
-                153.12882242195,
-                -28.897650265149
-              ],
-              [
-                153.13092527382,
-                -28.897960231311
-              ],
-              [
-                153.13035664551,
-                -28.90087198946
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Richmond Valley",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands",
-        "size": "5.12 ha",
-        "location": "VICTORIA PARK GREENRIDGE NSW",
-        "guarReference": "BA20250320000222",
-        "tenure": "Crown Land",
-        "startDate": "06/03/2026",
-        "endDate": "09/03/2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                150.2224995949,
-                -35.781314534024
-              ],
-              [
-                150.22424839517,
-                -35.781342821424
-              ],
-              [
-                150.22519521496,
-                -35.781199208365
-              ],
-              [
-                150.22544466039,
-                -35.781212264108
-              ],
-              [
-                150.22599451324,
-                -35.78124925537
-              ],
-              [
-                150.22619299671,
-                -35.781268838972
-              ],
-              [
-                150.22628419181,
-                -35.78114698537
-              ],
-              [
-                150.22647194644,
-                -35.781154601225
-              ],
-              [
-                150.22665433666,
-                -35.781131753657
-              ],
-              [
-                150.22668652317,
-                -35.781138281534
-              ],
-              [
-                150.22685550233,
-                -35.781107818101
-              ],
-              [
-                150.22687159559,
-                -35.781177448788
-              ],
-              [
-                150.22656314155,
-                -35.781453794974
-              ],
-              [
-                150.22650145074,
-                -35.781529953203
-              ],
-              [
-                150.2263110139,
-                -35.781601759466
-              ],
-              [
-                150.2255948641,
-                -35.781764955278
-              ],
-              [
-                150.2249109008,
-                -35.781923798879
-              ],
-              [
-                150.22482775232,
-                -35.781954262
-              ],
-              [
-                150.22474728605,
-                -35.781952086063
-              ],
-              [
-                150.22456489584,
-                -35.7818737523
-              ],
-              [
-                150.22441469213,
-                -35.781847641028
-              ],
-              [
-                150.22351078769,
-                -35.781917271066
-              ],
-              [
-                150.22351078769,
-                -35.7818737523
-              ],
-              [
-                150.22296629926,
-                -35.781838937269
-              ],
-              [
-                150.22252105257,
-                -35.781708380768
-              ],
-              [
-                150.22229842922,
-                -35.781616991089
-              ],
-              [
-                150.2224995949,
-                -35.781314534024
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW Rural Fire Service",
-        "lga": "Eurobodalla",
-        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation",
-        "size": "2.27 ha",
-        "location": "BALOOK",
-        "guarReference": "BA20240814000998",
-        "tenure": "Private",
-        "startDate": "06/03/2026",
-        "endDate": "31/03/2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 152.8693950601,
                 -29.85658033624
               ],
@@ -390,6 +212,184 @@
         "tenure": "Crown Land",
         "startDate": "07/03/2026",
         "endDate": "08/03/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                153.13035664551,
+                -28.90087198946
+              ],
+              [
+                153.12951979629,
+                -28.899866972491
+              ],
+              [
+                153.12801775924,
+                -28.897932052607
+              ],
+              [
+                153.12882242195,
+                -28.897650265149
+              ],
+              [
+                153.13092527382,
+                -28.897960231311
+              ],
+              [
+                153.13035664551,
+                -28.90087198946
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Richmond Valley",
+        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands",
+        "size": "5.12 ha",
+        "location": "VICTORIA PARK GREENRIDGE NSW",
+        "guarReference": "BA20250320000222",
+        "tenure": "Crown Land",
+        "startDate": "06/03/2026",
+        "endDate": "09/03/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                150.2224995949,
+                -35.781314534024
+              ],
+              [
+                150.22424839517,
+                -35.781342821424
+              ],
+              [
+                150.22519521496,
+                -35.781199208365
+              ],
+              [
+                150.22544466039,
+                -35.781212264108
+              ],
+              [
+                150.22599451324,
+                -35.78124925537
+              ],
+              [
+                150.22619299671,
+                -35.781268838972
+              ],
+              [
+                150.22628419181,
+                -35.78114698537
+              ],
+              [
+                150.22647194644,
+                -35.781154601225
+              ],
+              [
+                150.22665433666,
+                -35.781131753657
+              ],
+              [
+                150.22668652317,
+                -35.781138281534
+              ],
+              [
+                150.22685550233,
+                -35.781107818101
+              ],
+              [
+                150.22687159559,
+                -35.781177448788
+              ],
+              [
+                150.22656314155,
+                -35.781453794974
+              ],
+              [
+                150.22650145074,
+                -35.781529953203
+              ],
+              [
+                150.2263110139,
+                -35.781601759466
+              ],
+              [
+                150.2255948641,
+                -35.781764955278
+              ],
+              [
+                150.2249109008,
+                -35.781923798879
+              ],
+              [
+                150.22482775232,
+                -35.781954262
+              ],
+              [
+                150.22474728605,
+                -35.781952086063
+              ],
+              [
+                150.22456489584,
+                -35.7818737523
+              ],
+              [
+                150.22441469213,
+                -35.781847641028
+              ],
+              [
+                150.22351078769,
+                -35.781917271066
+              ],
+              [
+                150.22351078769,
+                -35.7818737523
+              ],
+              [
+                150.22296629926,
+                -35.781838937269
+              ],
+              [
+                150.22252105257,
+                -35.781708380768
+              ],
+              [
+                150.22229842922,
+                -35.781616991089
+              ],
+              [
+                150.2224995949,
+                -35.781314534024
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Eurobodalla",
+        "supportingAgencies": "Private, NSW Rural Fire Service - Mitigation",
+        "size": "2.27 ha",
+        "location": "BALOOK",
+        "guarReference": "BA20240814000998",
+        "tenure": "Private",
+        "startDate": "06/03/2026",
+        "endDate": "31/03/2026"
       }
     },
     {
@@ -1119,501 +1119,6 @@
           [
             [
               [
-                152.479493093,
-                -28.279323287
-              ],
-              [
-                152.47946456,
-                -28.279490167
-              ],
-              [
-                152.479302687,
-                -28.279489553
-              ],
-              [
-                152.478731553,
-                -28.279514453
-              ],
-              [
-                152.478496987,
-                -28.279522587
-              ],
-              [
-                152.477334407,
-                -28.279554247
-              ],
-              [
-                152.47623322,
-                -28.279540993
-              ],
-              [
-                152.47513226,
-                -28.279482607
-              ],
-              [
-                152.474979447,
-                -28.27945494
-              ],
-              [
-                152.4748574,
-                -28.279391287
-              ],
-              [
-                152.474623987,
-                -28.27916472
-              ],
-              [
-                152.474451707,
-                -28.278947413
-              ],
-              [
-                152.474269633,
-                -28.278648833
-              ],
-              [
-                152.47414874,
-                -28.278350487
-              ],
-              [
-                152.473946407,
-                -28.278024753
-              ],
-              [
-                152.473866033,
-                -28.27778072
-              ],
-              [
-                152.473654573,
-                -28.277238307
-              ],
-              [
-                152.47358422,
-                -28.27703042
-              ],
-              [
-                152.473503667,
-                -28.2768225
-              ],
-              [
-                152.473392353,
-                -28.27665056
-              ],
-              [
-                152.473280547,
-                -28.27657792
-              ],
-              [
-                152.472761207,
-                -28.276440513
-              ],
-              [
-                152.472608573,
-                -28.27637674
-              ],
-              [
-                152.4720082,
-                -28.2761307
-              ],
-              [
-                152.4717759,
-                -28.276003427
-              ],
-              [
-                152.471529933,
-                -28.275934773
-              ],
-              [
-                152.47134858,
-                -28.275879913
-              ],
-              [
-                152.471154233,
-                -28.27581146
-              ],
-              [
-                152.47104414,
-                -28.27577944
-              ],
-              [
-                152.470940473,
-                -28.27573842
-              ],
-              [
-                152.470836707,
-                -28.275715447
-              ],
-              [
-                152.470668373,
-                -28.27566966
-              ],
-              [
-                152.4705322,
-                -28.275628513
-              ],
-              [
-                152.47041572,
-                -28.27560098
-              ],
-              [
-                152.47019558,
-                -28.275527913
-              ],
-              [
-                152.470066013,
-                -28.275504847
-              ],
-              [
-                152.469903873,
-                -28.275495187
-              ],
-              [
-                152.4697807,
-                -28.275467633
-              ],
-              [
-                152.469651307,
-                -28.275408453
-              ],
-              [
-                152.46924896,
-                -28.275325653
-              ],
-              [
-                152.46908672,
-                -28.275144487
-              ],
-              [
-                152.46852004,
-                -28.274275727
-              ],
-              [
-                152.468419107,
-                -28.27406772
-              ],
-              [
-                152.468135007,
-                -28.273786787
-              ],
-              [
-                152.467952107,
-                -28.2736597
-              ],
-              [
-                152.4676977,
-                -28.273559413
-              ],
-              [
-                152.467452907,
-                -28.273576513
-              ],
-              [
-                152.466656413,
-                -28.273817127
-              ],
-              [
-                152.46652368,
-                -28.273852713
-              ],
-              [
-                152.466349993,
-                -28.273924247
-              ],
-              [
-                152.465778613,
-                -28.274003253
-              ],
-              [
-                152.465360527,
-                -28.27401064
-              ],
-              [
-                152.46507518,
-                -28.273982447
-              ],
-              [
-                152.4648104,
-                -28.27391822
-              ],
-              [
-                152.46399648,
-                -28.273562987
-              ],
-              [
-                152.463884867,
-                -28.273454227
-              ],
-              [
-                152.463753627,
-                -28.27319194
-              ],
-              [
-                152.463358067,
-                -28.27277516
-              ],
-              [
-                152.46318564,
-                -28.272593953
-              ],
-              [
-                152.463073847,
-                -28.2725213
-              ],
-              [
-                152.46285004,
-                -28.272421127
-              ],
-              [
-                152.46216969,
-                -28.27221535
-              ],
-              [
-                152.46218198,
-                -28.27221088
-              ],
-              [
-                152.462324787,
-                -28.27213472
-              ],
-              [
-                152.462459313,
-                -28.27205852
-              ],
-              [
-                152.46271084,
-                -28.272032433
-              ],
-              [
-                152.46318048,
-                -28.271971093
-              ],
-              [
-                152.463717007,
-                -28.271914527
-              ],
-              [
-                152.464136353,
-                -28.27184396
-              ],
-              [
-                152.46460568,
-                -28.2718458
-              ],
-              [
-                152.464990687,
-                -28.27195112
-              ],
-              [
-                152.465610587,
-                -28.272043813
-              ],
-              [
-                152.466146827,
-                -28.272045907
-              ],
-              [
-                152.466599713,
-                -28.271957413
-              ],
-              [
-                152.46696964,
-                -28.27176478
-              ],
-              [
-                152.4672394,
-                -28.271467953
-              ],
-              [
-                152.467525407,
-                -28.27123438
-              ],
-              [
-                152.467844673,
-                -28.271041547
-              ],
-              [
-                152.468231227,
-                -28.27083544
-              ],
-              [
-                152.468852247,
-                -28.27070246
-              ],
-              [
-                152.469421927,
-                -28.270704673
-              ],
-              [
-                152.469957653,
-                -28.270873747
-              ],
-              [
-                152.4704418,
-                -28.271227667
-              ],
-              [
-                152.470640733,
-                -28.271720393
-              ],
-              [
-                152.470738093,
-                -28.272330067
-              ],
-              [
-                152.470819833,
-                -28.272745613
-              ],
-              [
-                152.47103646,
-                -28.27301274
-              ],
-              [
-                152.471306433,
-                -28.272670767
-              ],
-              [
-                152.471543147,
-                -28.272288053
-              ],
-              [
-                152.471628347,
-                -28.27200404
-              ],
-              [
-                152.471863873,
-                -28.27179734
-              ],
-              [
-                152.472283507,
-                -28.27166808
-              ],
-              [
-                152.472703287,
-                -28.27150722
-              ],
-              [
-                152.473323347,
-                -28.271568287
-              ],
-              [
-                152.473573873,
-                -28.271745273
-              ],
-              [
-                152.474007547,
-                -28.27219376
-              ],
-              [
-                152.474408473,
-                -28.272434513
-              ],
-              [
-                152.474944673,
-                -28.272508787
-              ],
-              [
-                152.475245833,
-                -28.272627293
-              ],
-              [
-                152.47552916,
-                -28.2729398
-              ],
-              [
-                152.475676953,
-                -28.273536127
-              ],
-              [
-                152.475407333,
-                -28.273873593
-              ],
-              [
-                152.474919933,
-                -28.274110927
-              ],
-              [
-                152.47449992,
-                -28.274316927
-              ],
-              [
-                152.47429734,
-                -28.274627567
-              ],
-              [
-                152.474429193,
-                -28.27502976
-              ],
-              [
-                152.474931647,
-                -28.275167093
-              ],
-              [
-                152.475535127,
-                -28.275169413
-              ],
-              [
-                152.476053787,
-                -28.275315827
-              ],
-              [
-                152.476371093,
-                -28.275587847
-              ],
-              [
-                152.476939687,
-                -28.275883393
-              ],
-              [
-                152.477323173,
-                -28.276241413
-              ],
-              [
-                152.477487613,
-                -28.276955153
-              ],
-              [
-                152.477567713,
-                -28.2777137
-              ],
-              [
-                152.477715107,
-                -28.278395773
-              ],
-              [
-                152.477998447,
-                -28.27870828
-              ],
-              [
-                152.47861732,
-                -28.27902206
-              ],
-              [
-                152.479493093,
-                -28.279323287
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "leadAgency": "NSW National Parks and Wildlife Service",
-        "lga": "Tenterfield",
-        "supportingAgencies": "",
-        "size": "57.7 ha",
-        "location": "HEAD GATE RD NORTH",
-        "guarReference": "BA20240930001265",
-        "tenure": "National Park",
-        "startDate": "04/03/2026",
-        "endDate": "06/03/2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 149.19705029079,
                 -37.093266846755
               ],
@@ -1908,6 +1413,85 @@
           [
             [
               [
+                146.18007214318,
+                -34.510064495455
+              ],
+              [
+                146.18017514007,
+                -34.509459779368
+              ],
+              [
+                146.18051846282,
+                -34.507562498281
+              ],
+              [
+                146.18066437506,
+                -34.506996665289
+              ],
+              [
+                146.18169434349,
+                -34.506227479383
+              ],
+              [
+                146.18208058158,
+                -34.506340647523
+              ],
+              [
+                146.18483789229,
+                -34.509102605839
+              ],
+              [
+                146.18434221928,
+                -34.512108474362
+              ],
+              [
+                146.18375749788,
+                -34.512021835978
+              ],
+              [
+                146.18306977927,
+                -34.511967023891
+              ],
+              [
+                146.18175442393,
+                -34.511786674386
+              ],
+              [
+                146.18166001034,
+                -34.511609860991
+              ],
+              [
+                146.17987902364,
+                -34.511348176686
+              ],
+              [
+                146.18007214318,
+                -34.510064495455
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "leadAgency": "NSW Rural Fire Service",
+        "lga": "Leeton",
+        "supportingAgencies": "Leeton, Department of Planning, Housing & Infrastructure - Crown Lands",
+        "size": "20.57 ha",
+        "location": "WHITTON SPORT GROUND AND RACE TRACK",
+        "guarReference": "BA20250422000325",
+        "tenure": "Local Govt, Crown Land",
+        "startDate": "14/03/2026",
+        "endDate": "14/03/2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
                 148.65866103068,
                 -35.994663159305
               ],
@@ -2189,7 +1773,7 @@
       "properties": {
         "leadAgency": "Private",
         "lga": "Queanbeyan-Palerang",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service",
+        "supportingAgencies": "NSW Rural Fire Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "86.38 ha",
         "location": "",
         "guarReference": "BA20260120000028",
@@ -2524,7 +2108,7 @@
       "properties": {
         "leadAgency": "Private",
         "lga": "Queanbeyan-Palerang",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service",
+        "supportingAgencies": "NSW Rural Fire Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "77.05 ha",
         "location": "",
         "guarReference": "BA20260120000028",
@@ -2603,7 +2187,7 @@
       "properties": {
         "leadAgency": "Private",
         "lga": "Queanbeyan-Palerang",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW Rural Fire Service",
+        "supportingAgencies": "NSW Rural Fire Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "28.89 ha",
         "location": "",
         "guarReference": "BA20260120000028",
@@ -3054,7 +2638,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "49.03 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -4077,7 +3661,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "61.68 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -4684,7 +4268,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "21.14 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -5311,7 +4895,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "25.53 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -6054,7 +5638,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "27.34 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -6733,7 +6317,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "55.64 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -7420,7 +7004,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "32.43 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -8211,7 +7795,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "32.39 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -8998,7 +8582,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "22.22 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -9401,7 +8985,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "23.91 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -10096,7 +9680,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "22.45 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -10675,7 +10259,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "31.61 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -11346,7 +10930,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "36.73 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -11957,7 +11541,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "49.25 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -12588,7 +12172,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "36.92 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -13139,7 +12723,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "43.61 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -13866,7 +13450,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "37.58 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -14533,7 +14117,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "17.99 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -15672,7 +15256,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "85.05 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -16215,7 +15799,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "32.02 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -16778,7 +16362,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "39.48 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -17169,7 +16753,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "29.15 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -18012,7 +17596,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "39.34 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -18415,7 +17999,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "34.53 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -19178,7 +18762,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "33.34 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -20885,7 +20469,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "23.95 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
@@ -22072,7 +21656,7 @@
       "properties": {
         "leadAgency": "Forestry Corporation NSW",
         "lga": "Tamworth",
-        "supportingAgencies": "Department of Planning, Housing & Infrastructure - Crown Lands, NSW National Parks and Wildlife Service",
+        "supportingAgencies": "NSW National Parks and Wildlife Service, Department of Planning, Housing & Infrastructure - Crown Lands",
         "size": "49.65 ha",
         "location": "PULFORDS ROAD NUNDLE SF",
         "guarReference": "BA20250905000987",
