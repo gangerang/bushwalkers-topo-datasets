@@ -4178,7 +4178,7 @@
       "properties": {
         "name": "Galah",
         "url": "https://ropewiki.com/Galah",
-        "summary": "3.5*  3B   (<i>v3a2</i>)   7r 92ft",
+        "summary": "3.4*  3B   (<i>v3a2</i>)   7r 92ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Newnes Plateau"
         ],
@@ -8058,17 +8058,17 @@
       "properties": {
         "name": "Serendipity",
         "url": "https://ropewiki.com/Serendipity",
-        "summary": "3.4*  <i>3B&nbsp;II</i>  (v2a2 III) 4h  6r 66ft",
+        "summary": "3.4*  <i>3B&nbsp;III</i>  (v2a2 III) 4h-8h  3r 49ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
         "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
-        "rappels": "6r",
+        "rappels": "3-6r",
         "longest_rappel": {
-          "value": 65.6168,
+          "value": 49.2126,
           "unit": "ft"
         },
-        "longest_rappel_m": 20.0,
+        "longest_rappel_m": 15.0,
         "pageid": "11673"
       }
     },
