@@ -373,7 +373,7 @@
       "properties": {
         "name": "Back Creek",
         "url": "https://ropewiki.com/Back_Creek",
-        "summary": "3.4*  <i>4C</i>   (v4a3)   3r 20ft",
+        "summary": "3.3*  <i>4C</i>   (v4a3)   3r 20ft",
         "regions": [
           "Pacific;Australia;Queensland;Brisbane"
         ],
@@ -1396,7 +1396,7 @@
       "properties": {
         "name": "Breakfast Creek Canyon",
         "url": "https://ropewiki.com/Breakfast_Creek_Canyon",
-        "summary": "2.7*  3C III  (v3a1 III) 5h-7h  6r 30ft",
+        "summary": "2.5*  3C III  (v3a1 III) 5h-7h  6r 30ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Newnes Plateau"
         ],
@@ -1491,7 +1491,7 @@
       "properties": {
         "name": "Bull Ant",
         "url": "https://ropewiki.com/Bull_Ant",
-        "summary": "<i>3B</i>   (v3a2)",
+        "summary": "2*  <i>3B</i>   (v3a2)",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Glen Davis"
         ],
@@ -1981,7 +1981,7 @@
       "properties": {
         "name": "Caveman",
         "url": "https://ropewiki.com/Caveman",
-        "summary": null,
+        "summary": "4*",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Coorongooba"
         ],
@@ -2128,7 +2128,7 @@
       "properties": {
         "name": "Clouds Creek",
         "url": "https://ropewiki.com/Clouds_Creek",
-        "summary": "3*  <i>4B</i>   (v4a2)   3r 148ft  4x4",
+        "summary": "3.6*  <i>4B</i>   (v4a2)   3r 148ft  4x4",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Coffs Harbour"
         ],
@@ -2177,7 +2177,7 @@
       "properties": {
         "name": "Coachwood",
         "url": "https://ropewiki.com/Coachwood",
-        "summary": "1.5*  <i>3A</i>   (v3a1)   5r 82ft",
+        "summary": "1.7*  <i>3A</i>   (v3a1)   5r 82ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Newnes Plateau"
         ],
@@ -2497,7 +2497,7 @@
       "properties": {
         "name": "Crikey",
         "url": "https://ropewiki.com/Crikey",
-        "summary": "3.7*  <i>3B</i>   (v3a2)   6r 66ft",
+        "summary": "3.8*  <i>3B</i>   (v3a2)   6r 66ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Newnes Plateau"
         ],
@@ -3036,7 +3036,7 @@
       "properties": {
         "name": "Dione Dell",
         "url": "https://ropewiki.com/Dione_Dell",
-        "summary": "2.2*  <i>3B&nbsp;III</i>  (v3a2 II) 4h-6h  6r 82ft",
+        "summary": "2.3*  <i>3B&nbsp;III</i>  (v3a2 II) 4h-6h  6r 82ft",
         "regions": [
           "Pacific;Australia;New South Wales;Kanangra"
         ],
@@ -3186,7 +3186,7 @@
       "properties": {
         "name": "Dry Canyon, The",
         "url": "https://ropewiki.com/Dry_Canyon,_The",
-        "summary": "3.5*  2A I  (v1a1 I) 1h-2h 2.5mi 0r",
+        "summary": "3.3*  2A I  (v1a1 I) 1h-2h 2.5mi 0r",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Newnes Plateau"
         ],
@@ -3212,7 +3212,7 @@
       "properties": {
         "name": "Du Faur Creek",
         "url": "https://ropewiki.com/Du_Faur_Creek",
-        "summary": "3.5*  <i>2B&nbsp;III</i>  (v1a2 II) 6h-10h  0r",
+        "summary": "3.6*  <i>2B&nbsp;III</i>  (v1a2 II) 6h-10h  0r",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -3356,7 +3356,7 @@
       "properties": {
         "name": "Emperor Falls",
         "url": "https://ropewiki.com/Emperor_Falls",
-        "summary": "2.7*  <i>4B</i>   (v4a2 II)   3r 164ft",
+        "summary": "2.5*  <i>4B</i>   (v4a2 II)   3r 164ft",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Barrington Tops"
         ],
@@ -3457,7 +3457,7 @@
       "properties": {
         "name": "Eurobin Falls",
         "url": "https://ropewiki.com/Eurobin_Falls",
-        "summary": "3.5*  3C III PG (v4a2 III) 4h-7h 1.2mi 8r 148ft",
+        "summary": "3.6*  3C III PG (v4a2 III) 4h-7h 1.2mi 8r 148ft",
         "regions": [
           "Pacific;Australia;Victoria;Mount Buffalo"
         ],
@@ -3826,7 +3826,7 @@
       "properties": {
         "name": "Firefly Canyon",
         "url": "https://ropewiki.com/Firefly_Canyon",
-        "summary": "2*  <i>3B</i>   (v2a2)   5r 49ft",
+        "summary": "1.8*  <i>3B</i>   (v2a2)   5r 49ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Wolgan Valley"
         ],
@@ -3953,7 +3953,7 @@
       "properties": {
         "name": "Fordham Canyon",
         "url": "https://ropewiki.com/Fordham_Canyon",
-        "summary": "3.1*  <i>4A</i>   (v4a1 III)   9r 180ft",
+        "summary": "2.6*  <i>4A</i>   (v4a1 III)   9r 180ft",
         "regions": [
           "Pacific;Australia;New South Wales;Southern NSW;Bungonia"
         ],
@@ -4074,7 +4074,7 @@
       "properties": {
         "name": "Freshwater Creek",
         "url": "https://ropewiki.com/Freshwater_Creek",
-        "summary": "3.8*  3B IV  (v3a2 IV) 9h   82ft",
+        "summary": "4*  3B IV  (v3a2 IV) 9h   82ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Glen Davis"
         ],
@@ -4204,7 +4204,7 @@
       "properties": {
         "name": "Gap Creek",
         "url": "https://ropewiki.com/Gap_Creek",
-        "summary": "2.7*  3B III  (v3a2 IV) 6.5h  3r 148ft",
+        "summary": "2.4*  3B III  (v3a2 IV) 6.5h  3r 148ft",
         "regions": [
           "Pacific;Australia;New South Wales;Central Coast"
         ],
@@ -4328,7 +4328,7 @@
       "properties": {
         "name": "Glen Davies Works Central",
         "url": "https://ropewiki.com/Glen_Davies_Works_Central",
-        "summary": "3A III  (v4a1 <i>III</i>)   6r 203ft",
+        "summary": "2*  3A III  (v4a1 <i>III</i>)   6r 203ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Glen Davis"
         ],
@@ -4406,7 +4406,7 @@
       "properties": {
         "name": "Glow Worm Tunnel",
         "url": "https://ropewiki.com/Glow_Worm_Tunnel",
-        "summary": "<i>2A</i>   (v1a1 II)   0r",
+        "summary": "2*  <i>2A</i>   (v1a1 II)   0r",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Newnes Plateau"
         ],
@@ -4766,7 +4766,7 @@
       "properties": {
         "name": "Hat Hill",
         "url": "https://ropewiki.com/Hat_Hill",
-        "summary": "3.5*  <i>2B</i>   (v1a2 II)   0r 0ft",
+        "summary": "3.4*  <i>2B</i>   (v1a2 II)   0r 0ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -4818,7 +4818,7 @@
       "properties": {
         "name": "Hell Hole Falls",
         "url": "https://ropewiki.com/Hell_Hole_Falls",
-        "summary": "2.3*  <i>4A</i>   (v4a1 II)   2r 171ft",
+        "summary": "2*  <i>4A</i>   (v4a1 II)   2r 171ft",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW"
         ],
@@ -5758,7 +5758,7 @@
       "properties": {
         "name": "Koombanda Canyon",
         "url": "https://ropewiki.com/Koombanda_Canyon",
-        "summary": "2.6*  <i>3B</i>   (v2a2 II)   3r 59ft",
+        "summary": "2.5*  <i>3B</i>   (v2a2 II)   3r 59ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -5862,7 +5862,7 @@
       "properties": {
         "name": "Leatherface",
         "url": "https://ropewiki.com/Leatherface",
-        "summary": null,
+        "summary": "3*",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Coorongooba"
         ],
@@ -6006,7 +6006,7 @@
       "properties": {
         "name": "Long Gully",
         "url": "https://ropewiki.com/Long_Gully",
-        "summary": "1.7*  <i>4A&nbsp;III</i>  (v4a1 III) 4.5h-9h  10r 184ft  4x4",
+        "summary": "1.8*  <i>4A&nbsp;III</i>  (v4a1 III) 4.5h-9h  10r 184ft  4x4",
         "regions": [
           "Pacific;Australia;New South Wales;Southern NSW;Bungonia"
         ],
@@ -6078,7 +6078,7 @@
       "properties": {
         "name": "Love Creek Falls",
         "url": "https://ropewiki.com/Love_Creek_Falls",
-        "summary": "2.5*  <i>3B</i>   (v3a2)   3r 98ft",
+        "summary": "2.6*  <i>3B</i>   (v3a2)   3r 98ft",
         "regions": [
           "Pacific;Australia;Queensland;Brisbane"
         ],
@@ -6127,7 +6127,7 @@
       "properties": {
         "name": "Lunchtime",
         "url": "https://ropewiki.com/Lunchtime",
-        "summary": null,
+        "summary": "2*",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Coorongooba"
         ],
@@ -6274,7 +6274,7 @@
       "properties": {
         "name": "Manning Gorge (Upper)",
         "url": "https://ropewiki.com/Manning_Gorge_(Upper)",
-        "summary": "4.4*  <i>4C&nbsp;III</i>  (v4a3 <i>III</i>) 6h  4r 203ft  4x4",
+        "summary": "4.3*  <i>4C&nbsp;III</i>  (v4a3 <i>III</i>) 6h  4r 203ft  4x4",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Barrington Tops"
         ],
@@ -6346,7 +6346,7 @@
       "properties": {
         "name": "Mares Forest Creek",
         "url": "https://ropewiki.com/Mares_Forest_Creek",
-        "summary": "1B I  (v1a3 I) 1.5h-4h  0r",
+        "summary": "3*  1B I  (v1a3 I) 1.5h-4h  0r",
         "regions": [
           "Pacific;Australia;New South Wales;Southern NSW"
         ],
@@ -6657,7 +6657,7 @@
       "properties": {
         "name": "Nightmare",
         "url": "https://ropewiki.com/Nightmare",
-        "summary": "2.7*  <i>3B</i>   (v3a2)   11r 105ft",
+        "summary": "2.8*  <i>3B</i>   (v3a2)   11r 105ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Wolgan Valley"
         ],
@@ -7118,7 +7118,7 @@
       "properties": {
         "name": "Phantasmagoria",
         "url": "https://ropewiki.com/Phantasmagoria",
-        "summary": "3*  <i>3B&nbsp;II</i>  (v3a2 I) 1.5h-4h 2.2mi 10r 131ft",
+        "summary": "2.6*  <i>3B&nbsp;II</i>  (v3a2 I) 1.5h-4h 2.2mi 10r 131ft",
         "regions": [
           "Pacific;Australia;Victoria;Mount Buffalo"
         ],
@@ -7827,7 +7827,7 @@
       "properties": {
         "name": "Running Jump Creek",
         "url": "https://ropewiki.com/Running_Jump_Creek",
-        "summary": "3.3*  <i>3C&nbsp;IV</i>  (v3a3 III) 16h-1.4d 6.2mi 32r 246ft 2cars",
+        "summary": "3.4*  <i>3C&nbsp;IV</i>  (v3a3 III) 16h-1.4d 6.2mi 32r 246ft 2cars",
         "regions": [
           "Pacific;Australia;Victoria;Mount Buffalo"
         ],
@@ -8006,7 +8006,7 @@
       "properties": {
         "name": "Sassafras",
         "url": "https://ropewiki.com/Sassafras",
-        "summary": "2.7*  <i>4C&nbsp;III</i>  (v4a3 <i>III</i>) 5.5h-8.5h  6r 213ft",
+        "summary": "3*  <i>4C&nbsp;III</i>  (v4a3 <i>III</i>) 5.5h-8.5h  6r 213ft",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Coffs Harbour"
         ],
@@ -8136,7 +8136,7 @@
       "properties": {
         "name": "Sherrard Falls",
         "url": "https://ropewiki.com/Sherrard_Falls",
-        "summary": "<i>3C&nbsp;III</i>  (v3a3 II) 5h-7h  5r 197ft",
+        "summary": "2*  <i>3C&nbsp;III</i>  (v3a3 II) 5h-7h  5r 197ft",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Coffs Harbour"
         ],
@@ -8162,7 +8162,7 @@
       "properties": {
         "name": "Shinbone",
         "url": "https://ropewiki.com/Shinbone",
-        "summary": "2*  3A <i>III</i>  (v4a1 <i>III</i>) 7h   115ft",
+        "summary": "2.5*  3A <i>III</i>  (v4a1 <i>III</i>) 7h   115ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Glen Davis"
         ],
@@ -8381,7 +8381,7 @@
       "properties": {
         "name": "Skeleton Gorge",
         "url": "https://ropewiki.com/Skeleton_Gorge",
-        "summary": "2.6*  <i>4C1&nbsp;IV&nbsp;R</i> (v5a4 III) 15h-21h 5mi 16r 180ft 2cars",
+        "summary": "2.7*  <i>4C1&nbsp;IV&nbsp;R</i> (v5a4 III) 15h-21h 5mi 16r 180ft 2cars",
         "regions": [
           "Pacific;Australia;Victoria;Mount Buffalo"
         ],
@@ -8505,7 +8505,7 @@
       "properties": {
         "name": "Snobs Creek",
         "url": "https://ropewiki.com/Snobs_Creek",
-        "summary": "4.5*  <i>4C1</i>   (v4a4 II)   5r 98ft",
+        "summary": "4.4*  <i>4C1</i>   (v4a4 II)   5r 98ft",
         "regions": [
           "Pacific;Australia;Victoria;Yarra/Eildon Ranges"
         ],
@@ -8675,7 +8675,7 @@
       "properties": {
         "name": "Spring Creek (Bungonia)",
         "url": "https://ropewiki.com/Spring_Creek_(Bungonia)",
-        "summary": "3.4*  <i>4B</i>   (v4a2 III)   9r 164ft",
+        "summary": "3.6*  <i>4B</i>   (v4a2 III)   9r 164ft",
         "regions": [
           "Pacific;Australia;New South Wales;Southern NSW;Bungonia"
         ],
@@ -9188,7 +9188,7 @@
       "properties": {
         "name": "Tempest in the Teacups",
         "url": "https://ropewiki.com/Tempest_in_the_Teacups",
-        "summary": "<i>4C3</i>  <i>R</i> (v5a6 II)   4r 43ft",
+        "summary": "3*  <i>4C3</i>  <i>R</i> (v5a6 II)   4r 43ft",
         "regions": [
           "Pacific;Australia;Victoria;Yarra/Eildon Ranges"
         ],
@@ -9442,7 +9442,7 @@
       "properties": {
         "name": "Thurat Rift",
         "url": "https://ropewiki.com/Thurat_Rift",
-        "summary": "3.8*  <i>4B</i>   (v4a2 IV)   15r 203ft 2cars",
+        "summary": "3.7*  <i>4B</i>   (v4a2 IV)   15r 203ft 2cars",
         "regions": [
           "Pacific;Australia;New South Wales;Kanangra"
         ],
@@ -9566,7 +9566,7 @@
       "properties": {
         "name": "Tobins River",
         "url": "https://ropewiki.com/Tobins_River",
-        "summary": "3.9*  <i>4C&nbsp;III</i>  (v4a3 <i>III</i>) 6h-9h  7r 180ft",
+        "summary": "3.6*  <i>4C&nbsp;III</i>  (v4a3 <i>III</i>) 6h-9h  7r 180ft",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Port Macquarie Hastings"
         ],
@@ -9739,7 +9739,7 @@
       "properties": {
         "name": "Twins and Triplets Gorge",
         "url": "https://ropewiki.com/Twins_and_Triplets_Gorge",
-        "summary": "4.8*  <i>4C2&nbsp;IV</i>  (v4a5 IV) 11h-17.5h 11.2mi 10r 115ft",
+        "summary": "4.9*  <i>4C2&nbsp;IV</i>  (v4a5 IV) 11h-17.5h 11.2mi 10r 115ft",
         "regions": [
           "Pacific;Australia;Victoria;Mount Buffalo"
         ],
@@ -10238,7 +10238,7 @@
       "properties": {
         "name": "Waterfall of Moss",
         "url": "https://ropewiki.com/Waterfall_of_Moss",
-        "summary": "2.7*  <i>3A</i>   (v2a1 II)   8r 52ft",
+        "summary": "2.5*  <i>3A</i>   (v2a1 II)   8r 52ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
