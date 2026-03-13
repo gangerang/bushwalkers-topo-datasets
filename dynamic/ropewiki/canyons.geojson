@@ -418,6 +418,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.4042,
+          -33.5436
+        ]
+      },
+      "properties": {
+        "name": "Bald Hills Gully",
+        "url": "https://ropewiki.com/Bald_Hills_Gully",
+        "summary": "3B II  (<i>v3a2&nbsp;II</i>)   3r 49ft",
+        "regions": [
+          "Pacific;Australia;New South Wales;Blue Mountains"
+        ],
+        "major_region": "[[Blue Mountains]] ([[:Australia|Australia]])",
+        "rappels": "3r",
+        "longest_rappel": {
+          "value": 49.2126,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 15.0,
+        "pageid": "103058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.3261,
           -33.2084
         ]
@@ -2821,9 +2847,9 @@
         ]
       },
       "properties": {
-        "name": "Dead Log",
-        "url": "https://ropewiki.com/Dead_Log",
-        "summary": null,
+        "name": "Dead Tree",
+        "url": "https://ropewiki.com/Dead_Tree",
+        "summary": "3*",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Newnes Plateau"
         ],
@@ -4468,6 +4494,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.3144,
+          -33.0056
+        ]
+      },
+      "properties": {
+        "name": "Golgotha (Lower)",
+        "url": "https://ropewiki.com/Golgotha_(Lower)",
+        "summary": "4*  3B   (<i>v3a2</i>)",
+        "regions": [
+          "Pacific;Australia;New South Wales;Wollemi;Coorongooba"
+        ],
+        "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "77788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.2685,
           -33.4555
         ]
@@ -5134,29 +5183,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.3263,
-          -32.9292
-        ]
-      },
-      "properties": {
-        "name": "Ians",
-        "url": "https://ropewiki.com/Ians",
-        "summary": null,
-        "regions": [
-          "Pacific;Australia;New South Wales;Wollemi;Coorongooba"
-        ],
-        "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
-        "rappels": null,
-        "longest_rappel": null,
-        "longest_rappel_m": null,
-        "pageid": "77770"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           142.5101,
           -37.1241
         ]
@@ -5320,6 +5346,29 @@
         },
         "longest_rappel_m": 0.0,
         "pageid": "65454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3263,
+          -32.9292
+        ]
+      },
+      "properties": {
+        "name": "Jans",
+        "url": "https://ropewiki.com/Jans",
+        "summary": "1*",
+        "regions": [
+          "Pacific;Australia;New South Wales;Wollemi;Coorongooba"
+        ],
+        "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "77770"
       }
     },
     {
@@ -10054,29 +10103,6 @@
         },
         "longest_rappel_m": 15.0,
         "pageid": "77816"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.3144,
-          -33.0056
-        ]
-      },
-      "properties": {
-        "name": "Wagtail",
-        "url": "https://ropewiki.com/Wagtail",
-        "summary": null,
-        "regions": [
-          "Pacific;Australia;New South Wales;Wollemi;Coorongooba"
-        ],
-        "major_region": "[[Corrongooba]] ([[:Australia|Australia]])",
-        "rappels": null,
-        "longest_rappel": null,
-        "longest_rappel_m": null,
-        "pageid": "77788"
       }
     },
     {
