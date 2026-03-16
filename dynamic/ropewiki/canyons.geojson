@@ -6316,6 +6316,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.4113,
+          -36.9102
+        ]
+      },
+      "properties": {
+        "name": "Mad Cow Canyon",
+        "url": "https://ropewiki.com/Mad_Cow_Canyon",
+        "summary": "<i>4B&nbsp;II</i>  (v4a2 I) 1.5h-4.5h 1.1mi 3r 180ft",
+        "regions": [
+          "Pacific;Australia;Victoria;Cobbler Plateau"
+        ],
+        "major_region": "[[Cobbler Plateau]] ([[:Australia|Australia]])",
+        "rappels": "3-5r",
+        "longest_rappel": {
+          "value": 180.4462,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 55.0,
+        "pageid": "103112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.5853,
           -31.8201
         ]
