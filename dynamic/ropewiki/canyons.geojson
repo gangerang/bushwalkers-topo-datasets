@@ -3009,6 +3009,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.5533,
+          -31.8832
+        ]
+      },
+      "properties": {
+        "name": "Dilgry",
+        "url": "https://ropewiki.com/Dilgry",
+        "summary": null,
+        "regions": [
+          "Pacific;Australia;New South Wales;Northern NSW;Barrington Tops"
+        ],
+        "major_region": "[[Barrington Tops]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "103345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.29388888889,
           -33.271666666667
         ]
@@ -6466,8 +6489,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.5949,
-          -32.0606
+          151.6057,
+          -32.0653
         ]
       },
       "properties": {
@@ -9859,6 +9882,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.7882,
+          -31.9827
+        ]
+      },
+      "properties": {
+        "name": "Two Creeks (Copeland Tops)",
+        "url": "https://ropewiki.com/Two_Creeks_(Copeland_Tops)",
+        "summary": null,
+        "regions": [
+          "Pacific;Australia;New South Wales;Northern NSW;Barrington Tops"
+        ],
+        "major_region": "[[Barrington Tops]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "84416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.0555,
           -33.1121
         ]
@@ -9980,8 +10026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.4638,
-          -31.9903
+          151.6057,
+          -32.0653
         ]
       },
       "properties": {
@@ -9989,9 +10035,9 @@
         "url": "https://ropewiki.com/Upper_McKenzie",
         "summary": "4*  3C1 III  (v4a4 III)   5r 98ft",
         "regions": [
-          "Pacific;Australia;New South Wales"
+          "Pacific;Australia;New South Wales;Northern NSW;Barrington Tops"
         ],
-        "major_region": "[[New South Wales]] ([[:Australia|Australia]])",
+        "major_region": "[[Barrington Tops]] ([[:Australia|Australia]])",
         "rappels": "5r",
         "longest_rappel": {
           "value": 98.4252,
