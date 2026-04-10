@@ -3506,14 +3506,17 @@
       "properties": {
         "name": "Eulah Creek",
         "url": "https://ropewiki.com/Eulah_Creek",
-        "summary": null,
+        "summary": "3B III  (v3a2 IV) 7h-9h  4r 98ft",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW"
         ],
         "major_region": "[[Northern NSW]] ([[:Australia|Australia]])",
-        "rappels": null,
-        "longest_rappel": null,
-        "longest_rappel_m": null,
+        "rappels": "4r",
+        "longest_rappel": {
+          "value": 98.4252,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 30.0,
         "pageid": "103539"
       }
     },
