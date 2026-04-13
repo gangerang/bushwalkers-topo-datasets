@@ -931,8 +931,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7718,
-          -18.5003
+          145.7647,
+          -18.4953
         ]
       },
       "properties": {
@@ -1441,6 +1441,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.4743,
+          -19.364
+        ]
+      },
+      "properties": {
+        "name": "Bridal",
+        "url": "https://ropewiki.com/Bridal",
+        "summary": "1B I  (v2a2 I) 1h-3h",
+        "regions": [
+          "Pacific;Australia;Queensland;Townsville"
+        ],
+        "major_region": "[[Townsville]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": {
+          "value": 0,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 0.0,
+        "pageid": "103642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.3575,
           -33.3888
         ]
@@ -1657,8 +1683,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7763,
-          -18.4993
+          145.7699,
+          -18.501
         ]
       },
       "properties": {
@@ -1732,8 +1758,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.8011,
-          -18.5875
+          145.793,
+          -18.5755
         ]
       },
       "properties": {
@@ -1804,8 +1830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.2027,
-          -18.967
+          146.2089,
+          -18.9684
         ]
       },
       "properties": {
@@ -2558,6 +2584,29 @@
         "longest_rappel": null,
         "longest_rappel_m": null,
         "pageid": "77758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1979,
+          -18.9797
+        ]
+      },
+      "properties": {
+        "name": "Crystal (Lower)",
+        "url": "https://ropewiki.com/Crystal_(Lower)",
+        "summary": null,
+        "regions": [
+          "Pacific;Australia;Queensland;Townsville"
+        ],
+        "major_region": "[[Townsville]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "103647"
       }
     },
     {
@@ -3998,8 +4047,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7671,
-          -18.4892
+          145.7647,
+          -18.4886
         ]
       },
       "properties": {
@@ -4040,6 +4089,29 @@
         },
         "longest_rappel_m": 55.0,
         "pageid": "77317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8,
+          -18.5651
+        ]
+      },
+      "properties": {
+        "name": "Forever",
+        "url": "https://ropewiki.com/Forever",
+        "summary": "3C V PG (v5a3 III)",
+        "regions": [
+          "Pacific;Australia;Queensland;Townsville"
+        ],
+        "major_region": "[[Townsville]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "103645"
       }
     },
     {
@@ -4902,6 +4974,29 @@
         },
         "longest_rappel_m": 37.0,
         "pageid": "44831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7954,
+          -18.5862
+        ]
+      },
+      "properties": {
+        "name": "Hearts",
+        "url": "https://ropewiki.com/Hearts",
+        "summary": "3B III  (v4a2 II)",
+        "regions": [
+          "Pacific;Australia;Queensland;Townsville"
+        ],
+        "major_region": "[[Townsville]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "103646"
       }
     },
     {
