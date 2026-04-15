@@ -3447,6 +3447,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.6016,
+          -17.7309
+        ]
+      },
+      "properties": {
+        "name": "Elizabeth Grant",
+        "url": "https://ropewiki.com/Elizabeth_Grant",
+        "summary": null,
+        "regions": [
+          "Pacific;Australia;Queensland;Townsville"
+        ],
+        "major_region": "[[Townsville]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "103937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.5979,
           -32.102
         ]
@@ -4732,6 +4755,29 @@
         },
         "longest_rappel_m": 25.0,
         "pageid": "77379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6065,
+          -17.6942
+        ]
+      },
+      "properties": {
+        "name": "Green Gorge",
+        "url": "https://ropewiki.com/Green_Gorge",
+        "summary": null,
+        "regions": [
+          "Pacific;Australia;Queensland;Townsville"
+        ],
+        "major_region": "[[Townsville]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "103938"
       }
     },
     {
