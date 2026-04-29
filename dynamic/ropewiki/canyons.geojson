@@ -667,7 +667,7 @@
       "properties": {
         "name": "Bell Creek",
         "url": "https://ropewiki.com/Bell_Creek",
-        "summary": "4.2*  2C III  (v1a3 IV) 7h-9h  0r 0ft",
+        "summary": "4.1*  2C III  (v1a3 IV) 7h-9h  0r 0ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -961,7 +961,7 @@
       "properties": {
         "name": "Black Canyon (QLD)",
         "url": "https://ropewiki.com/Black_Canyon_(QLD)",
-        "summary": "4*  <i>3C</i>   (v3a3 IV)   4r 115ft",
+        "summary": "4.2*  <i>3C</i>   (v3a3 IV)   4r 115ft",
         "regions": [
           "Pacific;Australia;Queensland;Brisbane"
         ],
@@ -1252,7 +1252,7 @@
       "properties": {
         "name": "Bowens Creek North (Lower) Canyon",
         "url": "https://ropewiki.com/Bowens_Creek_North_(Lower)_Canyon",
-        "summary": "3.2*  3B III  (v2a2 III) 5h-6h  2r 39ft",
+        "summary": "3.3*  3B III  (v2a2 III) 5h-6h  2r 39ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -1739,7 +1739,7 @@
       "properties": {
         "name": "Butterbox Canyon",
         "url": "https://ropewiki.com/Butterbox_Canyon",
-        "summary": "4.1*  <i>4C&nbsp;III</i>  (v4a3 IV) 6.5h  6r 66ft",
+        "summary": "3.9*  <i>4C&nbsp;III</i>  (v4a3 IV) 6.5h  6r 66ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -1811,7 +1811,7 @@
       "properties": {
         "name": "Cabbage Tree Canyon",
         "url": "https://ropewiki.com/Cabbage_Tree_Canyon",
-        "summary": "3*  <i>3B</i>   (v3a2)  2.4mi 5r 82ft",
+        "summary": "2.8*  <i>3B</i>   (v3a2)  2.4mi 5r 82ft",
         "regions": [
           "Pacific;Australia;Queensland;Brisbane"
         ],
@@ -2128,7 +2128,7 @@
       "properties": {
         "name": "Claustral Canyon",
         "url": "https://ropewiki.com/Claustral_Canyon",
-        "summary": "4.8*  3B III  (v3a3 III) 8h-9h  4r 49ft",
+        "summary": "4.9*  3B III  (v3a3 III) 8h-9h  4r 49ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -2180,7 +2180,7 @@
       "properties": {
         "name": "Clouds Creek",
         "url": "https://ropewiki.com/Clouds_Creek",
-        "summary": "3.6*  <i>4B</i>   (v4a2)   3r 148ft  4x4",
+        "summary": "3.5*  <i>4B</i>   (v4a2)   3r 148ft  4x4",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Coffs Harbour"
         ],
@@ -4599,7 +4599,7 @@
       "properties": {
         "name": "Gold",
         "url": "https://ropewiki.com/Gold",
-        "summary": "5*  <i>3B</i>   (v3a2 I)",
+        "summary": "4*  <i>3B</i>   (v3a2 I)",
         "regions": [
           "Pacific;Australia;Queensland;Townsville"
         ],
@@ -5893,7 +5893,7 @@
       "properties": {
         "name": "Kinnanes Falls",
         "url": "https://ropewiki.com/Kinnanes_Falls",
-        "summary": "4.4*  <i>4B</i>   (v4a2)   3r 184ft",
+        "summary": "4.5*  <i>4B</i>   (v4a2)   3r 184ft",
         "regions": [
           "Pacific;Australia;Queensland;Brisbane"
         ],
@@ -6317,7 +6317,7 @@
       "properties": {
         "name": "Love Creek Falls",
         "url": "https://ropewiki.com/Love_Creek_Falls",
-        "summary": "2.6*  <i>3B</i>   (v3a2)   3r 98ft",
+        "summary": "2.5*  <i>3B</i>   (v3a2)   3r 98ft",
         "regions": [
           "Pacific;Australia;Queensland;Brisbane"
         ],
@@ -6847,7 +6847,7 @@
       "properties": {
         "name": "Mount Greville Crack",
         "url": "https://ropewiki.com/Mount_Greville_Crack",
-        "summary": "3.5*  2A II PG (v4a1 III) 2h-5h  4r 148ft",
+        "summary": "3.3*  2A II PG (v4a1 III) 2h-5h  4r 148ft",
         "regions": [
           "Pacific;Australia;Queensland;Brisbane"
         ],
@@ -11213,7 +11213,7 @@
       "properties": {
         "name": "Yabba Falls",
         "url": "https://ropewiki.com/Yabba_Falls",
-        "summary": "4*",
+        "summary": "3.5*",
         "regions": [
           "Pacific;Australia;Queensland;Brisbane"
         ],
