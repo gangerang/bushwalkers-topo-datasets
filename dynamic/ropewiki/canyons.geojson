@@ -6532,6 +6532,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.0194,
+          -34.7938
+        ]
+      },
+      "properties": {
+        "name": "Main Gully",
+        "url": "https://ropewiki.com/Main_Gully",
+        "summary": "<i>3A</i>   (v3a1 III)   9r 115ft",
+        "regions": [
+          "Pacific;Australia;New South Wales;Southern NSW;Bungonia"
+        ],
+        "major_region": "[[Bungonia]] ([[:Australia|Australia]])",
+        "rappels": "9-12r",
+        "longest_rappel": {
+          "value": 114.8294,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 35.0,
+        "pageid": "104356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.5853,
           -31.8201
         ]
