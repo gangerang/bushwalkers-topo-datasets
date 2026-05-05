@@ -1520,14 +1520,17 @@
       "properties": {
         "name": "Bulga Falls",
         "url": "https://ropewiki.com/Bulga_Falls",
-        "summary": "2*",
+        "summary": "2*  <i>4C&nbsp;II</i>  (v4a3 <i>II</i>) 2h-4h  6r 164ft",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Port Macquarie Hastings"
         ],
         "major_region": "[[Port Macquarie Hastings]] ([[:Australia|Australia]])",
-        "rappels": null,
-        "longest_rappel": null,
-        "longest_rappel_m": null,
+        "rappels": "6r",
+        "longest_rappel": {
+          "value": 164.042,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 50.0,
         "pageid": "85926"
       }
     },
@@ -6539,7 +6542,7 @@
       "properties": {
         "name": "Main Gully",
         "url": "https://ropewiki.com/Main_Gully",
-        "summary": "<i>3A</i>   (v3a1 III)   9r 115ft",
+        "summary": "1.3*  <i>3A</i>   (v3a1 III)   9r 115ft",
         "regions": [
           "Pacific;Australia;New South Wales;Southern NSW;Bungonia"
         ],
