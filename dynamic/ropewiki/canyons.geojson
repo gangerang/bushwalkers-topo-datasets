@@ -7137,6 +7137,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.5266,
+          -30.3104
+        ]
+      },
+      "properties": {
+        "name": "Nymboida Narrows Canyon",
+        "url": "https://ropewiki.com/Nymboida_Narrows_Canyon",
+        "summary": "5*  <i>4C&nbsp;II</i>  (v4a3 <i>II</i>) 3h-5h  2r 98ft",
+        "regions": [
+          "Pacific;Australia;New South Wales;Northern NSW;Coffs Harbour"
+        ],
+        "major_region": "[[Coffs Harbour]] ([[:Australia|Australia]])",
+        "rappels": "2-3r",
+        "longest_rappel": {
+          "value": 98.4252,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 30.0,
+        "pageid": "77322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.0672,
           -30.5771
         ]
@@ -8563,29 +8589,6 @@
         "longest_rappel": null,
         "longest_rappel_m": null,
         "pageid": "84164"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.5275,
-          -30.3086
-        ]
-      },
-      "properties": {
-        "name": "Silent Pool",
-        "url": "https://ropewiki.com/Silent_Pool",
-        "summary": "5* POI       4x4 (UNEXPLORED)",
-        "regions": [
-          "Pacific;Australia;New South Wales;Northern NSW;Coffs Harbour"
-        ],
-        "major_region": "[[Coffs Harbour]] ([[:Australia|Australia]])",
-        "rappels": null,
-        "longest_rappel": null,
-        "longest_rappel_m": null,
-        "pageid": "77322"
       }
     },
     {
