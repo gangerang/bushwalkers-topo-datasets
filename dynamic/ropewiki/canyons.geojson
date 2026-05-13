@@ -7144,7 +7144,7 @@
       "properties": {
         "name": "Nymboida Narrows Canyon",
         "url": "https://ropewiki.com/Nymboida_Narrows_Canyon",
-        "summary": "4.6*  <i>4C&nbsp;II</i>  (v4a3 <i>II</i>) 3h-5h  2r 98ft",
+        "summary": "4.5*  <i>4C&nbsp;II</i>  (v4a3 <i>II</i>) 3h-5h  2r 98ft",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Coffs Harbour"
         ],
@@ -7170,14 +7170,17 @@
       "properties": {
         "name": "Oaky Falls",
         "url": "https://ropewiki.com/Oaky_Falls",
-        "summary": "4*",
+        "summary": "4*  <i>4B&nbsp;III</i>  (v4a2 V) 5h-7h  6r 230ft",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;New England Tableland"
         ],
         "major_region": "[[New England Tableland]] ([[:Australia|Australia]])",
-        "rappels": null,
-        "longest_rappel": null,
-        "longest_rappel_m": null,
+        "rappels": "6-7r",
+        "longest_rappel": {
+          "value": 229.6588,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 70.0,
         "pageid": "99073"
       }
     },
