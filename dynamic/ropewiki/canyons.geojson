@@ -693,7 +693,7 @@
       "properties": {
         "name": "Bells Corner Canyon",
         "url": "https://ropewiki.com/Bells_Corner_Canyon",
-        "summary": "2.9*  <i>3A&nbsp;II</i>  (v3a1 II) 2h-3.5h  3r 82ft",
+        "summary": "3.1*  <i>3A&nbsp;II</i>  (v3a1 II) 2h-3.5h  3r 82ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -1278,7 +1278,7 @@
       "properties": {
         "name": "Bowens Creek North (Upper)",
         "url": "https://ropewiki.com/Bowens_Creek_North_(Upper)",
-        "summary": "2*  <i>3B</i>   (v2a2)",
+        "summary": "2.5*  <i>3B</i>   (v2a2)",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -3042,7 +3042,7 @@
       "properties": {
         "name": "Devils Pinch",
         "url": "https://ropewiki.com/Devils_Pinch",
-        "summary": "2*  <i>3B</i>   (v3a2 III)    66ft",
+        "summary": "2.1*  <i>3B</i>   (v3a2 III)    66ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Wolgan Valley"
         ],
@@ -3581,7 +3581,7 @@
       "properties": {
         "name": "Eulah Creek",
         "url": "https://ropewiki.com/Eulah_Creek",
-        "summary": "3B III  (v3a2 IV) 7h-9h  4r 98ft",
+        "summary": "3*  3B III  (v3a2 IV) 7h-9h  4r 98ft",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW"
         ],
@@ -4152,7 +4152,7 @@
       "properties": {
         "name": "Fortress",
         "url": "https://ropewiki.com/Fortress",
-        "summary": "2.5*  <i>3B&nbsp;III</i>  (v2a2 II) 4h-6h  1r 26ft",
+        "summary": "2.6*  <i>3B&nbsp;III</i>  (v2a2 II) 4h-6h  1r 26ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -4985,7 +4985,7 @@
       "properties": {
         "name": "Hat Hill",
         "url": "https://ropewiki.com/Hat_Hill",
-        "summary": "3.4*  <i>2B</i>   (v1a2 II)   0r 0ft",
+        "summary": "3.3*  <i>2B</i>   (v1a2 II)   0r 0ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -5671,7 +5671,7 @@
       "properties": {
         "name": "Jugglers",
         "url": "https://ropewiki.com/Jugglers",
-        "summary": "2.3*  <i>3A&nbsp;II</i>  (v3a1 II) 3h-4h  3r 66ft",
+        "summary": "2.4*  <i>3A&nbsp;II</i>  (v3a1 II) 3h-4h  3r 66ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -6320,7 +6320,7 @@
       "properties": {
         "name": "Love Creek Falls",
         "url": "https://ropewiki.com/Love_Creek_Falls",
-        "summary": "2.5*  <i>3B</i>   (v3a2)   3r 98ft",
+        "summary": "2.4*  <i>3B</i>   (v3a2)   3r 98ft",
         "regions": [
           "Pacific;Australia;Queensland;Brisbane"
         ],
@@ -7542,7 +7542,7 @@
       "properties": {
         "name": "Pipeline",
         "url": "https://ropewiki.com/Pipeline",
-        "summary": "2.5*  <i>3B&nbsp;III</i>  (v3a2 III) 5h-7h  6r 89ft",
+        "summary": "2.6*  <i>3B&nbsp;III</i>  (v3a2 III) 5h-7h  6r 89ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Wolgan Valley"
         ],
@@ -7738,7 +7738,7 @@
       "properties": {
         "name": "Ranon",
         "url": "https://ropewiki.com/Ranon",
-        "summary": "4*  3<i>B</i>   (v3a2 IV)   5r 66ft",
+        "summary": "4.3*  3<i>B</i>   (v3a2 IV)   5r 66ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -9514,7 +9514,7 @@
       "properties": {
         "name": "Teviot Falls",
         "url": "https://ropewiki.com/Teviot_Falls",
-        "summary": "<i>4C</i>   (v4a3)   1r 262ft",
+        "summary": "3*  <i>4C</i>   (v4a3)   1r 262ft",
         "regions": [
           "Pacific;Australia;Queensland;Brisbane"
         ],
@@ -10091,7 +10091,7 @@
       "properties": {
         "name": "Two Creeks (Copeland Tops)",
         "url": "https://ropewiki.com/Two_Creeks_(Copeland_Tops)",
-        "summary": null,
+        "summary": "2*",
         "regions": [
           "Pacific;Australia;New South Wales;Northern NSW;Barrington Tops"
         ],
@@ -11069,7 +11069,7 @@
       "properties": {
         "name": "Wollangambe 1",
         "url": "https://ropewiki.com/Wollangambe_1",
-        "summary": "3.3*  <i>2A&nbsp;III</i>  (v1a1 IV) 5h-5.5h  0r 0ft",
+        "summary": "3.4*  <i>2A&nbsp;III</i>  (v1a1 IV) 5h-5.5h  0r 0ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -11095,7 +11095,7 @@
       "properties": {
         "name": "Wollangambe 2",
         "url": "https://ropewiki.com/Wollangambe_2",
-        "summary": "3.6*  <i>2C&nbsp;III</i>  (v1a3 IV) 5h-6h  0r 0ft",
+        "summary": "3.3*  <i>2C&nbsp;III</i>  (v1a3 IV) 5h-6h  0r 0ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -11196,7 +11196,7 @@
       "properties": {
         "name": "Wowsers",
         "url": "https://ropewiki.com/Wowsers",
-        "summary": "4.4*  <i>3B</i>   (v3a2)   11r 131ft",
+        "summary": "3.4*  <i>3B</i>   (v3a2)   11r 131ft",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Glen Davis"
         ],
