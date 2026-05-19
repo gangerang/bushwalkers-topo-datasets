@@ -1879,6 +1879,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.5936,
+          -17.643
+        ]
+      },
+      "properties": {
+        "name": "Cannabullen",
+        "url": "https://ropewiki.com/Cannabullen",
+        "summary": null,
+        "regions": [
+          "Pacific;Australia;Queensland;Townsville"
+        ],
+        "major_region": "[[Townsville]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "103939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.3524,
           -33.3938
         ]
@@ -4985,7 +5008,7 @@
       "properties": {
         "name": "Hat Hill",
         "url": "https://ropewiki.com/Hat_Hill",
-        "summary": "3.3*  <i>2B</i>   (v1a2 II)   0r 0ft",
+        "summary": "3*  <i>2B</i>   (v1a2 II)   0r 0ft",
         "regions": [
           "Pacific;Australia;New South Wales;Blue Mountains"
         ],
@@ -8026,7 +8049,7 @@
       "properties": {
         "name": "Rocky Creek",
         "url": "https://ropewiki.com/Rocky_Creek",
-        "summary": "4.3*  <i>2B&nbsp;II</i>  (v1a2 II) 2h-4.5h  0r",
+        "summary": "4*  <i>2B&nbsp;II</i>  (v1a2 II) 2h-4.5h  0r",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Newnes Plateau"
         ],
@@ -8471,6 +8494,29 @@
         },
         "longest_rappel_m": 60.0,
         "pageid": "86708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7099,
+          -18.4388
+        ]
+      },
+      "properties": {
+        "name": "Shield",
+        "url": "https://ropewiki.com/Shield",
+        "summary": null,
+        "regions": [
+          "Pacific;Australia;Queensland;Townsville"
+        ],
+        "major_region": "[[Townsville]] ([[:Australia|Australia]])",
+        "rappels": null,
+        "longest_rappel": null,
+        "longest_rappel_m": null,
+        "pageid": "104891"
       }
     },
     {
@@ -9409,8 +9455,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7116,
-          -18.4425
+          145.7118,
+          -18.4424
         ]
       },
       "properties": {
