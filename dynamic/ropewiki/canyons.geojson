@@ -176,6 +176,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.2861,
+          -33.3616
+        ]
+      },
+      "properties": {
+        "name": "Aphrodite Abseil",
+        "url": "https://ropewiki.com/Aphrodite_Abseil",
+        "summary": "3B I  (v4a2 I)   1r 187ft",
+        "regions": [
+          "Pacific;Australia;New South Wales;Wollemi;Newnes Plateau"
+        ],
+        "major_region": "[[Newnes Plateau]] ([[:Australia|Australia]])",
+        "rappels": "1r",
+        "longest_rappel": {
+          "value": 187.00788,
+          "unit": "ft"
+        },
+        "longest_rappel_m": 57.0,
+        "pageid": "105291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.7692,
           -31.0496
         ]
