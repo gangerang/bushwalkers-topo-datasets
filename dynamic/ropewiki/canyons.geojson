@@ -3012,14 +3012,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.3076,
-          -33.3396
+          150.3039,
+          -33.3433
         ]
       },
       "properties": {
         "name": "Deep Pass",
         "url": "https://ropewiki.com/Deep_Pass",
-        "summary": "2*  <i>2B</i>   (v1a2 II)   0r",
+        "summary": "2*  <i>2A</i>   (v1a1 II)   0r",
         "regions": [
           "Pacific;Australia;New South Wales;Wollemi;Newnes Plateau"
         ],
