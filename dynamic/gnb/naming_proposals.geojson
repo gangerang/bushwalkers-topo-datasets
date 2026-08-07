@@ -1,4 +1,45 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.719754,
+                    -33.893644
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "05e2e670-75e4-4d0b-9edb-62f53900a399",
+                "geoname_identifier": "6fb16400-2118-446e-8674-3dfbe23bacd0",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/05e2e670-75e4-4d0b-9edb-62f53900a399",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/6fb16400-2118-446e-8674-3dfbe23bacd0",
+                "geographical_name": "WSI Airport Railway Station",
+                "date_start": "2026-08-07",
+                "date_end": "2026-09-06",
+                "designation": "RAILWAY STATION"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.259613,
+                    -33.924964
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "244e5052-5218-4d4b-a3e1-1f73c7e866c9",
+                "geoname_identifier": "63bc7ace-7e99-42d3-bd42-2ad25c370329",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/244e5052-5218-4d4b-a3e1-1f73c7e866c9",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/63bc7ace-7e99-42d3-bd42-2ad25c370329",
+                "geographical_name": "Yanggaa Kelp Forest",
+                "date_start": "2026-08-07",
+                "date_end": "2026-09-06",
+                "designation": "WATER FEATURE"
+            }
+        }
+    ]
 }
