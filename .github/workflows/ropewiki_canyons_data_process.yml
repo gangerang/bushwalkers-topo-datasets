@@ -1,8 +1,11 @@
 name: Ropewiki canyons data processing workflow
 
 on:
-  schedule:
-    - cron: '0 7 * * 0-6'  # Daily at 7am UTC
+  # Schedule disabled: ropewiki.com is behind a Cloudflare bot challenge that
+  # returns HTTP 403 to every non-browser client, so the daily run has failed
+  # since 2026-07-24. Re-enable once Ropewiki allows automated access again.
+  # schedule:
+  #   - cron: '0 7 * * 0-6'  # Daily at 7am UTC
   workflow_dispatch:
 
 jobs:
