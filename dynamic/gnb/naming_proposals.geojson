@@ -1,4 +1,85 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.551066,
+                    -28.48173
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "65388f88-6f02-40aa-a081-0b874e88571e",
+                "geoname_identifier": "49cdba80-9b05-46fa-8974-0cd605274d9a",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/65388f88-6f02-40aa-a081-0b874e88571e",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/49cdba80-9b05-46fa-8974-0cd605274d9a",
+                "geographical_name": "Crabbes Creek Beach",
+                "date_start": "2026-09-25",
+                "date_end": "2026-10-25",
+                "designation": "BEACH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.5519,
+                    -28.5034
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "db533b73-4194-4044-96d7-2f2876a41dc0",
+                "geoname_identifier": "4682499d-34d3-41a0-953d-6100608a5b81",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/db533b73-4194-4044-96d7-2f2876a41dc0",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/4682499d-34d3-41a0-953d-6100608a5b81",
+                "geographical_name": "New Brighton Beach",
+                "date_start": "2026-09-25",
+                "date_end": "2026-10-25",
+                "designation": "BEACH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.5522,
+                    -28.4861
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "5b0ee64f-402b-42d0-ae0a-b5b4201ea4ea",
+                "geoname_identifier": "583925b0-6756-43d2-853a-1012354d77b3",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/5b0ee64f-402b-42d0-ae0a-b5b4201ea4ea",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/583925b0-6756-43d2-853a-1012354d77b3",
+                "geographical_name": "South Golden Beach ",
+                "date_start": "2026-09-25",
+                "date_end": "2026-10-25",
+                "designation": "BEACH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.5524,
+                    -28.4772
+                ]
+            },
+            "properties": {
+                "advertisement_identifier": "80e88eb4-afb4-4bac-86f7-61a8fe6ff00e",
+                "geoname_identifier": "c18058da-a886-4b54-a4ca-4393c1854c27",
+                "advertisement_url": "https://proposals.gnb.nsw.gov.au/currentproposals/80e88eb4-afb4-4bac-86f7-61a8fe6ff00e",
+                "geoname_url": "https://proposals.gnb.nsw.gov.au/public/geonames/c18058da-a886-4b54-a4ca-4393c1854c27",
+                "geographical_name": "Wooyung Beach",
+                "date_start": "2026-09-25",
+                "date_end": "2026-10-25",
+                "designation": "BEACH"
+            }
+        }
+    ]
 }
